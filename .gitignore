@@ -1,0 +1,43 @@
+# 环境变量和密钥（最重要）
+*.env
+.env
+.env.*
+!.env.example
+
+# 依赖
+node_modules/
+
+# 构建产物
+dist/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Fly.io (不再使用)
+.fly/
+
+# Docker
+Dockerfile
+.dockerignore
+fly.toml
+
+# 原始数据（太大，不上传 GitHub）
+raw/
+
+# CodeBuddy / WorkBuddy
+.workbuddy/
+.codebuddy/
+
+# 构建缓存
+*.log

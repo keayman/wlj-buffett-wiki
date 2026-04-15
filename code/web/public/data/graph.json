@@ -1,0 +1,11060 @@
+{
+  "nodes": [
+    {
+      "id": "买入价格",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "企业文化",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "低估",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "保险业",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "保险浮存金",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "债券",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "公司治理",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "内在价值",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "分散投资",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "可转换证券",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "品牌",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "商业模式",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "商誉",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "回购",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "复利",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "套利",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "媒体与出版",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "安全边际",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "市场先生",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "市场预测",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "市盈率",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "承保纪律",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "护城河",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "收购",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "有效市场",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "杠杆",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "特许经营权",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "留存收益",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "科技与互联网",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "税收效率",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "竞争优势",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "管理层",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "纺织业务",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "股东导向",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "股息",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "能力圈",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "能源",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "航空业",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "衍生品",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "诚信",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "账面价值",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "资本配置",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "透视盈余",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "通货膨胀",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "铁路运输",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "银行业",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "长期持有",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "集中投资",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "零售与消费",
+      "type": "concept",
+      "category": "concepts"
+    },
+    {
+      "id": "BNSF铁路",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "IBM",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "三井物产",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "三菱商事",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "世界图书百科全书",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "中国石油",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "中美能源",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "伊斯卡",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "伊藤忠商事",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "伯克希尔哈撒韦",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "伯克希尔哈撒韦能源",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "克莱顿房屋",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "内布拉斯加家具店",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "冰雪皇后",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "利捷航空",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "华盛顿邮报",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "卡夫亨氏",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "可口可乐",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "吉列",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "喜诗糖果",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "国民保险公司",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "大都会通信",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "威利家居",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "威瑞森通讯",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "富国银行",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "州立农业保险",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "布法罗新闻报",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "康菲石油",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "德克斯特鞋业",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "房地美",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "所罗门",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "斯科特费泽",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "森林河公司",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "比亚迪",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "波仙珠宝",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "特许通讯",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "盖可保险",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "科比吸尘器",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "穆迪",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "精密铸件",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "约翰斯曼维尔",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "纽约梅隆银行",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "美国合众银行",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "美国家庭服务",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "美国运通",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "美国银行",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "苹果",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "蓝筹印花",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "西方石油",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "费希海默制服",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "路博润",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "通用再保险",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "通用汽车",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "通用电气",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "雪佛龙",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "韦斯科",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "飞安公司",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "马蒙集团",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "高盛",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "鲜果布衣",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "麦克莱恩",
+      "type": "company",
+      "category": "companies"
+    },
+    {
+      "id": "B夫人",
+      "type": "person",
+      "category": "people"
+    },
+    {
+      "id": "托德·库姆斯",
+      "type": "person",
+      "category": "people"
+    },
+    {
+      "id": "格雷厄姆",
+      "type": "person",
+      "category": "people"
+    },
+    {
+      "id": "格雷格·阿贝尔",
+      "type": "person",
+      "category": "people"
+    },
+    {
+      "id": "泰德·韦施勒",
+      "type": "person",
+      "category": "people"
+    },
+    {
+      "id": "芒格",
+      "type": "person",
+      "category": "people"
+    },
+    {
+      "id": "阿吉特·贾恩",
+      "type": "person",
+      "category": "people"
+    },
+    {
+      "id": "1985巴菲特电视采访",
+      "type": "interview-summary",
+      "category": "interviews"
+    },
+    {
+      "id": "1990年巴菲特在斯坦福大学的演讲",
+      "type": "interview-summary",
+      "category": "interviews"
+    },
+    {
+      "id": "1991巴菲特对圣母大学对MBA学生的演讲",
+      "type": "interview-summary",
+      "category": "interviews"
+    },
+    {
+      "id": "1998巴菲特在佛罗里达大学商学院的演讲",
+      "type": "interview-summary",
+      "category": "interviews"
+    },
+    {
+      "id": "1998年巴菲特与比尔盖茨在华盛顿大学的对话",
+      "type": "interview-summary",
+      "category": "interviews"
+    },
+    {
+      "id": "2005堪萨斯商学院学生于伯克希尔总部与沃伦·巴菲特的问答",
+      "type": "interview-summary",
+      "category": "interviews"
+    },
+    {
+      "id": "2007年央视专访巴菲特",
+      "type": "interview-summary",
+      "category": "interviews"
+    },
+    {
+      "id": "2008巴菲特答Emory与Austin大学商学院学生问巴菲特答",
+      "type": "interview-summary",
+      "category": "interviews"
+    },
+    {
+      "id": "2010央视财经采访巴菲特",
+      "type": "interview-summary",
+      "category": "interviews"
+    },
+    {
+      "id": "2010年CNBC采访巴菲特全文",
+      "type": "interview-summary",
+      "category": "interviews"
+    },
+    {
+      "id": "2011年巴菲特与南京大学EMBA学生畅言谈投资与人生全中文纪录",
+      "type": "interview-summary",
+      "category": "interviews"
+    },
+    {
+      "id": "2013巴菲特与马里兰大学MBA学生的交流发言",
+      "type": "interview-summary",
+      "category": "interviews"
+    },
+    {
+      "id": "2015沃伦·巴菲特答Ivey商学院MBA学生问沃伦·巴菲特答",
+      "type": "interview-summary",
+      "category": "interviews"
+    },
+    {
+      "id": "2016年巴菲特与8所大学MBA学生见面会的20个问答",
+      "type": "interview-summary",
+      "category": "interviews"
+    },
+    {
+      "id": "2017年CNBC采访巴菲特",
+      "type": "interview-summary",
+      "category": "interviews"
+    },
+    {
+      "id": "2017年哥伦比亚大学——人生最美好的事是什么？巴菲特：没考上哈佛大学",
+      "type": "interview-summary",
+      "category": "interviews"
+    },
+    {
+      "id": "2017年巴菲特对话北京大学学生：最好的投资是投资自己",
+      "type": "interview-summary",
+      "category": "interviews"
+    },
+    {
+      "id": "2018年巴菲特再度邀请北大光华学子共进午餐问答全记录",
+      "type": "interview-summary",
+      "category": "interviews"
+    },
+    {
+      "id": "2019年5月雅虎财经专访巴菲特",
+      "type": "interview-summary",
+      "category": "interviews"
+    },
+    {
+      "id": "2020年沃伦·巴菲特接受CNBC专访",
+      "type": "interview-summary",
+      "category": "interviews"
+    },
+    {
+      "id": "2022巴菲特和查理罗斯对谈",
+      "type": "interview-summary",
+      "category": "interviews"
+    },
+    {
+      "id": "2023年伯克希尔股东大会",
+      "type": "interview-summary",
+      "category": "interviews"
+    },
+    {
+      "id": "2024年伯克希尔股东大会",
+      "type": "interview-summary",
+      "category": "interviews"
+    },
+    {
+      "id": "2025年伯克希尔股东大会",
+      "type": "interview-summary",
+      "category": "interviews"
+    },
+    {
+      "id": "extra_1998_buffett_florida",
+      "type": "interview-summary",
+      "category": "interviews"
+    },
+    {
+      "id": "extra_2013_University_of_Maryland",
+      "type": "interview-summary",
+      "category": "interviews"
+    },
+    {
+      "id": "1956 有限合伙协议",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1957 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1958 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1959 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1960 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1961 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1961年中 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1962 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1962年11月 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1962年12月 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1962年中 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1963 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1963年11月 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1963年12月 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1963年中 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1964 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1964年中 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1965 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1965 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1965年11月 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1965年中 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1966 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1966 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1966年11月 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1966年中 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1967 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1967 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1967年10月 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1967年11月 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1967年中 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1968 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1968 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1968年11月 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1968年中 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1969 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1969年10月 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1969年12月 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1969年12月26日 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1969年5月 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1970 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1970年2月 巴菲特致合伙人信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1971 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1972 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1973 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1974 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1975 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1976 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1977 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1978 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1979 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1980 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1981 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1982 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1983 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1984 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1985 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1986 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1987 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1988 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1989 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1990 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1991 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1992 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1993 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1994 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1995 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1996 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1997 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1998 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "1999 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "2000 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "2001 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "2002 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "2003 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "2004 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "2005 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "2006 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "2007 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "2008 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "2009 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "2010 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "2011 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "2012 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "2013 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "2014 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "2015 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "2016 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "2017 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "2018 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "2019 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "2020 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "2021 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "2022 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "2023 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "2024 巴菲特致股东信",
+      "type": "letter-summary",
+      "category": "letters"
+    },
+    {
+      "id": "现代投资组合理论",
+      "type": "unknown",
+      "category": "unknown"
+    },
+    {
+      "id": "长期资本管理公司",
+      "type": "unknown",
+      "category": "unknown"
+    },
+    {
+      "id": "巴菲特",
+      "type": "unknown",
+      "category": "unknown"
+    },
+    {
+      "id": "市场体系",
+      "type": "unknown",
+      "category": "unknown"
+    },
+    {
+      "id": "美国航空",
+      "type": "unknown",
+      "category": "unknown"
+    },
+    {
+      "id": "道琼斯工业指数",
+      "type": "unknown",
+      "category": "unknown"
+    },
+    {
+      "id": "登普斯特风车制造公司",
+      "type": "unknown",
+      "category": "unknown"
+    },
+    {
+      "id": "道琼斯指数",
+      "type": "unknown",
+      "category": "unknown"
+    },
+    {
+      "id": "登普斯特农具机械制造公司",
+      "type": "unknown",
+      "category": "unknown"
+    },
+    {
+      "id": "蓝筹印花公司",
+      "type": "unknown",
+      "category": "unknown"
+    },
+    {
+      "id": "每股收益",
+      "type": "unknown",
+      "category": "unknown"
+    },
+    {
+      "id": "通用食品",
+      "type": "unknown",
+      "category": "unknown"
+    },
+    {
+      "id": "市场价值",
+      "type": "unknown",
+      "category": "unknown"
+    },
+    {
+      "id": "透视收益",
+      "type": "unknown",
+      "category": "unknown"
+    },
+    {
+      "id": "飞安国际",
+      "type": "unknown",
+      "category": "unknown"
+    },
+    {
+      "id": "浮存金",
+      "type": "unknown",
+      "category": "unknown"
+    }
+  ],
+  "edges": [
+    {
+      "source": "买入价格",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "买入价格",
+      "target": "芒格"
+    },
+    {
+      "source": "买入价格",
+      "target": "内在价值"
+    },
+    {
+      "source": "买入价格",
+      "target": "市盈率"
+    },
+    {
+      "source": "买入价格",
+      "target": "留存收益"
+    },
+    {
+      "source": "买入价格",
+      "target": "低估"
+    },
+    {
+      "source": "买入价格",
+      "target": "安全边际"
+    },
+    {
+      "source": "买入价格",
+      "target": "管理层"
+    },
+    {
+      "source": "买入价格",
+      "target": "商业模式"
+    },
+    {
+      "source": "买入价格",
+      "target": "收购"
+    },
+    {
+      "source": "买入价格",
+      "target": "账面价值"
+    },
+    {
+      "source": "买入价格",
+      "target": "能力圈"
+    },
+    {
+      "source": "买入价格",
+      "target": "市场先生"
+    },
+    {
+      "source": "买入价格",
+      "target": "长期持有"
+    },
+    {
+      "source": "买入价格",
+      "target": "可口可乐"
+    },
+    {
+      "source": "买入价格",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "买入价格",
+      "target": "德克斯特鞋业"
+    },
+    {
+      "source": "企业文化",
+      "target": "竞争优势"
+    },
+    {
+      "source": "企业文化",
+      "target": "股东导向"
+    },
+    {
+      "source": "企业文化",
+      "target": "内在价值"
+    },
+    {
+      "source": "企业文化",
+      "target": "品牌"
+    },
+    {
+      "source": "企业文化",
+      "target": "保险业"
+    },
+    {
+      "source": "企业文化",
+      "target": "收购"
+    },
+    {
+      "source": "企业文化",
+      "target": "管理层"
+    },
+    {
+      "source": "企业文化",
+      "target": "承保纪律"
+    },
+    {
+      "source": "企业文化",
+      "target": "通用再保险"
+    },
+    {
+      "source": "企业文化",
+      "target": "护城河"
+    },
+    {
+      "source": "企业文化",
+      "target": "商业模式"
+    },
+    {
+      "source": "企业文化",
+      "target": "盖可保险"
+    },
+    {
+      "source": "企业文化",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "低估",
+      "target": "内在价值"
+    },
+    {
+      "source": "低估",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "低估",
+      "target": "安全边际"
+    },
+    {
+      "source": "低估",
+      "target": "套利"
+    },
+    {
+      "source": "低估",
+      "target": "账面价值"
+    },
+    {
+      "source": "低估",
+      "target": "收购"
+    },
+    {
+      "source": "低估",
+      "target": "债券"
+    },
+    {
+      "source": "低估",
+      "target": "保险业"
+    },
+    {
+      "source": "低估",
+      "target": "回购"
+    },
+    {
+      "source": "低估",
+      "target": "资本配置"
+    },
+    {
+      "source": "低估",
+      "target": "管理层"
+    },
+    {
+      "source": "低估",
+      "target": "市盈率"
+    },
+    {
+      "source": "低估",
+      "target": "纺织业务"
+    },
+    {
+      "source": "低估",
+      "target": "股息"
+    },
+    {
+      "source": "低估",
+      "target": "市场先生"
+    },
+    {
+      "source": "低估",
+      "target": "能力圈"
+    },
+    {
+      "source": "低估",
+      "target": "分散投资"
+    },
+    {
+      "source": "低估",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "低估",
+      "target": "盖可保险"
+    },
+    {
+      "source": "低估",
+      "target": "可口可乐"
+    },
+    {
+      "source": "保险业",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "保险业",
+      "target": "收购"
+    },
+    {
+      "source": "保险业",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "保险业",
+      "target": "商业模式"
+    },
+    {
+      "source": "保险业",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "保险业",
+      "target": "杠杆"
+    },
+    {
+      "source": "保险业",
+      "target": "承保纪律"
+    },
+    {
+      "source": "保险业",
+      "target": "护城河"
+    },
+    {
+      "source": "保险业",
+      "target": "阿吉特·贾恩"
+    },
+    {
+      "source": "保险业",
+      "target": "通用再保险"
+    },
+    {
+      "source": "保险业",
+      "target": "盖可保险"
+    },
+    {
+      "source": "保险业",
+      "target": "资本配置"
+    },
+    {
+      "source": "保险业",
+      "target": "纺织业务"
+    },
+    {
+      "source": "保险浮存金",
+      "target": "收购"
+    },
+    {
+      "source": "保险浮存金",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "保险浮存金",
+      "target": "内在价值"
+    },
+    {
+      "source": "保险浮存金",
+      "target": "杠杆"
+    },
+    {
+      "source": "保险浮存金",
+      "target": "低估"
+    },
+    {
+      "source": "保险浮存金",
+      "target": "盖可保险"
+    },
+    {
+      "source": "保险浮存金",
+      "target": "承保纪律"
+    },
+    {
+      "source": "保险浮存金",
+      "target": "通用再保险"
+    },
+    {
+      "source": "保险浮存金",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "保险浮存金",
+      "target": "阿吉特·贾恩"
+    },
+    {
+      "source": "保险浮存金",
+      "target": "竞争优势"
+    },
+    {
+      "source": "保险浮存金",
+      "target": "高盛"
+    },
+    {
+      "source": "保险浮存金",
+      "target": "通用电气"
+    },
+    {
+      "source": "保险浮存金",
+      "target": "账面价值"
+    },
+    {
+      "source": "保险浮存金",
+      "target": "资本配置"
+    },
+    {
+      "source": "保险浮存金",
+      "target": "复利"
+    },
+    {
+      "source": "债券",
+      "target": "通货膨胀"
+    },
+    {
+      "source": "债券",
+      "target": "长期持有"
+    },
+    {
+      "source": "债券",
+      "target": "账面价值"
+    },
+    {
+      "source": "债券",
+      "target": "套利"
+    },
+    {
+      "source": "债券",
+      "target": "收购"
+    },
+    {
+      "source": "债券",
+      "target": "复利"
+    },
+    {
+      "source": "债券",
+      "target": "安全边际"
+    },
+    {
+      "source": "债券",
+      "target": "杠杆"
+    },
+    {
+      "source": "债券",
+      "target": "资本配置"
+    },
+    {
+      "source": "公司治理",
+      "target": "管理层"
+    },
+    {
+      "source": "公司治理",
+      "target": "股东导向"
+    },
+    {
+      "source": "公司治理",
+      "target": "诚信"
+    },
+    {
+      "source": "公司治理",
+      "target": "资本配置"
+    },
+    {
+      "source": "内在价值",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "内在价值",
+      "target": "账面价值"
+    },
+    {
+      "source": "内在价值",
+      "target": "管理层"
+    },
+    {
+      "source": "内在价值",
+      "target": "债券"
+    },
+    {
+      "source": "内在价值",
+      "target": "留存收益"
+    },
+    {
+      "source": "内在价值",
+      "target": "收购"
+    },
+    {
+      "source": "内在价值",
+      "target": "航空业"
+    },
+    {
+      "source": "内在价值",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "内在价值",
+      "target": "品牌"
+    },
+    {
+      "source": "内在价值",
+      "target": "商誉"
+    },
+    {
+      "source": "内在价值",
+      "target": "可口可乐"
+    },
+    {
+      "source": "内在价值",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "内在价值",
+      "target": "纺织业务"
+    },
+    {
+      "source": "内在价值",
+      "target": "资本配置"
+    },
+    {
+      "source": "内在价值",
+      "target": "回购"
+    },
+    {
+      "source": "内在价值",
+      "target": "苹果"
+    },
+    {
+      "source": "内在价值",
+      "target": "美国运通"
+    },
+    {
+      "source": "内在价值",
+      "target": "芒格"
+    },
+    {
+      "source": "内在价值",
+      "target": "安全边际"
+    },
+    {
+      "source": "内在价值",
+      "target": "市场先生"
+    },
+    {
+      "source": "内在价值",
+      "target": "透视盈余"
+    },
+    {
+      "source": "内在价值",
+      "target": "护城河"
+    },
+    {
+      "source": "内在价值",
+      "target": "能力圈"
+    },
+    {
+      "source": "内在价值",
+      "target": "盖可保险"
+    },
+    {
+      "source": "内在价值",
+      "target": "竞争优势"
+    },
+    {
+      "source": "内在价值",
+      "target": "德克斯特鞋业"
+    },
+    {
+      "source": "分散投资",
+      "target": "竞争优势"
+    },
+    {
+      "source": "分散投资",
+      "target": "管理层"
+    },
+    {
+      "source": "分散投资",
+      "target": "内在价值"
+    },
+    {
+      "source": "分散投资",
+      "target": "杠杆"
+    },
+    {
+      "source": "分散投资",
+      "target": "集中投资"
+    },
+    {
+      "source": "分散投资",
+      "target": "可口可乐"
+    },
+    {
+      "source": "分散投资",
+      "target": "美国运通"
+    },
+    {
+      "source": "分散投资",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "分散投资",
+      "target": "盖可保险"
+    },
+    {
+      "source": "分散投资",
+      "target": "苹果"
+    },
+    {
+      "source": "分散投资",
+      "target": "有效市场"
+    },
+    {
+      "source": "分散投资",
+      "target": "安全边际"
+    },
+    {
+      "source": "分散投资",
+      "target": "套利"
+    },
+    {
+      "source": "分散投资",
+      "target": "长期持有"
+    },
+    {
+      "source": "分散投资",
+      "target": "收购"
+    },
+    {
+      "source": "分散投资",
+      "target": "能力圈"
+    },
+    {
+      "source": "可转换证券",
+      "target": "债券"
+    },
+    {
+      "source": "可转换证券",
+      "target": "收购"
+    },
+    {
+      "source": "可转换证券",
+      "target": "低估"
+    },
+    {
+      "source": "可转换证券",
+      "target": "资本配置"
+    },
+    {
+      "source": "可转换证券",
+      "target": "管理层"
+    },
+    {
+      "source": "可转换证券",
+      "target": "安全边际"
+    },
+    {
+      "source": "可转换证券",
+      "target": "所罗门"
+    },
+    {
+      "source": "可转换证券",
+      "target": "吉列"
+    },
+    {
+      "source": "可转换证券",
+      "target": "股息"
+    },
+    {
+      "source": "品牌",
+      "target": "护城河"
+    },
+    {
+      "source": "品牌",
+      "target": "特许经营权"
+    },
+    {
+      "source": "品牌",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "品牌",
+      "target": "账面价值"
+    },
+    {
+      "source": "品牌",
+      "target": "收购"
+    },
+    {
+      "source": "品牌",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "品牌",
+      "target": "可口可乐"
+    },
+    {
+      "source": "品牌",
+      "target": "吉列"
+    },
+    {
+      "source": "品牌",
+      "target": "盖可保险"
+    },
+    {
+      "source": "品牌",
+      "target": "美国运通"
+    },
+    {
+      "source": "品牌",
+      "target": "保险业"
+    },
+    {
+      "source": "品牌",
+      "target": "商业模式"
+    },
+    {
+      "source": "品牌",
+      "target": "长期持有"
+    },
+    {
+      "source": "品牌",
+      "target": "商誉"
+    },
+    {
+      "source": "品牌",
+      "target": "竞争优势"
+    },
+    {
+      "source": "商业模式",
+      "target": "管理层"
+    },
+    {
+      "source": "商业模式",
+      "target": "可口可乐"
+    },
+    {
+      "source": "商业模式",
+      "target": "特许经营权"
+    },
+    {
+      "source": "商业模式",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "商业模式",
+      "target": "能源"
+    },
+    {
+      "source": "商业模式",
+      "target": "留存收益"
+    },
+    {
+      "source": "商业模式",
+      "target": "护城河"
+    },
+    {
+      "source": "商业模式",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "商业模式",
+      "target": "竞争优势"
+    },
+    {
+      "source": "商业模式",
+      "target": "内在价值"
+    },
+    {
+      "source": "商业模式",
+      "target": "盖可保险"
+    },
+    {
+      "source": "商业模式",
+      "target": "承保纪律"
+    },
+    {
+      "source": "商誉",
+      "target": "收购"
+    },
+    {
+      "source": "商誉",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "商誉",
+      "target": "特许经营权"
+    },
+    {
+      "source": "商誉",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "商誉",
+      "target": "蓝筹印花"
+    },
+    {
+      "source": "商誉",
+      "target": "杠杆"
+    },
+    {
+      "source": "商誉",
+      "target": "管理层"
+    },
+    {
+      "source": "商誉",
+      "target": "德克斯特鞋业"
+    },
+    {
+      "source": "商誉",
+      "target": "保险业"
+    },
+    {
+      "source": "商誉",
+      "target": "盖可保险"
+    },
+    {
+      "source": "商誉",
+      "target": "竞争优势"
+    },
+    {
+      "source": "商誉",
+      "target": "账面价值"
+    },
+    {
+      "source": "商誉",
+      "target": "低估"
+    },
+    {
+      "source": "商誉",
+      "target": "护城河"
+    },
+    {
+      "source": "商誉",
+      "target": "资本配置"
+    },
+    {
+      "source": "商誉",
+      "target": "可口可乐"
+    },
+    {
+      "source": "商誉",
+      "target": "纺织业务"
+    },
+    {
+      "source": "回购",
+      "target": "收购"
+    },
+    {
+      "source": "回购",
+      "target": "资本配置"
+    },
+    {
+      "source": "回购",
+      "target": "管理层"
+    },
+    {
+      "source": "回购",
+      "target": "可口可乐"
+    },
+    {
+      "source": "回购",
+      "target": "盖可保险"
+    },
+    {
+      "source": "回购",
+      "target": "美国运通"
+    },
+    {
+      "source": "回购",
+      "target": "苹果"
+    },
+    {
+      "source": "回购",
+      "target": "股息"
+    },
+    {
+      "source": "回购",
+      "target": "账面价值"
+    },
+    {
+      "source": "回购",
+      "target": "芒格"
+    },
+    {
+      "source": "回购",
+      "target": "穆迪"
+    },
+    {
+      "source": "回购",
+      "target": "安全边际"
+    },
+    {
+      "source": "回购",
+      "target": "留存收益"
+    },
+    {
+      "source": "回购",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "复利",
+      "target": "商业模式"
+    },
+    {
+      "source": "复利",
+      "target": "管理层"
+    },
+    {
+      "source": "复利",
+      "target": "股息"
+    },
+    {
+      "source": "复利",
+      "target": "账面价值"
+    },
+    {
+      "source": "复利",
+      "target": "可口可乐"
+    },
+    {
+      "source": "复利",
+      "target": "美国运通"
+    },
+    {
+      "source": "复利",
+      "target": "纺织业务"
+    },
+    {
+      "source": "复利",
+      "target": "长期持有"
+    },
+    {
+      "source": "复利",
+      "target": "内在价值"
+    },
+    {
+      "source": "复利",
+      "target": "资本配置"
+    },
+    {
+      "source": "复利",
+      "target": "护城河"
+    },
+    {
+      "source": "复利",
+      "target": "安全边际"
+    },
+    {
+      "source": "复利",
+      "target": "盖可保险"
+    },
+    {
+      "source": "复利",
+      "target": "收购"
+    },
+    {
+      "source": "复利",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "套利",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "套利",
+      "target": "市场先生"
+    },
+    {
+      "source": "套利",
+      "target": "芒格"
+    },
+    {
+      "source": "套利",
+      "target": "杠杆"
+    },
+    {
+      "source": "套利",
+      "target": "回购"
+    },
+    {
+      "source": "套利",
+      "target": "收购"
+    },
+    {
+      "source": "套利",
+      "target": "有效市场"
+    },
+    {
+      "source": "套利",
+      "target": "集中投资"
+    },
+    {
+      "source": "套利",
+      "target": "安全边际"
+    },
+    {
+      "source": "媒体与出版",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "媒体与出版",
+      "target": "布法罗新闻报"
+    },
+    {
+      "source": "媒体与出版",
+      "target": "大都会通信"
+    },
+    {
+      "source": "媒体与出版",
+      "target": "特许经营权"
+    },
+    {
+      "source": "媒体与出版",
+      "target": "护城河"
+    },
+    {
+      "source": "媒体与出版",
+      "target": "内在价值"
+    },
+    {
+      "source": "媒体与出版",
+      "target": "收购"
+    },
+    {
+      "source": "媒体与出版",
+      "target": "低估"
+    },
+    {
+      "source": "媒体与出版",
+      "target": "品牌"
+    },
+    {
+      "source": "媒体与出版",
+      "target": "商业模式"
+    },
+    {
+      "source": "媒体与出版",
+      "target": "纺织业务"
+    },
+    {
+      "source": "媒体与出版",
+      "target": "管理层"
+    },
+    {
+      "source": "安全边际",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "安全边际",
+      "target": "能力圈"
+    },
+    {
+      "source": "安全边际",
+      "target": "可口可乐"
+    },
+    {
+      "source": "安全边际",
+      "target": "收购"
+    },
+    {
+      "source": "安全边际",
+      "target": "市盈率"
+    },
+    {
+      "source": "安全边际",
+      "target": "品牌"
+    },
+    {
+      "source": "安全边际",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "安全边际",
+      "target": "保险业"
+    },
+    {
+      "source": "安全边际",
+      "target": "商业模式"
+    },
+    {
+      "source": "安全边际",
+      "target": "账面价值"
+    },
+    {
+      "source": "安全边际",
+      "target": "芒格"
+    },
+    {
+      "source": "安全边际",
+      "target": "竞争优势"
+    },
+    {
+      "source": "安全边际",
+      "target": "护城河"
+    },
+    {
+      "source": "安全边际",
+      "target": "管理层"
+    },
+    {
+      "source": "安全边际",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "安全边际",
+      "target": "市场先生"
+    },
+    {
+      "source": "安全边际",
+      "target": "集中投资"
+    },
+    {
+      "source": "安全边际",
+      "target": "美国运通"
+    },
+    {
+      "source": "安全边际",
+      "target": "富国银行"
+    },
+    {
+      "source": "市场先生",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "市场先生",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "市场先生",
+      "target": "高盛"
+    },
+    {
+      "source": "市场先生",
+      "target": "通用电气"
+    },
+    {
+      "source": "市场先生",
+      "target": "有效市场"
+    },
+    {
+      "source": "市场先生",
+      "target": "市场预测"
+    },
+    {
+      "source": "市场先生",
+      "target": "长期持有"
+    },
+    {
+      "source": "市场先生",
+      "target": "可口可乐"
+    },
+    {
+      "source": "市场先生",
+      "target": "美国运通"
+    },
+    {
+      "source": "市场先生",
+      "target": "大都会通信"
+    },
+    {
+      "source": "市场先生",
+      "target": "盖可保险"
+    },
+    {
+      "source": "市场先生",
+      "target": "收购"
+    },
+    {
+      "source": "市场预测",
+      "target": "分散投资"
+    },
+    {
+      "source": "市场预测",
+      "target": "长期持有"
+    },
+    {
+      "source": "市场预测",
+      "target": "内在价值"
+    },
+    {
+      "source": "市场预测",
+      "target": "安全边际"
+    },
+    {
+      "source": "市场预测",
+      "target": "能力圈"
+    },
+    {
+      "source": "市场预测",
+      "target": "杠杆"
+    },
+    {
+      "source": "市盈率",
+      "target": "内在价值"
+    },
+    {
+      "source": "市盈率",
+      "target": "股息"
+    },
+    {
+      "source": "市盈率",
+      "target": "特许经营权"
+    },
+    {
+      "source": "市盈率",
+      "target": "商业模式"
+    },
+    {
+      "source": "市盈率",
+      "target": "可口可乐"
+    },
+    {
+      "source": "市盈率",
+      "target": "吉列"
+    },
+    {
+      "source": "市盈率",
+      "target": "账面价值"
+    },
+    {
+      "source": "市盈率",
+      "target": "收购"
+    },
+    {
+      "source": "市盈率",
+      "target": "管理层"
+    },
+    {
+      "source": "市盈率",
+      "target": "债券"
+    },
+    {
+      "source": "市盈率",
+      "target": "长期持有"
+    },
+    {
+      "source": "市盈率",
+      "target": "复利"
+    },
+    {
+      "source": "市盈率",
+      "target": "竞争优势"
+    },
+    {
+      "source": "市盈率",
+      "target": "盖可保险"
+    },
+    {
+      "source": "市盈率",
+      "target": "套利"
+    },
+    {
+      "source": "市盈率",
+      "target": "透视盈余"
+    },
+    {
+      "source": "市盈率",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "市盈率",
+      "target": "美国运通"
+    },
+    {
+      "source": "承保纪律",
+      "target": "收购"
+    },
+    {
+      "source": "承保纪律",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "承保纪律",
+      "target": "品牌"
+    },
+    {
+      "source": "承保纪律",
+      "target": "能力圈"
+    },
+    {
+      "source": "承保纪律",
+      "target": "管理层"
+    },
+    {
+      "source": "承保纪律",
+      "target": "盖可保险"
+    },
+    {
+      "source": "承保纪律",
+      "target": "通用再保险"
+    },
+    {
+      "source": "承保纪律",
+      "target": "竞争优势"
+    },
+    {
+      "source": "承保纪律",
+      "target": "资本配置"
+    },
+    {
+      "source": "护城河",
+      "target": "竞争优势"
+    },
+    {
+      "source": "护城河",
+      "target": "盖可保险"
+    },
+    {
+      "source": "护城河",
+      "target": "特许经营权"
+    },
+    {
+      "source": "护城河",
+      "target": "可口可乐"
+    },
+    {
+      "source": "护城河",
+      "target": "吉列"
+    },
+    {
+      "source": "护城河",
+      "target": "美国运通"
+    },
+    {
+      "source": "护城河",
+      "target": "管理层"
+    },
+    {
+      "source": "护城河",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "护城河",
+      "target": "德克斯特鞋业"
+    },
+    {
+      "source": "护城河",
+      "target": "飞安公司"
+    },
+    {
+      "source": "护城河",
+      "target": "资本配置"
+    },
+    {
+      "source": "护城河",
+      "target": "能力圈"
+    },
+    {
+      "source": "护城河",
+      "target": "长期持有"
+    },
+    {
+      "source": "收购",
+      "target": "纺织业务"
+    },
+    {
+      "source": "收购",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "收购",
+      "target": "芒格"
+    },
+    {
+      "source": "收购",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "收购",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "收购",
+      "target": "盖可保险"
+    },
+    {
+      "source": "收购",
+      "target": "通用再保险"
+    },
+    {
+      "source": "收购",
+      "target": "BNSF铁路"
+    },
+    {
+      "source": "收购",
+      "target": "管理层"
+    },
+    {
+      "source": "收购",
+      "target": "商业模式"
+    },
+    {
+      "source": "收购",
+      "target": "竞争优势"
+    },
+    {
+      "source": "收购",
+      "target": "杠杆"
+    },
+    {
+      "source": "收购",
+      "target": "森林河公司"
+    },
+    {
+      "source": "收购",
+      "target": "资本配置"
+    },
+    {
+      "source": "收购",
+      "target": "德克斯特鞋业"
+    },
+    {
+      "source": "收购",
+      "target": "中美能源"
+    },
+    {
+      "source": "收购",
+      "target": "精密铸件"
+    },
+    {
+      "source": "收购",
+      "target": "护城河"
+    },
+    {
+      "source": "有效市场",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "有效市场",
+      "target": "杠杆"
+    },
+    {
+      "source": "有效市场",
+      "target": "股息"
+    },
+    {
+      "source": "有效市场",
+      "target": "内在价值"
+    },
+    {
+      "source": "有效市场",
+      "target": "安全边际"
+    },
+    {
+      "source": "杠杆",
+      "target": "安全边际"
+    },
+    {
+      "source": "杠杆",
+      "target": "股息"
+    },
+    {
+      "source": "杠杆",
+      "target": "管理层"
+    },
+    {
+      "source": "杠杆",
+      "target": "衍生品"
+    },
+    {
+      "source": "杠杆",
+      "target": "资本配置"
+    },
+    {
+      "source": "特许经营权",
+      "target": "管理层"
+    },
+    {
+      "source": "特许经营权",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "特许经营权",
+      "target": "可口可乐"
+    },
+    {
+      "source": "特许经营权",
+      "target": "吉列"
+    },
+    {
+      "source": "特许经营权",
+      "target": "美国运通"
+    },
+    {
+      "source": "特许经营权",
+      "target": "收购"
+    },
+    {
+      "source": "特许经营权",
+      "target": "芒格"
+    },
+    {
+      "source": "特许经营权",
+      "target": "保险业"
+    },
+    {
+      "source": "特许经营权",
+      "target": "承保纪律"
+    },
+    {
+      "source": "特许经营权",
+      "target": "纺织业务"
+    },
+    {
+      "source": "特许经营权",
+      "target": "企业文化"
+    },
+    {
+      "source": "特许经营权",
+      "target": "竞争优势"
+    },
+    {
+      "source": "特许经营权",
+      "target": "内在价值"
+    },
+    {
+      "source": "特许经营权",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "特许经营权",
+      "target": "盖可保险"
+    },
+    {
+      "source": "留存收益",
+      "target": "股息"
+    },
+    {
+      "source": "留存收益",
+      "target": "收购"
+    },
+    {
+      "source": "留存收益",
+      "target": "资本配置"
+    },
+    {
+      "source": "留存收益",
+      "target": "复利"
+    },
+    {
+      "source": "留存收益",
+      "target": "管理层"
+    },
+    {
+      "source": "留存收益",
+      "target": "芒格"
+    },
+    {
+      "source": "留存收益",
+      "target": "账面价值"
+    },
+    {
+      "source": "留存收益",
+      "target": "透视盈余"
+    },
+    {
+      "source": "留存收益",
+      "target": "可口可乐"
+    },
+    {
+      "source": "留存收益",
+      "target": "苹果"
+    },
+    {
+      "source": "留存收益",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "科技与互联网",
+      "target": "能力圈"
+    },
+    {
+      "source": "科技与互联网",
+      "target": "竞争优势"
+    },
+    {
+      "source": "科技与互联网",
+      "target": "航空业"
+    },
+    {
+      "source": "科技与互联网",
+      "target": "IBM"
+    },
+    {
+      "source": "科技与互联网",
+      "target": "苹果"
+    },
+    {
+      "source": "科技与互联网",
+      "target": "托德·库姆斯"
+    },
+    {
+      "source": "科技与互联网",
+      "target": "泰德·韦施勒"
+    },
+    {
+      "source": "科技与互联网",
+      "target": "护城河"
+    },
+    {
+      "source": "科技与互联网",
+      "target": "盖可保险"
+    },
+    {
+      "source": "科技与互联网",
+      "target": "商业模式"
+    },
+    {
+      "source": "科技与互联网",
+      "target": "品牌"
+    },
+    {
+      "source": "税收效率",
+      "target": "低估"
+    },
+    {
+      "source": "税收效率",
+      "target": "复利"
+    },
+    {
+      "source": "税收效率",
+      "target": "长期持有"
+    },
+    {
+      "source": "税收效率",
+      "target": "留存收益"
+    },
+    {
+      "source": "税收效率",
+      "target": "资本配置"
+    },
+    {
+      "source": "税收效率",
+      "target": "芒格"
+    },
+    {
+      "source": "税收效率",
+      "target": "杠杆"
+    },
+    {
+      "source": "税收效率",
+      "target": "股息"
+    },
+    {
+      "source": "竞争优势",
+      "target": "买入价格"
+    },
+    {
+      "source": "竞争优势",
+      "target": "管理层"
+    },
+    {
+      "source": "竞争优势",
+      "target": "盖可保险"
+    },
+    {
+      "source": "竞争优势",
+      "target": "可口可乐"
+    },
+    {
+      "source": "竞争优势",
+      "target": "吉列"
+    },
+    {
+      "source": "竞争优势",
+      "target": "保险业"
+    },
+    {
+      "source": "竞争优势",
+      "target": "内布拉斯加家具店"
+    },
+    {
+      "source": "竞争优势",
+      "target": "B夫人"
+    },
+    {
+      "source": "竞争优势",
+      "target": "纺织业务"
+    },
+    {
+      "source": "竞争优势",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "竞争优势",
+      "target": "芒格"
+    },
+    {
+      "source": "竞争优势",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "管理层",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "管理层",
+      "target": "长期持有"
+    },
+    {
+      "source": "管理层",
+      "target": "芒格"
+    },
+    {
+      "source": "管理层",
+      "target": "B夫人"
+    },
+    {
+      "source": "管理层",
+      "target": "阿吉特·贾恩"
+    },
+    {
+      "source": "管理层",
+      "target": "资本配置"
+    },
+    {
+      "source": "管理层",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "管理层",
+      "target": "纺织业务"
+    },
+    {
+      "source": "管理层",
+      "target": "保险业"
+    },
+    {
+      "source": "管理层",
+      "target": "托德·库姆斯"
+    },
+    {
+      "source": "管理层",
+      "target": "泰德·韦施勒"
+    },
+    {
+      "source": "管理层",
+      "target": "股东导向"
+    },
+    {
+      "source": "管理层",
+      "target": "内布拉斯加家具店"
+    },
+    {
+      "source": "管理层",
+      "target": "盖可保险"
+    },
+    {
+      "source": "管理层",
+      "target": "大都会通信"
+    },
+    {
+      "source": "纺织业务",
+      "target": "护城河"
+    },
+    {
+      "source": "纺织业务",
+      "target": "资本配置"
+    },
+    {
+      "source": "纺织业务",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "纺织业务",
+      "target": "航空业"
+    },
+    {
+      "source": "纺织业务",
+      "target": "商业模式"
+    },
+    {
+      "source": "股东导向",
+      "target": "芒格"
+    },
+    {
+      "source": "股东导向",
+      "target": "蓝筹印花"
+    },
+    {
+      "source": "股东导向",
+      "target": "竞争优势"
+    },
+    {
+      "source": "股东导向",
+      "target": "内在价值"
+    },
+    {
+      "source": "股东导向",
+      "target": "长期持有"
+    },
+    {
+      "source": "股东导向",
+      "target": "留存收益"
+    },
+    {
+      "source": "股东导向",
+      "target": "回购"
+    },
+    {
+      "source": "股东导向",
+      "target": "低估"
+    },
+    {
+      "source": "股东导向",
+      "target": "收购"
+    },
+    {
+      "source": "股东导向",
+      "target": "资本配置"
+    },
+    {
+      "source": "股东导向",
+      "target": "账面价值"
+    },
+    {
+      "source": "股东导向",
+      "target": "大都会通信"
+    },
+    {
+      "source": "股东导向",
+      "target": "盖可保险"
+    },
+    {
+      "source": "股东导向",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "股息",
+      "target": "管理层"
+    },
+    {
+      "source": "股息",
+      "target": "资本配置"
+    },
+    {
+      "source": "股息",
+      "target": "债券"
+    },
+    {
+      "source": "股息",
+      "target": "可口可乐"
+    },
+    {
+      "source": "股息",
+      "target": "内在价值"
+    },
+    {
+      "source": "股息",
+      "target": "账面价值"
+    },
+    {
+      "source": "能力圈",
+      "target": "B夫人"
+    },
+    {
+      "source": "能力圈",
+      "target": "收购"
+    },
+    {
+      "source": "能力圈",
+      "target": "芒格"
+    },
+    {
+      "source": "能力圈",
+      "target": "苹果"
+    },
+    {
+      "source": "能力圈",
+      "target": "品牌"
+    },
+    {
+      "source": "能力圈",
+      "target": "内布拉斯加家具店"
+    },
+    {
+      "source": "能力圈",
+      "target": "银行业"
+    },
+    {
+      "source": "能力圈",
+      "target": "集中投资"
+    },
+    {
+      "source": "能力圈",
+      "target": "市场先生"
+    },
+    {
+      "source": "能力圈",
+      "target": "长期持有"
+    },
+    {
+      "source": "能力圈",
+      "target": "盖可保险"
+    },
+    {
+      "source": "能力圈",
+      "target": "可口可乐"
+    },
+    {
+      "source": "能力圈",
+      "target": "商业模式"
+    },
+    {
+      "source": "能力圈",
+      "target": "德克斯特鞋业"
+    },
+    {
+      "source": "能源",
+      "target": "伯克希尔哈撒韦能源"
+    },
+    {
+      "source": "能源",
+      "target": "中美能源"
+    },
+    {
+      "source": "能源",
+      "target": "收购"
+    },
+    {
+      "source": "能源",
+      "target": "格雷格·阿贝尔"
+    },
+    {
+      "source": "能源",
+      "target": "护城河"
+    },
+    {
+      "source": "能源",
+      "target": "中国石油"
+    },
+    {
+      "source": "能源",
+      "target": "西方石油"
+    },
+    {
+      "source": "能源",
+      "target": "康菲石油"
+    },
+    {
+      "source": "能源",
+      "target": "低估"
+    },
+    {
+      "source": "能源",
+      "target": "资本配置"
+    },
+    {
+      "source": "能源",
+      "target": "管理层"
+    },
+    {
+      "source": "航空业",
+      "target": "利捷航空"
+    },
+    {
+      "source": "航空业",
+      "target": "商业模式"
+    },
+    {
+      "source": "航空业",
+      "target": "所罗门"
+    },
+    {
+      "source": "航空业",
+      "target": "护城河"
+    },
+    {
+      "source": "航空业",
+      "target": "竞争优势"
+    },
+    {
+      "source": "衍生品",
+      "target": "收购"
+    },
+    {
+      "source": "衍生品",
+      "target": "通用再保险"
+    },
+    {
+      "source": "衍生品",
+      "target": "芒格"
+    },
+    {
+      "source": "衍生品",
+      "target": "账面价值"
+    },
+    {
+      "source": "衍生品",
+      "target": "债券"
+    },
+    {
+      "source": "衍生品",
+      "target": "安全边际"
+    },
+    {
+      "source": "衍生品",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "衍生品",
+      "target": "承保纪律"
+    },
+    {
+      "source": "衍生品",
+      "target": "所罗门"
+    },
+    {
+      "source": "诚信",
+      "target": "管理层"
+    },
+    {
+      "source": "诚信",
+      "target": "纺织业务"
+    },
+    {
+      "source": "诚信",
+      "target": "收购"
+    },
+    {
+      "source": "诚信",
+      "target": "所罗门"
+    },
+    {
+      "source": "诚信",
+      "target": "富国银行"
+    },
+    {
+      "source": "诚信",
+      "target": "股东导向"
+    },
+    {
+      "source": "诚信",
+      "target": "企业文化"
+    },
+    {
+      "source": "账面价值",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "账面价值",
+      "target": "BNSF铁路"
+    },
+    {
+      "source": "账面价值",
+      "target": "管理层"
+    },
+    {
+      "source": "账面价值",
+      "target": "收购"
+    },
+    {
+      "source": "账面价值",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "资本配置",
+      "target": "芒格"
+    },
+    {
+      "source": "资本配置",
+      "target": "高盛"
+    },
+    {
+      "source": "资本配置",
+      "target": "通用电气"
+    },
+    {
+      "source": "资本配置",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "资本配置",
+      "target": "斯科特费泽"
+    },
+    {
+      "source": "资本配置",
+      "target": "可口可乐"
+    },
+    {
+      "source": "资本配置",
+      "target": "盖可保险"
+    },
+    {
+      "source": "透视盈余",
+      "target": "股息"
+    },
+    {
+      "source": "透视盈余",
+      "target": "低估"
+    },
+    {
+      "source": "透视盈余",
+      "target": "管理层"
+    },
+    {
+      "source": "透视盈余",
+      "target": "通用再保险"
+    },
+    {
+      "source": "透视盈余",
+      "target": "收购"
+    },
+    {
+      "source": "透视盈余",
+      "target": "可口可乐"
+    },
+    {
+      "source": "透视盈余",
+      "target": "美国运通"
+    },
+    {
+      "source": "透视盈余",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "透视盈余",
+      "target": "账面价值"
+    },
+    {
+      "source": "透视盈余",
+      "target": "资本配置"
+    },
+    {
+      "source": "透视盈余",
+      "target": "长期持有"
+    },
+    {
+      "source": "通货膨胀",
+      "target": "留存收益"
+    },
+    {
+      "source": "通货膨胀",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "通货膨胀",
+      "target": "保险业"
+    },
+    {
+      "source": "通货膨胀",
+      "target": "低估"
+    },
+    {
+      "source": "通货膨胀",
+      "target": "芒格"
+    },
+    {
+      "source": "通货膨胀",
+      "target": "护城河"
+    },
+    {
+      "source": "通货膨胀",
+      "target": "内在价值"
+    },
+    {
+      "source": "通货膨胀",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "通货膨胀",
+      "target": "商誉"
+    },
+    {
+      "source": "通货膨胀",
+      "target": "可口可乐"
+    },
+    {
+      "source": "通货膨胀",
+      "target": "品牌"
+    },
+    {
+      "source": "铁路运输",
+      "target": "收购"
+    },
+    {
+      "source": "铁路运输",
+      "target": "BNSF铁路"
+    },
+    {
+      "source": "铁路运输",
+      "target": "能源"
+    },
+    {
+      "source": "铁路运输",
+      "target": "护城河"
+    },
+    {
+      "source": "铁路运输",
+      "target": "账面价值"
+    },
+    {
+      "source": "铁路运输",
+      "target": "资本配置"
+    },
+    {
+      "source": "铁路运输",
+      "target": "纺织业务"
+    },
+    {
+      "source": "银行业",
+      "target": "杠杆"
+    },
+    {
+      "source": "银行业",
+      "target": "富国银行"
+    },
+    {
+      "source": "银行业",
+      "target": "美国银行"
+    },
+    {
+      "source": "银行业",
+      "target": "商业模式"
+    },
+    {
+      "source": "银行业",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "银行业",
+      "target": "管理层"
+    },
+    {
+      "source": "银行业",
+      "target": "内在价值"
+    },
+    {
+      "source": "银行业",
+      "target": "企业文化"
+    },
+    {
+      "source": "银行业",
+      "target": "高盛"
+    },
+    {
+      "source": "银行业",
+      "target": "衍生品"
+    },
+    {
+      "source": "银行业",
+      "target": "所罗门"
+    },
+    {
+      "source": "银行业",
+      "target": "长期持有"
+    },
+    {
+      "source": "银行业",
+      "target": "护城河"
+    },
+    {
+      "source": "银行业",
+      "target": "竞争优势"
+    },
+    {
+      "source": "银行业",
+      "target": "承保纪律"
+    },
+    {
+      "source": "长期持有",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "长期持有",
+      "target": "芒格"
+    },
+    {
+      "source": "长期持有",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "长期持有",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "长期持有",
+      "target": "可口可乐"
+    },
+    {
+      "source": "长期持有",
+      "target": "收购"
+    },
+    {
+      "source": "长期持有",
+      "target": "内在价值"
+    },
+    {
+      "source": "长期持有",
+      "target": "竞争优势"
+    },
+    {
+      "source": "长期持有",
+      "target": "美国运通"
+    },
+    {
+      "source": "长期持有",
+      "target": "大都会通信"
+    },
+    {
+      "source": "长期持有",
+      "target": "盖可保险"
+    },
+    {
+      "source": "长期持有",
+      "target": "股息"
+    },
+    {
+      "source": "长期持有",
+      "target": "纺织业务"
+    },
+    {
+      "source": "长期持有",
+      "target": "富国银行"
+    },
+    {
+      "source": "长期持有",
+      "target": "苹果"
+    },
+    {
+      "source": "长期持有",
+      "target": "资本配置"
+    },
+    {
+      "source": "长期持有",
+      "target": "安全边际"
+    },
+    {
+      "source": "集中投资",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "集中投资",
+      "target": "低估"
+    },
+    {
+      "source": "集中投资",
+      "target": "有效市场"
+    },
+    {
+      "source": "集中投资",
+      "target": "收购"
+    },
+    {
+      "source": "集中投资",
+      "target": "管理层"
+    },
+    {
+      "source": "集中投资",
+      "target": "买入价格"
+    },
+    {
+      "source": "集中投资",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "集中投资",
+      "target": "长期持有"
+    },
+    {
+      "source": "集中投资",
+      "target": "盖可保险"
+    },
+    {
+      "source": "集中投资",
+      "target": "债券"
+    },
+    {
+      "source": "集中投资",
+      "target": "保险业"
+    },
+    {
+      "source": "集中投资",
+      "target": "苹果"
+    },
+    {
+      "source": "集中投资",
+      "target": "内在价值"
+    },
+    {
+      "source": "集中投资",
+      "target": "市场先生"
+    },
+    {
+      "source": "集中投资",
+      "target": "可口可乐"
+    },
+    {
+      "source": "零售与消费",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "零售与消费",
+      "target": "收购"
+    },
+    {
+      "source": "零售与消费",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "零售与消费",
+      "target": "品牌"
+    },
+    {
+      "source": "零售与消费",
+      "target": "通货膨胀"
+    },
+    {
+      "source": "零售与消费",
+      "target": "商业模式"
+    },
+    {
+      "source": "零售与消费",
+      "target": "特许经营权"
+    },
+    {
+      "source": "零售与消费",
+      "target": "可口可乐"
+    },
+    {
+      "source": "零售与消费",
+      "target": "吉列"
+    },
+    {
+      "source": "零售与消费",
+      "target": "护城河"
+    },
+    {
+      "source": "零售与消费",
+      "target": "内布拉斯加家具店"
+    },
+    {
+      "source": "零售与消费",
+      "target": "B夫人"
+    },
+    {
+      "source": "零售与消费",
+      "target": "鲜果布衣"
+    },
+    {
+      "source": "零售与消费",
+      "target": "管理层"
+    },
+    {
+      "source": "零售与消费",
+      "target": "长期持有"
+    },
+    {
+      "source": "BNSF铁路",
+      "target": "护城河"
+    },
+    {
+      "source": "BNSF铁路",
+      "target": "特许经营权"
+    },
+    {
+      "source": "BNSF铁路",
+      "target": "能源"
+    },
+    {
+      "source": "BNSF铁路",
+      "target": "竞争优势"
+    },
+    {
+      "source": "BNSF铁路",
+      "target": "通用再保险"
+    },
+    {
+      "source": "BNSF铁路",
+      "target": "伯克希尔哈撒韦能源"
+    },
+    {
+      "source": "BNSF铁路",
+      "target": "苹果"
+    },
+    {
+      "source": "BNSF铁路",
+      "target": "穆迪"
+    },
+    {
+      "source": "BNSF铁路",
+      "target": "留存收益"
+    },
+    {
+      "source": "BNSF铁路",
+      "target": "股息"
+    },
+    {
+      "source": "BNSF铁路",
+      "target": "芒格"
+    },
+    {
+      "source": "BNSF铁路",
+      "target": "伊斯卡"
+    },
+    {
+      "source": "BNSF铁路",
+      "target": "路博润"
+    },
+    {
+      "source": "BNSF铁路",
+      "target": "马蒙集团"
+    },
+    {
+      "source": "BNSF铁路",
+      "target": "中美能源"
+    },
+    {
+      "source": "BNSF铁路",
+      "target": "保险业"
+    },
+    {
+      "source": "IBM",
+      "target": "能力圈"
+    },
+    {
+      "source": "IBM",
+      "target": "护城河"
+    },
+    {
+      "source": "IBM",
+      "target": "品牌"
+    },
+    {
+      "source": "IBM",
+      "target": "竞争优势"
+    },
+    {
+      "source": "IBM",
+      "target": "美国运通"
+    },
+    {
+      "source": "IBM",
+      "target": "可口可乐"
+    },
+    {
+      "source": "IBM",
+      "target": "富国银行"
+    },
+    {
+      "source": "IBM",
+      "target": "回购"
+    },
+    {
+      "source": "IBM",
+      "target": "苹果"
+    },
+    {
+      "source": "IBM",
+      "target": "内在价值"
+    },
+    {
+      "source": "IBM",
+      "target": "资本配置"
+    },
+    {
+      "source": "三井物产",
+      "target": "能源"
+    },
+    {
+      "source": "三井物产",
+      "target": "三菱商事"
+    },
+    {
+      "source": "三井物产",
+      "target": "伊藤忠商事"
+    },
+    {
+      "source": "三井物产",
+      "target": "商业模式"
+    },
+    {
+      "source": "三井物产",
+      "target": "股息"
+    },
+    {
+      "source": "三井物产",
+      "target": "回购"
+    },
+    {
+      "source": "三井物产",
+      "target": "账面价值"
+    },
+    {
+      "source": "三井物产",
+      "target": "康菲石油"
+    },
+    {
+      "source": "三菱商事",
+      "target": "商业模式"
+    },
+    {
+      "source": "三菱商事",
+      "target": "伊藤忠商事"
+    },
+    {
+      "source": "三菱商事",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "三菱商事",
+      "target": "账面价值"
+    },
+    {
+      "source": "三菱商事",
+      "target": "回购"
+    },
+    {
+      "source": "三菱商事",
+      "target": "股息"
+    },
+    {
+      "source": "三菱商事",
+      "target": "债券"
+    },
+    {
+      "source": "三菱商事",
+      "target": "资本配置"
+    },
+    {
+      "source": "世界图书百科全书",
+      "target": "斯科特费泽"
+    },
+    {
+      "source": "世界图书百科全书",
+      "target": "收购"
+    },
+    {
+      "source": "世界图书百科全书",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "世界图书百科全书",
+      "target": "杠杆"
+    },
+    {
+      "source": "中国石油",
+      "target": "管理层"
+    },
+    {
+      "source": "中国石油",
+      "target": "内在价值"
+    },
+    {
+      "source": "中国石油",
+      "target": "低估"
+    },
+    {
+      "source": "中国石油",
+      "target": "品牌"
+    },
+    {
+      "source": "中国石油",
+      "target": "可口可乐"
+    },
+    {
+      "source": "中美能源",
+      "target": "伯克希尔哈撒韦能源"
+    },
+    {
+      "source": "中美能源",
+      "target": "路博润"
+    },
+    {
+      "source": "中美能源",
+      "target": "马蒙集团"
+    },
+    {
+      "source": "中美能源",
+      "target": "通用再保险"
+    },
+    {
+      "source": "中美能源",
+      "target": "留存收益"
+    },
+    {
+      "source": "中美能源",
+      "target": "资本配置"
+    },
+    {
+      "source": "中美能源",
+      "target": "竞争优势"
+    },
+    {
+      "source": "中美能源",
+      "target": "护城河"
+    },
+    {
+      "source": "中美能源",
+      "target": "格雷格·阿贝尔"
+    },
+    {
+      "source": "中美能源",
+      "target": "管理层"
+    },
+    {
+      "source": "伊斯卡",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "伊斯卡",
+      "target": "收购"
+    },
+    {
+      "source": "伊斯卡",
+      "target": "路博润"
+    },
+    {
+      "source": "伊斯卡",
+      "target": "马蒙集团"
+    },
+    {
+      "source": "伊斯卡",
+      "target": "伯克希尔哈撒韦能源"
+    },
+    {
+      "source": "伊斯卡",
+      "target": "中美能源"
+    },
+    {
+      "source": "伊斯卡",
+      "target": "商业模式"
+    },
+    {
+      "source": "伊斯卡",
+      "target": "管理层"
+    },
+    {
+      "source": "伊斯卡",
+      "target": "护城河"
+    },
+    {
+      "source": "伊斯卡",
+      "target": "品牌"
+    },
+    {
+      "source": "伊藤忠商事",
+      "target": "能源"
+    },
+    {
+      "source": "伊藤忠商事",
+      "target": "品牌"
+    },
+    {
+      "source": "伊藤忠商事",
+      "target": "商业模式"
+    },
+    {
+      "source": "伊藤忠商事",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "伊藤忠商事",
+      "target": "资本配置"
+    },
+    {
+      "source": "伊藤忠商事",
+      "target": "低估"
+    },
+    {
+      "source": "伊藤忠商事",
+      "target": "账面价值"
+    },
+    {
+      "source": "伊藤忠商事",
+      "target": "股息"
+    },
+    {
+      "source": "伊藤忠商事",
+      "target": "回购"
+    },
+    {
+      "source": "伊藤忠商事",
+      "target": "债券"
+    },
+    {
+      "source": "伊藤忠商事",
+      "target": "管理层"
+    },
+    {
+      "source": "伊藤忠商事",
+      "target": "复利"
+    },
+    {
+      "source": "伯克希尔哈撒韦",
+      "target": "盖可保险"
+    },
+    {
+      "source": "伯克希尔哈撒韦",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "伯克希尔哈撒韦",
+      "target": "通用再保险"
+    },
+    {
+      "source": "伯克希尔哈撒韦",
+      "target": "BNSF铁路"
+    },
+    {
+      "source": "伯克希尔哈撒韦",
+      "target": "能源"
+    },
+    {
+      "source": "伯克希尔哈撒韦",
+      "target": "伯克希尔哈撒韦能源"
+    },
+    {
+      "source": "伯克希尔哈撒韦",
+      "target": "苹果"
+    },
+    {
+      "source": "伯克希尔哈撒韦",
+      "target": "可口可乐"
+    },
+    {
+      "source": "伯克希尔哈撒韦",
+      "target": "美国运通"
+    },
+    {
+      "source": "伯克希尔哈撒韦",
+      "target": "美国银行"
+    },
+    {
+      "source": "伯克希尔哈撒韦",
+      "target": "收购"
+    },
+    {
+      "source": "伯克希尔哈撒韦",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "伯克希尔哈撒韦",
+      "target": "管理层"
+    },
+    {
+      "source": "伯克希尔哈撒韦",
+      "target": "纺织业务"
+    },
+    {
+      "source": "伯克希尔哈撒韦",
+      "target": "芒格"
+    },
+    {
+      "source": "伯克希尔哈撒韦",
+      "target": "竞争优势"
+    },
+    {
+      "source": "伯克希尔哈撒韦",
+      "target": "企业文化"
+    },
+    {
+      "source": "伯克希尔哈撒韦能源",
+      "target": "留存收益"
+    },
+    {
+      "source": "伯克希尔哈撒韦能源",
+      "target": "股息"
+    },
+    {
+      "source": "伯克希尔哈撒韦能源",
+      "target": "收购"
+    },
+    {
+      "source": "伯克希尔哈撒韦能源",
+      "target": "格雷格·阿贝尔"
+    },
+    {
+      "source": "伯克希尔哈撒韦能源",
+      "target": "资本配置"
+    },
+    {
+      "source": "伯克希尔哈撒韦能源",
+      "target": "管理层"
+    },
+    {
+      "source": "克莱顿房屋",
+      "target": "竞争优势"
+    },
+    {
+      "source": "克莱顿房屋",
+      "target": "收购"
+    },
+    {
+      "source": "克莱顿房屋",
+      "target": "商业模式"
+    },
+    {
+      "source": "克莱顿房屋",
+      "target": "债券"
+    },
+    {
+      "source": "克莱顿房屋",
+      "target": "长期持有"
+    },
+    {
+      "source": "克莱顿房屋",
+      "target": "管理层"
+    },
+    {
+      "source": "内布拉斯加家具店",
+      "target": "B夫人"
+    },
+    {
+      "source": "内布拉斯加家具店",
+      "target": "收购"
+    },
+    {
+      "source": "内布拉斯加家具店",
+      "target": "商业模式"
+    },
+    {
+      "source": "内布拉斯加家具店",
+      "target": "波仙珠宝"
+    },
+    {
+      "source": "内布拉斯加家具店",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "内布拉斯加家具店",
+      "target": "布法罗新闻报"
+    },
+    {
+      "source": "内布拉斯加家具店",
+      "target": "斯科特费泽"
+    },
+    {
+      "source": "内布拉斯加家具店",
+      "target": "护城河"
+    },
+    {
+      "source": "内布拉斯加家具店",
+      "target": "品牌"
+    },
+    {
+      "source": "冰雪皇后",
+      "target": "品牌"
+    },
+    {
+      "source": "冰雪皇后",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "冰雪皇后",
+      "target": "收购"
+    },
+    {
+      "source": "冰雪皇后",
+      "target": "商业模式"
+    },
+    {
+      "source": "冰雪皇后",
+      "target": "护城河"
+    },
+    {
+      "source": "冰雪皇后",
+      "target": "可口可乐"
+    },
+    {
+      "source": "冰雪皇后",
+      "target": "麦克莱恩"
+    },
+    {
+      "source": "冰雪皇后",
+      "target": "杠杆"
+    },
+    {
+      "source": "冰雪皇后",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "利捷航空",
+      "target": "商业模式"
+    },
+    {
+      "source": "利捷航空",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "利捷航空",
+      "target": "收购"
+    },
+    {
+      "source": "利捷航空",
+      "target": "竞争优势"
+    },
+    {
+      "source": "利捷航空",
+      "target": "管理层"
+    },
+    {
+      "source": "华盛顿邮报",
+      "target": "护城河"
+    },
+    {
+      "source": "华盛顿邮报",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "华盛顿邮报",
+      "target": "公司治理"
+    },
+    {
+      "source": "华盛顿邮报",
+      "target": "资本配置"
+    },
+    {
+      "source": "华盛顿邮报",
+      "target": "管理层"
+    },
+    {
+      "source": "华盛顿邮报",
+      "target": "回购"
+    },
+    {
+      "source": "华盛顿邮报",
+      "target": "内在价值"
+    },
+    {
+      "source": "华盛顿邮报",
+      "target": "盖可保险"
+    },
+    {
+      "source": "华盛顿邮报",
+      "target": "可口可乐"
+    },
+    {
+      "source": "华盛顿邮报",
+      "target": "富国银行"
+    },
+    {
+      "source": "华盛顿邮报",
+      "target": "收购"
+    },
+    {
+      "source": "华盛顿邮报",
+      "target": "股息"
+    },
+    {
+      "source": "卡夫亨氏",
+      "target": "品牌"
+    },
+    {
+      "source": "卡夫亨氏",
+      "target": "商业模式"
+    },
+    {
+      "source": "卡夫亨氏",
+      "target": "特许经营权"
+    },
+    {
+      "source": "卡夫亨氏",
+      "target": "竞争优势"
+    },
+    {
+      "source": "卡夫亨氏",
+      "target": "收购"
+    },
+    {
+      "source": "卡夫亨氏",
+      "target": "账面价值"
+    },
+    {
+      "source": "卡夫亨氏",
+      "target": "买入价格"
+    },
+    {
+      "source": "卡夫亨氏",
+      "target": "安全边际"
+    },
+    {
+      "source": "卡夫亨氏",
+      "target": "护城河"
+    },
+    {
+      "source": "卡夫亨氏",
+      "target": "企业文化"
+    },
+    {
+      "source": "卡夫亨氏",
+      "target": "内在价值"
+    },
+    {
+      "source": "卡夫亨氏",
+      "target": "商誉"
+    },
+    {
+      "source": "可口可乐",
+      "target": "管理层"
+    },
+    {
+      "source": "可口可乐",
+      "target": "收购"
+    },
+    {
+      "source": "可口可乐",
+      "target": "盖可保险"
+    },
+    {
+      "source": "可口可乐",
+      "target": "吉列"
+    },
+    {
+      "source": "可口可乐",
+      "target": "美国运通"
+    },
+    {
+      "source": "可口可乐",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "吉列",
+      "target": "商业模式"
+    },
+    {
+      "source": "吉列",
+      "target": "收购"
+    },
+    {
+      "source": "吉列",
+      "target": "盖可保险"
+    },
+    {
+      "source": "吉列",
+      "target": "美国运通"
+    },
+    {
+      "source": "吉列",
+      "target": "美国银行"
+    },
+    {
+      "source": "吉列",
+      "target": "高盛"
+    },
+    {
+      "source": "喜诗糖果",
+      "target": "芒格"
+    },
+    {
+      "source": "喜诗糖果",
+      "target": "蓝筹印花"
+    },
+    {
+      "source": "喜诗糖果",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "喜诗糖果",
+      "target": "账面价值"
+    },
+    {
+      "source": "喜诗糖果",
+      "target": "可口可乐"
+    },
+    {
+      "source": "喜诗糖果",
+      "target": "飞安公司"
+    },
+    {
+      "source": "国民保险公司",
+      "target": "资本配置"
+    },
+    {
+      "source": "国民保险公司",
+      "target": "管理层"
+    },
+    {
+      "source": "国民保险公司",
+      "target": "阿吉特·贾恩"
+    },
+    {
+      "source": "国民保险公司",
+      "target": "商业模式"
+    },
+    {
+      "source": "国民保险公司",
+      "target": "杠杆"
+    },
+    {
+      "source": "国民保险公司",
+      "target": "蓝筹印花"
+    },
+    {
+      "source": "国民保险公司",
+      "target": "盖可保险"
+    },
+    {
+      "source": "国民保险公司",
+      "target": "内在价值"
+    },
+    {
+      "source": "国民保险公司",
+      "target": "账面价值"
+    },
+    {
+      "source": "国民保险公司",
+      "target": "内布拉斯加家具店"
+    },
+    {
+      "source": "大都会通信",
+      "target": "收购"
+    },
+    {
+      "source": "大都会通信",
+      "target": "竞争优势"
+    },
+    {
+      "source": "大都会通信",
+      "target": "透视盈余"
+    },
+    {
+      "source": "大都会通信",
+      "target": "可口可乐"
+    },
+    {
+      "source": "大都会通信",
+      "target": "盖可保险"
+    },
+    {
+      "source": "大都会通信",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "大都会通信",
+      "target": "商业模式"
+    },
+    {
+      "source": "大都会通信",
+      "target": "买入价格"
+    },
+    {
+      "source": "大都会通信",
+      "target": "企业文化"
+    },
+    {
+      "source": "大都会通信",
+      "target": "特许经营权"
+    },
+    {
+      "source": "大都会通信",
+      "target": "护城河"
+    },
+    {
+      "source": "大都会通信",
+      "target": "安全边际"
+    },
+    {
+      "source": "威利家居",
+      "target": "收购"
+    },
+    {
+      "source": "威利家居",
+      "target": "盖可保险"
+    },
+    {
+      "source": "威利家居",
+      "target": "内布拉斯加家具店"
+    },
+    {
+      "source": "威瑞森通讯",
+      "target": "护城河"
+    },
+    {
+      "source": "威瑞森通讯",
+      "target": "股息"
+    },
+    {
+      "source": "威瑞森通讯",
+      "target": "可口可乐"
+    },
+    {
+      "source": "威瑞森通讯",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "威瑞森通讯",
+      "target": "竞争优势"
+    },
+    {
+      "source": "威瑞森通讯",
+      "target": "商业模式"
+    },
+    {
+      "source": "威瑞森通讯",
+      "target": "康菲石油"
+    },
+    {
+      "source": "富国银行",
+      "target": "竞争优势"
+    },
+    {
+      "source": "富国银行",
+      "target": "管理层"
+    },
+    {
+      "source": "富国银行",
+      "target": "杠杆"
+    },
+    {
+      "source": "富国银行",
+      "target": "收购"
+    },
+    {
+      "source": "富国银行",
+      "target": "美国运通"
+    },
+    {
+      "source": "富国银行",
+      "target": "可口可乐"
+    },
+    {
+      "source": "州立农业保险",
+      "target": "盖可保险"
+    },
+    {
+      "source": "州立农业保险",
+      "target": "保险业"
+    },
+    {
+      "source": "州立农业保险",
+      "target": "护城河"
+    },
+    {
+      "source": "州立农业保险",
+      "target": "吉列"
+    },
+    {
+      "source": "州立农业保险",
+      "target": "品牌"
+    },
+    {
+      "source": "州立农业保险",
+      "target": "竞争优势"
+    },
+    {
+      "source": "布法罗新闻报",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "布法罗新闻报",
+      "target": "蓝筹印花"
+    },
+    {
+      "source": "布法罗新闻报",
+      "target": "收购"
+    },
+    {
+      "source": "布法罗新闻报",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "布法罗新闻报",
+      "target": "护城河"
+    },
+    {
+      "source": "布法罗新闻报",
+      "target": "账面价值"
+    },
+    {
+      "source": "布法罗新闻报",
+      "target": "商业模式"
+    },
+    {
+      "source": "康菲石油",
+      "target": "品牌"
+    },
+    {
+      "source": "康菲石油",
+      "target": "可口可乐"
+    },
+    {
+      "source": "康菲石油",
+      "target": "吉列"
+    },
+    {
+      "source": "德克斯特鞋业",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "德克斯特鞋业",
+      "target": "竞争优势"
+    },
+    {
+      "source": "德克斯特鞋业",
+      "target": "债券"
+    },
+    {
+      "source": "德克斯特鞋业",
+      "target": "低估"
+    },
+    {
+      "source": "德克斯特鞋业",
+      "target": "复利"
+    },
+    {
+      "source": "德克斯特鞋业",
+      "target": "资本配置"
+    },
+    {
+      "source": "房地美",
+      "target": "商业模式"
+    },
+    {
+      "source": "房地美",
+      "target": "竞争优势"
+    },
+    {
+      "source": "房地美",
+      "target": "管理层"
+    },
+    {
+      "source": "房地美",
+      "target": "可口可乐"
+    },
+    {
+      "source": "房地美",
+      "target": "长期持有"
+    },
+    {
+      "source": "房地美",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "房地美",
+      "target": "富国银行"
+    },
+    {
+      "source": "房地美",
+      "target": "衍生品"
+    },
+    {
+      "source": "房地美",
+      "target": "诚信"
+    },
+    {
+      "source": "房地美",
+      "target": "能力圈"
+    },
+    {
+      "source": "房地美",
+      "target": "护城河"
+    },
+    {
+      "source": "所罗门",
+      "target": "债券"
+    },
+    {
+      "source": "所罗门",
+      "target": "杠杆"
+    },
+    {
+      "source": "所罗门",
+      "target": "商业模式"
+    },
+    {
+      "source": "所罗门",
+      "target": "收购"
+    },
+    {
+      "source": "所罗门",
+      "target": "品牌"
+    },
+    {
+      "source": "所罗门",
+      "target": "可口可乐"
+    },
+    {
+      "source": "所罗门",
+      "target": "资本配置"
+    },
+    {
+      "source": "所罗门",
+      "target": "管理层"
+    },
+    {
+      "source": "所罗门",
+      "target": "企业文化"
+    },
+    {
+      "source": "所罗门",
+      "target": "能力圈"
+    },
+    {
+      "source": "所罗门",
+      "target": "安全边际"
+    },
+    {
+      "source": "所罗门",
+      "target": "高盛"
+    },
+    {
+      "source": "所罗门",
+      "target": "通用电气"
+    },
+    {
+      "source": "斯科特费泽",
+      "target": "收购"
+    },
+    {
+      "source": "斯科特费泽",
+      "target": "品牌"
+    },
+    {
+      "source": "斯科特费泽",
+      "target": "账面价值"
+    },
+    {
+      "source": "斯科特费泽",
+      "target": "内在价值"
+    },
+    {
+      "source": "斯科特费泽",
+      "target": "芒格"
+    },
+    {
+      "source": "斯科特费泽",
+      "target": "管理层"
+    },
+    {
+      "source": "森林河公司",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "比亚迪",
+      "target": "能源"
+    },
+    {
+      "source": "比亚迪",
+      "target": "芒格"
+    },
+    {
+      "source": "比亚迪",
+      "target": "中美能源"
+    },
+    {
+      "source": "比亚迪",
+      "target": "能力圈"
+    },
+    {
+      "source": "比亚迪",
+      "target": "中国石油"
+    },
+    {
+      "source": "波仙珠宝",
+      "target": "收购"
+    },
+    {
+      "source": "波仙珠宝",
+      "target": "B夫人"
+    },
+    {
+      "source": "波仙珠宝",
+      "target": "护城河"
+    },
+    {
+      "source": "波仙珠宝",
+      "target": "商业模式"
+    },
+    {
+      "source": "波仙珠宝",
+      "target": "管理层"
+    },
+    {
+      "source": "特许通讯",
+      "target": "品牌"
+    },
+    {
+      "source": "特许通讯",
+      "target": "收购"
+    },
+    {
+      "source": "特许通讯",
+      "target": "竞争优势"
+    },
+    {
+      "source": "特许通讯",
+      "target": "托德·库姆斯"
+    },
+    {
+      "source": "特许通讯",
+      "target": "泰德·韦施勒"
+    },
+    {
+      "source": "特许通讯",
+      "target": "大都会通信"
+    },
+    {
+      "source": "特许通讯",
+      "target": "BNSF铁路"
+    },
+    {
+      "source": "特许通讯",
+      "target": "伯克希尔哈撒韦能源"
+    },
+    {
+      "source": "特许通讯",
+      "target": "商业模式"
+    },
+    {
+      "source": "特许通讯",
+      "target": "护城河"
+    },
+    {
+      "source": "特许通讯",
+      "target": "杠杆"
+    },
+    {
+      "source": "盖可保险",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "盖可保险",
+      "target": "阿吉特·贾恩"
+    },
+    {
+      "source": "盖可保险",
+      "target": "安全边际"
+    },
+    {
+      "source": "盖可保险",
+      "target": "留存收益"
+    },
+    {
+      "source": "盖可保险",
+      "target": "美国运通"
+    },
+    {
+      "source": "盖可保险",
+      "target": "账面价值"
+    },
+    {
+      "source": "盖可保险",
+      "target": "通用再保险"
+    },
+    {
+      "source": "科比吸尘器",
+      "target": "商业模式"
+    },
+    {
+      "source": "科比吸尘器",
+      "target": "斯科特费泽"
+    },
+    {
+      "source": "科比吸尘器",
+      "target": "收购"
+    },
+    {
+      "source": "科比吸尘器",
+      "target": "世界图书百科全书"
+    },
+    {
+      "source": "科比吸尘器",
+      "target": "管理层"
+    },
+    {
+      "source": "科比吸尘器",
+      "target": "布法罗新闻报"
+    },
+    {
+      "source": "科比吸尘器",
+      "target": "费希海默制服"
+    },
+    {
+      "source": "科比吸尘器",
+      "target": "内布拉斯加家具店"
+    },
+    {
+      "source": "科比吸尘器",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "科比吸尘器",
+      "target": "资本配置"
+    },
+    {
+      "source": "穆迪",
+      "target": "债券"
+    },
+    {
+      "source": "穆迪",
+      "target": "商业模式"
+    },
+    {
+      "source": "穆迪",
+      "target": "护城河"
+    },
+    {
+      "source": "穆迪",
+      "target": "特许经营权"
+    },
+    {
+      "source": "穆迪",
+      "target": "品牌"
+    },
+    {
+      "source": "穆迪",
+      "target": "竞争优势"
+    },
+    {
+      "source": "穆迪",
+      "target": "长期持有"
+    },
+    {
+      "source": "穆迪",
+      "target": "收购"
+    },
+    {
+      "source": "穆迪",
+      "target": "苹果"
+    },
+    {
+      "source": "穆迪",
+      "target": "美国运通"
+    },
+    {
+      "source": "穆迪",
+      "target": "可口可乐"
+    },
+    {
+      "source": "穆迪",
+      "target": "美国银行"
+    },
+    {
+      "source": "穆迪",
+      "target": "雪佛龙"
+    },
+    {
+      "source": "穆迪",
+      "target": "西方石油"
+    },
+    {
+      "source": "穆迪",
+      "target": "盖可保险"
+    },
+    {
+      "source": "穆迪",
+      "target": "康菲石油"
+    },
+    {
+      "source": "穆迪",
+      "target": "能力圈"
+    },
+    {
+      "source": "穆迪",
+      "target": "复利"
+    },
+    {
+      "source": "精密铸件",
+      "target": "能源"
+    },
+    {
+      "source": "精密铸件",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "精密铸件",
+      "target": "商誉"
+    },
+    {
+      "source": "精密铸件",
+      "target": "德克斯特鞋业"
+    },
+    {
+      "source": "精密铸件",
+      "target": "护城河"
+    },
+    {
+      "source": "精密铸件",
+      "target": "商业模式"
+    },
+    {
+      "source": "精密铸件",
+      "target": "克莱顿房屋"
+    },
+    {
+      "source": "精密铸件",
+      "target": "路博润"
+    },
+    {
+      "source": "精密铸件",
+      "target": "马蒙集团"
+    },
+    {
+      "source": "精密铸件",
+      "target": "航空业"
+    },
+    {
+      "source": "精密铸件",
+      "target": "竞争优势"
+    },
+    {
+      "source": "精密铸件",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "精密铸件",
+      "target": "安全边际"
+    },
+    {
+      "source": "精密铸件",
+      "target": "芒格"
+    },
+    {
+      "source": "精密铸件",
+      "target": "买入价格"
+    },
+    {
+      "source": "约翰斯曼维尔",
+      "target": "收购"
+    },
+    {
+      "source": "约翰斯曼维尔",
+      "target": "长期持有"
+    },
+    {
+      "source": "约翰斯曼维尔",
+      "target": "鲜果布衣"
+    },
+    {
+      "source": "纽约梅隆银行",
+      "target": "商业模式"
+    },
+    {
+      "source": "纽约梅隆银行",
+      "target": "穆迪"
+    },
+    {
+      "source": "纽约梅隆银行",
+      "target": "银行业"
+    },
+    {
+      "source": "纽约梅隆银行",
+      "target": "美国银行"
+    },
+    {
+      "source": "纽约梅隆银行",
+      "target": "富国银行"
+    },
+    {
+      "source": "纽约梅隆银行",
+      "target": "盖可保险"
+    },
+    {
+      "source": "美国合众银行",
+      "target": "美国银行"
+    },
+    {
+      "source": "美国合众银行",
+      "target": "杠杆"
+    },
+    {
+      "source": "美国合众银行",
+      "target": "竞争优势"
+    },
+    {
+      "source": "美国合众银行",
+      "target": "商业模式"
+    },
+    {
+      "source": "美国合众银行",
+      "target": "富国银行"
+    },
+    {
+      "source": "美国合众银行",
+      "target": "管理层"
+    },
+    {
+      "source": "美国合众银行",
+      "target": "银行业"
+    },
+    {
+      "source": "美国合众银行",
+      "target": "护城河"
+    },
+    {
+      "source": "美国家庭服务",
+      "target": "品牌"
+    },
+    {
+      "source": "美国家庭服务",
+      "target": "收购"
+    },
+    {
+      "source": "美国家庭服务",
+      "target": "中美能源"
+    },
+    {
+      "source": "美国家庭服务",
+      "target": "伯克希尔哈撒韦能源"
+    },
+    {
+      "source": "美国家庭服务",
+      "target": "竞争优势"
+    },
+    {
+      "source": "美国运通",
+      "target": "商业模式"
+    },
+    {
+      "source": "美国运通",
+      "target": "竞争优势"
+    },
+    {
+      "source": "美国运通",
+      "target": "股息"
+    },
+    {
+      "source": "美国运通",
+      "target": "芒格"
+    },
+    {
+      "source": "美国运通",
+      "target": "集中投资"
+    },
+    {
+      "source": "美国银行",
+      "target": "护城河"
+    },
+    {
+      "source": "美国银行",
+      "target": "收购"
+    },
+    {
+      "source": "美国银行",
+      "target": "股息"
+    },
+    {
+      "source": "美国银行",
+      "target": "美国运通"
+    },
+    {
+      "source": "美国银行",
+      "target": "雪佛龙"
+    },
+    {
+      "source": "美国银行",
+      "target": "可口可乐"
+    },
+    {
+      "source": "美国银行",
+      "target": "西方石油"
+    },
+    {
+      "source": "美国银行",
+      "target": "高盛"
+    },
+    {
+      "source": "美国银行",
+      "target": "通用电气"
+    },
+    {
+      "source": "美国银行",
+      "target": "复利"
+    },
+    {
+      "source": "苹果",
+      "target": "可口可乐"
+    },
+    {
+      "source": "苹果",
+      "target": "护城河"
+    },
+    {
+      "source": "苹果",
+      "target": "品牌"
+    },
+    {
+      "source": "苹果",
+      "target": "商业模式"
+    },
+    {
+      "source": "苹果",
+      "target": "托德·库姆斯"
+    },
+    {
+      "source": "苹果",
+      "target": "复利"
+    },
+    {
+      "source": "蓝筹印花",
+      "target": "商业模式"
+    },
+    {
+      "source": "蓝筹印花",
+      "target": "保险业"
+    },
+    {
+      "source": "蓝筹印花",
+      "target": "芒格"
+    },
+    {
+      "source": "蓝筹印花",
+      "target": "收购"
+    },
+    {
+      "source": "蓝筹印花",
+      "target": "韦斯科"
+    },
+    {
+      "source": "西方石油",
+      "target": "康菲石油"
+    },
+    {
+      "source": "西方石油",
+      "target": "雪佛龙"
+    },
+    {
+      "source": "西方石油",
+      "target": "收购"
+    },
+    {
+      "source": "西方石油",
+      "target": "股息"
+    },
+    {
+      "source": "西方石油",
+      "target": "管理层"
+    },
+    {
+      "source": "西方石油",
+      "target": "杠杆"
+    },
+    {
+      "source": "西方石油",
+      "target": "高盛"
+    },
+    {
+      "source": "费希海默制服",
+      "target": "商业模式"
+    },
+    {
+      "source": "费希海默制服",
+      "target": "收购"
+    },
+    {
+      "source": "费希海默制服",
+      "target": "斯科特费泽"
+    },
+    {
+      "source": "费希海默制服",
+      "target": "管理层"
+    },
+    {
+      "source": "费希海默制服",
+      "target": "世界图书百科全书"
+    },
+    {
+      "source": "费希海默制服",
+      "target": "保险业"
+    },
+    {
+      "source": "费希海默制服",
+      "target": "布法罗新闻报"
+    },
+    {
+      "source": "费希海默制服",
+      "target": "内布拉斯加家具店"
+    },
+    {
+      "source": "费希海默制服",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "费希海默制服",
+      "target": "复利"
+    },
+    {
+      "source": "路博润",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "路博润",
+      "target": "收购"
+    },
+    {
+      "source": "路博润",
+      "target": "马蒙集团"
+    },
+    {
+      "source": "路博润",
+      "target": "伯克希尔哈撒韦能源"
+    },
+    {
+      "source": "路博润",
+      "target": "保险业"
+    },
+    {
+      "source": "路博润",
+      "target": "竞争优势"
+    },
+    {
+      "source": "路博润",
+      "target": "管理层"
+    },
+    {
+      "source": "路博润",
+      "target": "商业模式"
+    },
+    {
+      "source": "路博润",
+      "target": "克莱顿房屋"
+    },
+    {
+      "source": "路博润",
+      "target": "低估"
+    },
+    {
+      "source": "路博润",
+      "target": "诚信"
+    },
+    {
+      "source": "路博润",
+      "target": "企业文化"
+    },
+    {
+      "source": "路博润",
+      "target": "护城河"
+    },
+    {
+      "source": "路博润",
+      "target": "品牌"
+    },
+    {
+      "source": "通用再保险",
+      "target": "内在价值"
+    },
+    {
+      "source": "通用再保险",
+      "target": "账面价值"
+    },
+    {
+      "source": "通用再保险",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "通用再保险",
+      "target": "阿吉特·贾恩"
+    },
+    {
+      "source": "通用再保险",
+      "target": "芒格"
+    },
+    {
+      "source": "通用汽车",
+      "target": "品牌"
+    },
+    {
+      "source": "通用汽车",
+      "target": "通用电气"
+    },
+    {
+      "source": "通用汽车",
+      "target": "IBM"
+    },
+    {
+      "source": "通用汽车",
+      "target": "买入价格"
+    },
+    {
+      "source": "通用汽车",
+      "target": "护城河"
+    },
+    {
+      "source": "通用汽车",
+      "target": "竞争优势"
+    },
+    {
+      "source": "通用电气",
+      "target": "高盛"
+    },
+    {
+      "source": "通用电气",
+      "target": "管理层"
+    },
+    {
+      "source": "通用电气",
+      "target": "IBM"
+    },
+    {
+      "source": "通用电气",
+      "target": "护城河"
+    },
+    {
+      "source": "雪佛龙",
+      "target": "能源"
+    },
+    {
+      "source": "雪佛龙",
+      "target": "康菲石油"
+    },
+    {
+      "source": "雪佛龙",
+      "target": "杠杆"
+    },
+    {
+      "source": "雪佛龙",
+      "target": "低估"
+    },
+    {
+      "source": "雪佛龙",
+      "target": "回购"
+    },
+    {
+      "source": "雪佛龙",
+      "target": "美国运通"
+    },
+    {
+      "source": "雪佛龙",
+      "target": "可口可乐"
+    },
+    {
+      "source": "雪佛龙",
+      "target": "资本配置"
+    },
+    {
+      "source": "韦斯科",
+      "target": "芒格"
+    },
+    {
+      "source": "韦斯科",
+      "target": "收购"
+    },
+    {
+      "source": "韦斯科",
+      "target": "保险业"
+    },
+    {
+      "source": "韦斯科",
+      "target": "资本配置"
+    },
+    {
+      "source": "飞安公司",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "飞安公司",
+      "target": "收购"
+    },
+    {
+      "source": "飞安公司",
+      "target": "利捷航空"
+    },
+    {
+      "source": "飞安公司",
+      "target": "账面价值"
+    },
+    {
+      "source": "飞安公司",
+      "target": "航空业"
+    },
+    {
+      "source": "飞安公司",
+      "target": "资本配置"
+    },
+    {
+      "source": "飞安公司",
+      "target": "竞争优势"
+    },
+    {
+      "source": "飞安公司",
+      "target": "品牌"
+    },
+    {
+      "source": "马蒙集团",
+      "target": "收购"
+    },
+    {
+      "source": "马蒙集团",
+      "target": "芒格"
+    },
+    {
+      "source": "马蒙集团",
+      "target": "高盛"
+    },
+    {
+      "source": "马蒙集团",
+      "target": "竞争优势"
+    },
+    {
+      "source": "马蒙集团",
+      "target": "护城河"
+    },
+    {
+      "source": "马蒙集团",
+      "target": "管理层"
+    },
+    {
+      "source": "高盛",
+      "target": "竞争优势"
+    },
+    {
+      "source": "高盛",
+      "target": "品牌"
+    },
+    {
+      "source": "高盛",
+      "target": "护城河"
+    },
+    {
+      "source": "高盛",
+      "target": "杠杆"
+    },
+    {
+      "source": "高盛",
+      "target": "盖可保险"
+    },
+    {
+      "source": "高盛",
+      "target": "股息"
+    },
+    {
+      "source": "高盛",
+      "target": "麦克莱恩"
+    },
+    {
+      "source": "高盛",
+      "target": "收购"
+    },
+    {
+      "source": "高盛",
+      "target": "商业模式"
+    },
+    {
+      "source": "高盛",
+      "target": "管理层"
+    },
+    {
+      "source": "高盛",
+      "target": "能力圈"
+    },
+    {
+      "source": "高盛",
+      "target": "安全边际"
+    },
+    {
+      "source": "鲜果布衣",
+      "target": "品牌"
+    },
+    {
+      "source": "鲜果布衣",
+      "target": "商业模式"
+    },
+    {
+      "source": "鲜果布衣",
+      "target": "竞争优势"
+    },
+    {
+      "source": "鲜果布衣",
+      "target": "收购"
+    },
+    {
+      "source": "鲜果布衣",
+      "target": "管理层"
+    },
+    {
+      "source": "鲜果布衣",
+      "target": "内在价值"
+    },
+    {
+      "source": "麦克莱恩",
+      "target": "竞争优势"
+    },
+    {
+      "source": "麦克莱恩",
+      "target": "护城河"
+    },
+    {
+      "source": "麦克莱恩",
+      "target": "收购"
+    },
+    {
+      "source": "麦克莱恩",
+      "target": "品牌"
+    },
+    {
+      "source": "麦克莱恩",
+      "target": "盖可保险"
+    },
+    {
+      "source": "麦克莱恩",
+      "target": "保险业"
+    },
+    {
+      "source": "B夫人",
+      "target": "可口可乐"
+    },
+    {
+      "source": "B夫人",
+      "target": "收购"
+    },
+    {
+      "source": "B夫人",
+      "target": "诚信"
+    },
+    {
+      "source": "B夫人",
+      "target": "商业模式"
+    },
+    {
+      "source": "托德·库姆斯",
+      "target": "泰德·韦施勒"
+    },
+    {
+      "source": "托德·库姆斯",
+      "target": "盖可保险"
+    },
+    {
+      "source": "托德·库姆斯",
+      "target": "芒格"
+    },
+    {
+      "source": "托德·库姆斯",
+      "target": "收购"
+    },
+    {
+      "source": "托德·库姆斯",
+      "target": "精密铸件"
+    },
+    {
+      "source": "托德·库姆斯",
+      "target": "长期持有"
+    },
+    {
+      "source": "托德·库姆斯",
+      "target": "保险业"
+    },
+    {
+      "source": "格雷厄姆",
+      "target": "芒格"
+    },
+    {
+      "source": "格雷格·阿贝尔",
+      "target": "收购"
+    },
+    {
+      "source": "格雷格·阿贝尔",
+      "target": "股息"
+    },
+    {
+      "source": "格雷格·阿贝尔",
+      "target": "保险业"
+    },
+    {
+      "source": "格雷格·阿贝尔",
+      "target": "阿吉特·贾恩"
+    },
+    {
+      "source": "格雷格·阿贝尔",
+      "target": "芒格"
+    },
+    {
+      "source": "格雷格·阿贝尔",
+      "target": "管理层"
+    },
+    {
+      "source": "格雷格·阿贝尔",
+      "target": "资本配置"
+    },
+    {
+      "source": "泰德·韦施勒",
+      "target": "收购"
+    },
+    {
+      "source": "泰德·韦施勒",
+      "target": "资本配置"
+    },
+    {
+      "source": "泰德·韦施勒",
+      "target": "芒格"
+    },
+    {
+      "source": "芒格",
+      "target": "品牌"
+    },
+    {
+      "source": "芒格",
+      "target": "低估"
+    },
+    {
+      "source": "芒格",
+      "target": "可口可乐"
+    },
+    {
+      "source": "芒格",
+      "target": "苹果"
+    },
+    {
+      "source": "芒格",
+      "target": "企业文化"
+    },
+    {
+      "source": "阿吉特·贾恩",
+      "target": "收购"
+    },
+    {
+      "source": "阿吉特·贾恩",
+      "target": "芒格"
+    },
+    {
+      "source": "1985巴菲特电视采访",
+      "target": "内在价值"
+    },
+    {
+      "source": "1985巴菲特电视采访",
+      "target": "买入价格"
+    },
+    {
+      "source": "1985巴菲特电视采访",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "1985巴菲特电视采访",
+      "target": "安全边际"
+    },
+    {
+      "source": "1985巴菲特电视采访",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "1985巴菲特电视采访",
+      "target": "科技与互联网"
+    },
+    {
+      "source": "1985巴菲特电视采访",
+      "target": "IBM"
+    },
+    {
+      "source": "1985巴菲特电视采访",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1990年巴菲特在斯坦福大学的演讲",
+      "target": "能力圈"
+    },
+    {
+      "source": "1990年巴菲特在斯坦福大学的演讲",
+      "target": "现代投资组合理论"
+    },
+    {
+      "source": "1990年巴菲特在斯坦福大学的演讲",
+      "target": "可口可乐"
+    },
+    {
+      "source": "1990年巴菲特在斯坦福大学的演讲",
+      "target": "B夫人"
+    },
+    {
+      "source": "1990年巴菲特在斯坦福大学的演讲",
+      "target": "内布拉斯加家具店"
+    },
+    {
+      "source": "1990年巴菲特在斯坦福大学的演讲",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1990年巴菲特在斯坦福大学的演讲",
+      "target": "收购"
+    },
+    {
+      "source": "1990年巴菲特在斯坦福大学的演讲",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "1990年巴菲特在斯坦福大学的演讲",
+      "target": "套利"
+    },
+    {
+      "source": "1990年巴菲特在斯坦福大学的演讲",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "1990年巴菲特在斯坦福大学的演讲",
+      "target": "护城河"
+    },
+    {
+      "source": "1990年巴菲特在斯坦福大学的演讲",
+      "target": "内在价值"
+    },
+    {
+      "source": "1990年巴菲特在斯坦福大学的演讲",
+      "target": "安全边际"
+    },
+    {
+      "source": "1990年巴菲特在斯坦福大学的演讲",
+      "target": "分散投资"
+    },
+    {
+      "source": "1990年巴菲特在斯坦福大学的演讲",
+      "target": "买入价格"
+    },
+    {
+      "source": "1990年巴菲特在斯坦福大学的演讲",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "1990年巴菲特在斯坦福大学的演讲",
+      "target": "芒格"
+    },
+    {
+      "source": "1991巴菲特对圣母大学对MBA学生的演讲",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "1991巴菲特对圣母大学对MBA学生的演讲",
+      "target": "商业模式"
+    },
+    {
+      "source": "1991巴菲特对圣母大学对MBA学生的演讲",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1991巴菲特对圣母大学对MBA学生的演讲",
+      "target": "品牌"
+    },
+    {
+      "source": "1991巴菲特对圣母大学对MBA学生的演讲",
+      "target": "买入价格"
+    },
+    {
+      "source": "1991巴菲特对圣母大学对MBA学生的演讲",
+      "target": "企业文化"
+    },
+    {
+      "source": "1991巴菲特对圣母大学对MBA学生的演讲",
+      "target": "可口可乐"
+    },
+    {
+      "source": "1991巴菲特对圣母大学对MBA学生的演讲",
+      "target": "B夫人"
+    },
+    {
+      "source": "1991巴菲特对圣母大学对MBA学生的演讲",
+      "target": "内布拉斯加家具店"
+    },
+    {
+      "source": "1991巴菲特对圣母大学对MBA学生的演讲",
+      "target": "护城河"
+    },
+    {
+      "source": "1991巴菲特对圣母大学对MBA学生的演讲",
+      "target": "特许经营权"
+    },
+    {
+      "source": "1991巴菲特对圣母大学对MBA学生的演讲",
+      "target": "布法罗新闻报"
+    },
+    {
+      "source": "1998巴菲特在佛罗里达大学商学院的演讲",
+      "target": "长期资本管理公司"
+    },
+    {
+      "source": "1998巴菲特在佛罗里达大学商学院的演讲",
+      "target": "护城河"
+    },
+    {
+      "source": "1998巴菲特在佛罗里达大学商学院的演讲",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "1998巴菲特在佛罗里达大学商学院的演讲",
+      "target": "内在价值"
+    },
+    {
+      "source": "1998巴菲特在佛罗里达大学商学院的演讲",
+      "target": "低估"
+    },
+    {
+      "source": "1998巴菲特在佛罗里达大学商学院的演讲",
+      "target": "杠杆"
+    },
+    {
+      "source": "1998巴菲特在佛罗里达大学商学院的演讲",
+      "target": "保险业"
+    },
+    {
+      "source": "1998巴菲特在佛罗里达大学商学院的演讲",
+      "target": "品牌"
+    },
+    {
+      "source": "1998巴菲特在佛罗里达大学商学院的演讲",
+      "target": "可口可乐"
+    },
+    {
+      "source": "1998巴菲特在佛罗里达大学商学院的演讲",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1998巴菲特在佛罗里达大学商学院的演讲",
+      "target": "芒格"
+    },
+    {
+      "source": "1998年巴菲特与比尔盖茨在华盛顿大学的对话",
+      "target": "巴菲特"
+    },
+    {
+      "source": "1998年巴菲特与比尔盖茨在华盛顿大学的对话",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1998年巴菲特与比尔盖茨在华盛顿大学的对话",
+      "target": "芒格"
+    },
+    {
+      "source": "1998年巴菲特与比尔盖茨在华盛顿大学的对话",
+      "target": "可口可乐"
+    },
+    {
+      "source": "1998年巴菲特与比尔盖茨在华盛顿大学的对话",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "1998年巴菲特与比尔盖茨在华盛顿大学的对话",
+      "target": "内在价值"
+    },
+    {
+      "source": "1998年巴菲特与比尔盖茨在华盛顿大学的对话",
+      "target": "护城河"
+    },
+    {
+      "source": "1998年巴菲特与比尔盖茨在华盛顿大学的对话",
+      "target": "商业模式"
+    },
+    {
+      "source": "1998年巴菲特与比尔盖茨在华盛顿大学的对话",
+      "target": "企业文化"
+    },
+    {
+      "source": "2005堪萨斯商学院学生于伯克希尔总部与沃伦·巴菲特的问答",
+      "target": "芒格"
+    },
+    {
+      "source": "2005堪萨斯商学院学生于伯克希尔总部与沃伦·巴菲特的问答",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "2005堪萨斯商学院学生于伯克希尔总部与沃伦·巴菲特的问答",
+      "target": "安全边际"
+    },
+    {
+      "source": "2005堪萨斯商学院学生于伯克希尔总部与沃伦·巴菲特的问答",
+      "target": "有效市场"
+    },
+    {
+      "source": "2005堪萨斯商学院学生于伯克希尔总部与沃伦·巴菲特的问答",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "2005堪萨斯商学院学生于伯克希尔总部与沃伦·巴菲特的问答",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2005堪萨斯商学院学生于伯克希尔总部与沃伦·巴菲特的问答",
+      "target": "中国石油"
+    },
+    {
+      "source": "2005堪萨斯商学院学生于伯克希尔总部与沃伦·巴菲特的问答",
+      "target": "保险业"
+    },
+    {
+      "source": "2005堪萨斯商学院学生于伯克希尔总部与沃伦·巴菲特的问答",
+      "target": "市盈率"
+    },
+    {
+      "source": "2005堪萨斯商学院学生于伯克希尔总部与沃伦·巴菲特的问答",
+      "target": "内在价值"
+    },
+    {
+      "source": "2005堪萨斯商学院学生于伯克希尔总部与沃伦·巴菲特的问答",
+      "target": "内布拉斯加家具店"
+    },
+    {
+      "source": "2007年央视专访巴菲特",
+      "target": "中国石油"
+    },
+    {
+      "source": "2007年央视专访巴菲特",
+      "target": "买入价格"
+    },
+    {
+      "source": "2007年央视专访巴菲特",
+      "target": "安全边际"
+    },
+    {
+      "source": "2007年央视专访巴菲特",
+      "target": "内在价值"
+    },
+    {
+      "source": "2007年央视专访巴菲特",
+      "target": "可口可乐"
+    },
+    {
+      "source": "2007年央视专访巴菲特",
+      "target": "低估"
+    },
+    {
+      "source": "2007年央视专访巴菲特",
+      "target": "市盈率"
+    },
+    {
+      "source": "2007年央视专访巴菲特",
+      "target": "市场预测"
+    },
+    {
+      "source": "2007年央视专访巴菲特",
+      "target": "伊斯卡"
+    },
+    {
+      "source": "2007年央视专访巴菲特",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2007年央视专访巴菲特",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "2008巴菲特答Emory与Austin大学商学院学生问巴菲特答",
+      "target": "护城河"
+    },
+    {
+      "source": "2008巴菲特答Emory与Austin大学商学院学生问巴菲特答",
+      "target": "杠杆"
+    },
+    {
+      "source": "2008巴菲特答Emory与Austin大学商学院学生问巴菲特答",
+      "target": "分散投资"
+    },
+    {
+      "source": "2008巴菲特答Emory与Austin大学商学院学生问巴菲特答",
+      "target": "芒格"
+    },
+    {
+      "source": "2008巴菲特答Emory与Austin大学商学院学生问巴菲特答",
+      "target": "可口可乐"
+    },
+    {
+      "source": "2008巴菲特答Emory与Austin大学商学院学生问巴菲特答",
+      "target": "吉列"
+    },
+    {
+      "source": "2008巴菲特答Emory与Austin大学商学院学生问巴菲特答",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "2008巴菲特答Emory与Austin大学商学院学生问巴菲特答",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2008巴菲特答Emory与Austin大学商学院学生问巴菲特答",
+      "target": "内布拉斯加家具店"
+    },
+    {
+      "source": "2008巴菲特答Emory与Austin大学商学院学生问巴菲特答",
+      "target": "B夫人"
+    },
+    {
+      "source": "2008巴菲特答Emory与Austin大学商学院学生问巴菲特答",
+      "target": "套利"
+    },
+    {
+      "source": "2008巴菲特答Emory与Austin大学商学院学生问巴菲特答",
+      "target": "市盈率"
+    },
+    {
+      "source": "2008巴菲特答Emory与Austin大学商学院学生问巴菲特答",
+      "target": "内在价值"
+    },
+    {
+      "source": "2008巴菲特答Emory与Austin大学商学院学生问巴菲特答",
+      "target": "安全边际"
+    },
+    {
+      "source": "2010央视财经采访巴菲特",
+      "target": "巴菲特"
+    },
+    {
+      "source": "2010央视财经采访巴菲特",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2010央视财经采访巴菲特",
+      "target": "芒格"
+    },
+    {
+      "source": "2010央视财经采访巴菲特",
+      "target": "买入价格"
+    },
+    {
+      "source": "2010央视财经采访巴菲特",
+      "target": "内在价值"
+    },
+    {
+      "source": "2010年CNBC采访巴菲特全文",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2010年CNBC采访巴菲特全文",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "2010年CNBC采访巴菲特全文",
+      "target": "债券"
+    },
+    {
+      "source": "2010年CNBC采访巴菲特全文",
+      "target": "保险业"
+    },
+    {
+      "source": "2010年CNBC采访巴菲特全文",
+      "target": "杠杆"
+    },
+    {
+      "source": "2010年CNBC采访巴菲特全文",
+      "target": "企业文化"
+    },
+    {
+      "source": "2010年CNBC采访巴菲特全文",
+      "target": "可口可乐"
+    },
+    {
+      "source": "2010年CNBC采访巴菲特全文",
+      "target": "芒格"
+    },
+    {
+      "source": "2011年巴菲特与南京大学EMBA学生畅言谈投资与人生全中文纪录",
+      "target": "护城河"
+    },
+    {
+      "source": "2011年巴菲特与南京大学EMBA学生畅言谈投资与人生全中文纪录",
+      "target": "巴菲特"
+    },
+    {
+      "source": "2011年巴菲特与南京大学EMBA学生畅言谈投资与人生全中文纪录",
+      "target": "内布拉斯加家具店"
+    },
+    {
+      "source": "2011年巴菲特与南京大学EMBA学生畅言谈投资与人生全中文纪录",
+      "target": "保险业"
+    },
+    {
+      "source": "2011年巴菲特与南京大学EMBA学生畅言谈投资与人生全中文纪录",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2011年巴菲特与南京大学EMBA学生畅言谈投资与人生全中文纪录",
+      "target": "买入价格"
+    },
+    {
+      "source": "2011年巴菲特与南京大学EMBA学生畅言谈投资与人生全中文纪录",
+      "target": "可口可乐"
+    },
+    {
+      "source": "2011年巴菲特与南京大学EMBA学生畅言谈投资与人生全中文纪录",
+      "target": "中国石油"
+    },
+    {
+      "source": "2011年巴菲特与南京大学EMBA学生畅言谈投资与人生全中文纪录",
+      "target": "内在价值"
+    },
+    {
+      "source": "2011年巴菲特与南京大学EMBA学生畅言谈投资与人生全中文纪录",
+      "target": "收购"
+    },
+    {
+      "source": "2011年巴菲特与南京大学EMBA学生畅言谈投资与人生全中文纪录",
+      "target": "BNSF铁路"
+    },
+    {
+      "source": "2011年巴菲特与南京大学EMBA学生畅言谈投资与人生全中文纪录",
+      "target": "B夫人"
+    },
+    {
+      "source": "2011年巴菲特与南京大学EMBA学生畅言谈投资与人生全中文纪录",
+      "target": "芒格"
+    },
+    {
+      "source": "2013巴菲特与马里兰大学MBA学生的交流发言",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2013巴菲特与马里兰大学MBA学生的交流发言",
+      "target": "企业文化"
+    },
+    {
+      "source": "2013巴菲特与马里兰大学MBA学生的交流发言",
+      "target": "护城河"
+    },
+    {
+      "source": "2013巴菲特与马里兰大学MBA学生的交流发言",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "2013巴菲特与马里兰大学MBA学生的交流发言",
+      "target": "市盈率"
+    },
+    {
+      "source": "2013巴菲特与马里兰大学MBA学生的交流发言",
+      "target": "芒格"
+    },
+    {
+      "source": "2013巴菲特与马里兰大学MBA学生的交流发言",
+      "target": "低估"
+    },
+    {
+      "source": "2013巴菲特与马里兰大学MBA学生的交流发言",
+      "target": "BNSF铁路"
+    },
+    {
+      "source": "2013巴菲特与马里兰大学MBA学生的交流发言",
+      "target": "可口可乐"
+    },
+    {
+      "source": "2013巴菲特与马里兰大学MBA学生的交流发言",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "2013巴菲特与马里兰大学MBA学生的交流发言",
+      "target": "安全边际"
+    },
+    {
+      "source": "2013巴菲特与马里兰大学MBA学生的交流发言",
+      "target": "内在价值"
+    },
+    {
+      "source": "2013巴菲特与马里兰大学MBA学生的交流发言",
+      "target": "收购"
+    },
+    {
+      "source": "2013巴菲特与马里兰大学MBA学生的交流发言",
+      "target": "复利"
+    },
+    {
+      "source": "2013巴菲特与马里兰大学MBA学生的交流发言",
+      "target": "内布拉斯加家具店"
+    },
+    {
+      "source": "2013巴菲特与马里兰大学MBA学生的交流发言",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "2013巴菲特与马里兰大学MBA学生的交流发言",
+      "target": "B夫人"
+    },
+    {
+      "source": "2013巴菲特与马里兰大学MBA学生的交流发言",
+      "target": "托德·库姆斯"
+    },
+    {
+      "source": "2013巴菲特与马里兰大学MBA学生的交流发言",
+      "target": "泰德·韦施勒"
+    },
+    {
+      "source": "2015沃伦·巴菲特答Ivey商学院MBA学生问沃伦·巴菲特答",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2015沃伦·巴菲特答Ivey商学院MBA学生问沃伦·巴菲特答",
+      "target": "芒格"
+    },
+    {
+      "source": "2015沃伦·巴菲特答Ivey商学院MBA学生问沃伦·巴菲特答",
+      "target": "B夫人"
+    },
+    {
+      "source": "2015沃伦·巴菲特答Ivey商学院MBA学生问沃伦·巴菲特答",
+      "target": "市场预测"
+    },
+    {
+      "source": "2015沃伦·巴菲特答Ivey商学院MBA学生问沃伦·巴菲特答",
+      "target": "内在价值"
+    },
+    {
+      "source": "2015沃伦·巴菲特答Ivey商学院MBA学生问沃伦·巴菲特答",
+      "target": "债券"
+    },
+    {
+      "source": "2015沃伦·巴菲特答Ivey商学院MBA学生问沃伦·巴菲特答",
+      "target": "有效市场"
+    },
+    {
+      "source": "2015沃伦·巴菲特答Ivey商学院MBA学生问沃伦·巴菲特答",
+      "target": "护城河"
+    },
+    {
+      "source": "2015沃伦·巴菲特答Ivey商学院MBA学生问沃伦·巴菲特答",
+      "target": "可口可乐"
+    },
+    {
+      "source": "2015沃伦·巴菲特答Ivey商学院MBA学生问沃伦·巴菲特答",
+      "target": "BNSF铁路"
+    },
+    {
+      "source": "2015沃伦·巴菲特答Ivey商学院MBA学生问沃伦·巴菲特答",
+      "target": "内布拉斯加家具店"
+    },
+    {
+      "source": "2015沃伦·巴菲特答Ivey商学院MBA学生问沃伦·巴菲特答",
+      "target": "复利"
+    },
+    {
+      "source": "2015沃伦·巴菲特答Ivey商学院MBA学生问沃伦·巴菲特答",
+      "target": "企业文化"
+    },
+    {
+      "source": "2015沃伦·巴菲特答Ivey商学院MBA学生问沃伦·巴菲特答",
+      "target": "公司治理"
+    },
+    {
+      "source": "2016年巴菲特与8所大学MBA学生见面会的20个问答",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2016年巴菲特与8所大学MBA学生见面会的20个问答",
+      "target": "芒格"
+    },
+    {
+      "source": "2016年巴菲特与8所大学MBA学生见面会的20个问答",
+      "target": "分散投资"
+    },
+    {
+      "source": "2016年巴菲特与8所大学MBA学生见面会的20个问答",
+      "target": "科技与互联网"
+    },
+    {
+      "source": "2016年巴菲特与8所大学MBA学生见面会的20个问答",
+      "target": "托德·库姆斯"
+    },
+    {
+      "source": "2016年巴菲特与8所大学MBA学生见面会的20个问答",
+      "target": "泰德·韦施勒"
+    },
+    {
+      "source": "2016年巴菲特与8所大学MBA学生见面会的20个问答",
+      "target": "杠杆"
+    },
+    {
+      "source": "2016年巴菲特与8所大学MBA学生见面会的20个问答",
+      "target": "阿吉特·贾恩"
+    },
+    {
+      "source": "2016年巴菲特与8所大学MBA学生见面会的20个问答",
+      "target": "保险业"
+    },
+    {
+      "source": "2016年巴菲特与8所大学MBA学生见面会的20个问答",
+      "target": "富国银行"
+    },
+    {
+      "source": "2016年巴菲特与8所大学MBA学生见面会的20个问答",
+      "target": "市场预测"
+    },
+    {
+      "source": "2016年巴菲特与8所大学MBA学生见面会的20个问答",
+      "target": "可口可乐"
+    },
+    {
+      "source": "2016年巴菲特与8所大学MBA学生见面会的20个问答",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "2017年CNBC采访巴菲特",
+      "target": "苹果"
+    },
+    {
+      "source": "2017年CNBC采访巴菲特",
+      "target": "市场体系"
+    },
+    {
+      "source": "2017年CNBC采访巴菲特",
+      "target": "分散投资"
+    },
+    {
+      "source": "2017年CNBC采访巴菲特",
+      "target": "债券"
+    },
+    {
+      "source": "2017年CNBC采访巴菲特",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2017年CNBC采访巴菲特",
+      "target": "泰德·韦施勒"
+    },
+    {
+      "source": "2017年CNBC采访巴菲特",
+      "target": "美国航空"
+    },
+    {
+      "source": "2017年CNBC采访巴菲特",
+      "target": "卡夫亨氏"
+    },
+    {
+      "source": "2017年CNBC采访巴菲特",
+      "target": "买入价格"
+    },
+    {
+      "source": "2017年CNBC采访巴菲特",
+      "target": "内在价值"
+    },
+    {
+      "source": "2017年CNBC采访巴菲特",
+      "target": "市场预测"
+    },
+    {
+      "source": "2017年CNBC采访巴菲特",
+      "target": "收购"
+    },
+    {
+      "source": "2017年CNBC采访巴菲特",
+      "target": "护城河"
+    },
+    {
+      "source": "2017年CNBC采访巴菲特",
+      "target": "富国银行"
+    },
+    {
+      "source": "2017年CNBC采访巴菲特",
+      "target": "冰雪皇后"
+    },
+    {
+      "source": "2017年CNBC采访巴菲特",
+      "target": "格雷格·阿贝尔"
+    },
+    {
+      "source": "2017年哥伦比亚大学——人生最美好的事是什么？巴菲特：没考上哈佛大学",
+      "target": "巴菲特"
+    },
+    {
+      "source": "2017年哥伦比亚大学——人生最美好的事是什么？巴菲特：没考上哈佛大学",
+      "target": "IBM"
+    },
+    {
+      "source": "2017年哥伦比亚大学——人生最美好的事是什么？巴菲特：没考上哈佛大学",
+      "target": "市场预测"
+    },
+    {
+      "source": "2017年哥伦比亚大学——人生最美好的事是什么？巴菲特：没考上哈佛大学",
+      "target": "芒格"
+    },
+    {
+      "source": "2017年巴菲特对话北京大学学生：最好的投资是投资自己",
+      "target": "市场先生"
+    },
+    {
+      "source": "2017年巴菲特对话北京大学学生：最好的投资是投资自己",
+      "target": "芒格"
+    },
+    {
+      "source": "2017年巴菲特对话北京大学学生：最好的投资是投资自己",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "2017年巴菲特对话北京大学学生：最好的投资是投资自己",
+      "target": "安全边际"
+    },
+    {
+      "source": "2017年巴菲特对话北京大学学生：最好的投资是投资自己",
+      "target": "低估"
+    },
+    {
+      "source": "2017年巴菲特对话北京大学学生：最好的投资是投资自己",
+      "target": "收购"
+    },
+    {
+      "source": "2017年巴菲特对话北京大学学生：最好的投资是投资自己",
+      "target": "买入价格"
+    },
+    {
+      "source": "2017年巴菲特对话北京大学学生：最好的投资是投资自己",
+      "target": "内在价值"
+    },
+    {
+      "source": "2017年巴菲特对话北京大学学生：最好的投资是投资自己",
+      "target": "公司治理"
+    },
+    {
+      "source": "2017年巴菲特对话北京大学学生：最好的投资是投资自己",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2018年巴菲特再度邀请北大光华学子共进午餐问答全记录",
+      "target": "护城河"
+    },
+    {
+      "source": "2018年巴菲特再度邀请北大光华学子共进午餐问答全记录",
+      "target": "巴菲特"
+    },
+    {
+      "source": "2018年巴菲特再度邀请北大光华学子共进午餐问答全记录",
+      "target": "科技与互联网"
+    },
+    {
+      "source": "2018年巴菲特再度邀请北大光华学子共进午餐问答全记录",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "2018年巴菲特再度邀请北大光华学子共进午餐问答全记录",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2018年巴菲特再度邀请北大光华学子共进午餐问答全记录",
+      "target": "留存收益"
+    },
+    {
+      "source": "2018年巴菲特再度邀请北大光华学子共进午餐问答全记录",
+      "target": "品牌"
+    },
+    {
+      "source": "2018年巴菲特再度邀请北大光华学子共进午餐问答全记录",
+      "target": "低估"
+    },
+    {
+      "source": "2018年巴菲特再度邀请北大光华学子共进午餐问答全记录",
+      "target": "内在价值"
+    },
+    {
+      "source": "2018年巴菲特再度邀请北大光华学子共进午餐问答全记录",
+      "target": "芒格"
+    },
+    {
+      "source": "2018年巴菲特再度邀请北大光华学子共进午餐问答全记录",
+      "target": "收购"
+    },
+    {
+      "source": "2018年巴菲特再度邀请北大光华学子共进午餐问答全记录",
+      "target": "可口可乐"
+    },
+    {
+      "source": "2018年巴菲特再度邀请北大光华学子共进午餐问答全记录",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "2019年5月雅虎财经专访巴菲特",
+      "target": "内在价值"
+    },
+    {
+      "source": "2019年5月雅虎财经专访巴菲特",
+      "target": "收购"
+    },
+    {
+      "source": "2019年5月雅虎财经专访巴菲特",
+      "target": "巴菲特"
+    },
+    {
+      "source": "2019年5月雅虎财经专访巴菲特",
+      "target": "芒格"
+    },
+    {
+      "source": "2019年5月雅虎财经专访巴菲特",
+      "target": "买入价格"
+    },
+    {
+      "source": "2019年5月雅虎财经专访巴菲特",
+      "target": "苹果"
+    },
+    {
+      "source": "2019年5月雅虎财经专访巴菲特",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2019年5月雅虎财经专访巴菲特",
+      "target": "回购"
+    },
+    {
+      "source": "2019年5月雅虎财经专访巴菲特",
+      "target": "托德·库姆斯"
+    },
+    {
+      "source": "2019年5月雅虎财经专访巴菲特",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "2019年5月雅虎财经专访巴菲特",
+      "target": "BNSF铁路"
+    },
+    {
+      "source": "2019年5月雅虎财经专访巴菲特",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "2019年5月雅虎财经专访巴菲特",
+      "target": "市场预测"
+    },
+    {
+      "source": "2019年5月雅虎财经专访巴菲特",
+      "target": "可口可乐"
+    },
+    {
+      "source": "2020年沃伦·巴菲特接受CNBC专访",
+      "target": "债券"
+    },
+    {
+      "source": "2020年沃伦·巴菲特接受CNBC专访",
+      "target": "留存收益"
+    },
+    {
+      "source": "2020年沃伦·巴菲特接受CNBC专访",
+      "target": "巴菲特"
+    },
+    {
+      "source": "2020年沃伦·巴菲特接受CNBC专访",
+      "target": "通用汽车"
+    },
+    {
+      "source": "2020年沃伦·巴菲特接受CNBC专访",
+      "target": "复利"
+    },
+    {
+      "source": "2020年沃伦·巴菲特接受CNBC专访",
+      "target": "回购"
+    },
+    {
+      "source": "2020年沃伦·巴菲特接受CNBC专访",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2020年沃伦·巴菲特接受CNBC专访",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "2020年沃伦·巴菲特接受CNBC专访",
+      "target": "市盈率"
+    },
+    {
+      "source": "2020年沃伦·巴菲特接受CNBC专访",
+      "target": "冰雪皇后"
+    },
+    {
+      "source": "2020年沃伦·巴菲特接受CNBC专访",
+      "target": "苹果"
+    },
+    {
+      "source": "2020年沃伦·巴菲特接受CNBC专访",
+      "target": "买入价格"
+    },
+    {
+      "source": "2020年沃伦·巴菲特接受CNBC专访",
+      "target": "内在价值"
+    },
+    {
+      "source": "2020年沃伦·巴菲特接受CNBC专访",
+      "target": "可口可乐"
+    },
+    {
+      "source": "2020年沃伦·巴菲特接受CNBC专访",
+      "target": "内布拉斯加家具店"
+    },
+    {
+      "source": "2020年沃伦·巴菲特接受CNBC专访",
+      "target": "芒格"
+    },
+    {
+      "source": "2022巴菲特和查理罗斯对谈",
+      "target": "芒格"
+    },
+    {
+      "source": "2022巴菲特和查理罗斯对谈",
+      "target": "格雷格·阿贝尔"
+    },
+    {
+      "source": "2022巴菲特和查理罗斯对谈",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "2022巴菲特和查理罗斯对谈",
+      "target": "托德·库姆斯"
+    },
+    {
+      "source": "2022巴菲特和查理罗斯对谈",
+      "target": "泰德·韦施勒"
+    },
+    {
+      "source": "2022巴菲特和查理罗斯对谈",
+      "target": "买入价格"
+    },
+    {
+      "source": "2022巴菲特和查理罗斯对谈",
+      "target": "内在价值"
+    },
+    {
+      "source": "2022巴菲特和查理罗斯对谈",
+      "target": "市场预测"
+    },
+    {
+      "source": "2022巴菲特和查理罗斯对谈",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2023年伯克希尔股东大会",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2023年伯克希尔股东大会",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "2023年伯克希尔股东大会",
+      "target": "巴菲特"
+    },
+    {
+      "source": "2023年伯克希尔股东大会",
+      "target": "保险业"
+    },
+    {
+      "source": "2023年伯克希尔股东大会",
+      "target": "阿吉特·贾恩"
+    },
+    {
+      "source": "2023年伯克希尔股东大会",
+      "target": "格雷格·阿贝尔"
+    },
+    {
+      "source": "2023年伯克希尔股东大会",
+      "target": "BNSF铁路"
+    },
+    {
+      "source": "2023年伯克希尔股东大会",
+      "target": "留存收益"
+    },
+    {
+      "source": "2023年伯克希尔股东大会",
+      "target": "回购"
+    },
+    {
+      "source": "2023年伯克希尔股东大会",
+      "target": "内在价值"
+    },
+    {
+      "source": "2023年伯克希尔股东大会",
+      "target": "承保纪律"
+    },
+    {
+      "source": "2023年伯克希尔股东大会",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "2023年伯克希尔股东大会",
+      "target": "芒格"
+    },
+    {
+      "source": "2024年伯克希尔股东大会",
+      "target": "苹果"
+    },
+    {
+      "source": "2024年伯克希尔股东大会",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2024年伯克希尔股东大会",
+      "target": "保险业"
+    },
+    {
+      "source": "2024年伯克希尔股东大会",
+      "target": "阿吉特·贾恩"
+    },
+    {
+      "source": "2024年伯克希尔股东大会",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "2024年伯克希尔股东大会",
+      "target": "BNSF铁路"
+    },
+    {
+      "source": "2024年伯克希尔股东大会",
+      "target": "回购"
+    },
+    {
+      "source": "2024年伯克希尔股东大会",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "2024年伯克希尔股东大会",
+      "target": "市场先生"
+    },
+    {
+      "source": "2024年伯克希尔股东大会",
+      "target": "芒格"
+    },
+    {
+      "source": "2024年伯克希尔股东大会",
+      "target": "美国运通"
+    },
+    {
+      "source": "2024年伯克希尔股东大会",
+      "target": "可口可乐"
+    },
+    {
+      "source": "2024年伯克希尔股东大会",
+      "target": "留存收益"
+    },
+    {
+      "source": "2024年伯克希尔股东大会",
+      "target": "复利"
+    },
+    {
+      "source": "2024年伯克希尔股东大会",
+      "target": "税收效率"
+    },
+    {
+      "source": "2024年伯克希尔股东大会",
+      "target": "内在价值"
+    },
+    {
+      "source": "2024年伯克希尔股东大会",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "2024年伯克希尔股东大会",
+      "target": "冰雪皇后"
+    },
+    {
+      "source": "2024年伯克希尔股东大会",
+      "target": "格雷格·阿贝尔"
+    },
+    {
+      "source": "2025年伯克希尔股东大会",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2025年伯克希尔股东大会",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "2025年伯克希尔股东大会",
+      "target": "格雷格·阿贝尔"
+    },
+    {
+      "source": "2025年伯克希尔股东大会",
+      "target": "可口可乐"
+    },
+    {
+      "source": "2025年伯克希尔股东大会",
+      "target": "美国运通"
+    },
+    {
+      "source": "2025年伯克希尔股东大会",
+      "target": "买入价格"
+    },
+    {
+      "source": "2025年伯克希尔股东大会",
+      "target": "芒格"
+    },
+    {
+      "source": "2025年伯克希尔股东大会",
+      "target": "低估"
+    },
+    {
+      "source": "2025年伯克希尔股东大会",
+      "target": "内在价值"
+    },
+    {
+      "source": "2025年伯克希尔股东大会",
+      "target": "市场预测"
+    },
+    {
+      "source": "2025年伯克希尔股东大会",
+      "target": "阿吉特·贾恩"
+    },
+    {
+      "source": "extra_1998_buffett_florida",
+      "target": "巴菲特"
+    },
+    {
+      "source": "extra_1998_buffett_florida",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "extra_1998_buffett_florida",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "extra_1998_buffett_florida",
+      "target": "内在价值"
+    },
+    {
+      "source": "extra_1998_buffett_florida",
+      "target": "商业模式"
+    },
+    {
+      "source": "extra_1998_buffett_florida",
+      "target": "买入价格"
+    },
+    {
+      "source": "extra_2013_University_of_Maryland",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "extra_2013_University_of_Maryland",
+      "target": "芒格"
+    },
+    {
+      "source": "extra_2013_University_of_Maryland",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "extra_2013_University_of_Maryland",
+      "target": "BNSF铁路"
+    },
+    {
+      "source": "extra_2013_University_of_Maryland",
+      "target": "买入价格"
+    },
+    {
+      "source": "extra_2013_University_of_Maryland",
+      "target": "内在价值"
+    },
+    {
+      "source": "extra_2013_University_of_Maryland",
+      "target": "市盈率"
+    },
+    {
+      "source": "extra_2013_University_of_Maryland",
+      "target": "安全边际"
+    },
+    {
+      "source": "extra_2013_University_of_Maryland",
+      "target": "内布拉斯加家具店"
+    },
+    {
+      "source": "1956 有限合伙协议",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1956 有限合伙协议",
+      "target": "债券"
+    },
+    {
+      "source": "1956 有限合伙协议",
+      "target": "公司治理"
+    },
+    {
+      "source": "1957 巴菲特致合伙人信",
+      "target": "低估"
+    },
+    {
+      "source": "1957 巴菲特致合伙人信",
+      "target": "套利"
+    },
+    {
+      "source": "1957 巴菲特致合伙人信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1957 巴菲特致合伙人信",
+      "target": "收购"
+    },
+    {
+      "source": "1957 巴菲特致合伙人信",
+      "target": "安全边际"
+    },
+    {
+      "source": "1958 巴菲特致合伙人信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1958 巴菲特致合伙人信",
+      "target": "低估"
+    },
+    {
+      "source": "1958 巴菲特致合伙人信",
+      "target": "市场预测"
+    },
+    {
+      "source": "1958 巴菲特致合伙人信",
+      "target": "安全边际"
+    },
+    {
+      "source": "1958 巴菲特致合伙人信",
+      "target": "收购"
+    },
+    {
+      "source": "1958 巴菲特致合伙人信",
+      "target": "买入价格"
+    },
+    {
+      "source": "1958 巴菲特致合伙人信",
+      "target": "套利"
+    },
+    {
+      "source": "1958 巴菲特致合伙人信",
+      "target": "市场先生"
+    },
+    {
+      "source": "1959 巴菲特致合伙人信",
+      "target": "安全边际"
+    },
+    {
+      "source": "1959 巴菲特致合伙人信",
+      "target": "低估"
+    },
+    {
+      "source": "1959 巴菲特致合伙人信",
+      "target": "套利"
+    },
+    {
+      "source": "1959 巴菲特致合伙人信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1960 巴菲特致合伙人信",
+      "target": "低估"
+    },
+    {
+      "source": "1960 巴菲特致合伙人信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1960 巴菲特致合伙人信",
+      "target": "保险业"
+    },
+    {
+      "source": "1960 巴菲特致合伙人信",
+      "target": "留存收益"
+    },
+    {
+      "source": "1960 巴菲特致合伙人信",
+      "target": "公司治理"
+    },
+    {
+      "source": "1960 巴菲特致合伙人信",
+      "target": "收购"
+    },
+    {
+      "source": "1960 巴菲特致合伙人信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1961 巴菲特致合伙人信",
+      "target": "道琼斯工业指数"
+    },
+    {
+      "source": "1961 巴菲特致合伙人信",
+      "target": "巴菲特"
+    },
+    {
+      "source": "1961 巴菲特致合伙人信",
+      "target": "低估"
+    },
+    {
+      "source": "1961 巴菲特致合伙人信",
+      "target": "安全边际"
+    },
+    {
+      "source": "1961 巴菲特致合伙人信",
+      "target": "套利"
+    },
+    {
+      "source": "1961 巴菲特致合伙人信",
+      "target": "市盈率"
+    },
+    {
+      "source": "1961 巴菲特致合伙人信",
+      "target": "分散投资"
+    },
+    {
+      "source": "1961 巴菲特致合伙人信",
+      "target": "杠杆"
+    },
+    {
+      "source": "1961 巴菲特致合伙人信",
+      "target": "收购"
+    },
+    {
+      "source": "1961 巴菲特致合伙人信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1961 巴菲特致合伙人信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1961年中 巴菲特致合伙人信",
+      "target": "巴菲特"
+    },
+    {
+      "source": "1961年中 巴菲特致合伙人信",
+      "target": "分散投资"
+    },
+    {
+      "source": "1961年中 巴菲特致合伙人信",
+      "target": "安全边际"
+    },
+    {
+      "source": "1961年中 巴菲特致合伙人信",
+      "target": "市场预测"
+    },
+    {
+      "source": "1961年中 巴菲特致合伙人信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1962 巴菲特致合伙人信",
+      "target": "复利"
+    },
+    {
+      "source": "1962 巴菲特致合伙人信",
+      "target": "安全边际"
+    },
+    {
+      "source": "1962 巴菲特致合伙人信",
+      "target": "分散投资"
+    },
+    {
+      "source": "1962 巴菲特致合伙人信",
+      "target": "低估"
+    },
+    {
+      "source": "1962 巴菲特致合伙人信",
+      "target": "套利"
+    },
+    {
+      "source": "1962 巴菲特致合伙人信",
+      "target": "买入价格"
+    },
+    {
+      "source": "1962 巴菲特致合伙人信",
+      "target": "杠杆"
+    },
+    {
+      "source": "1962 巴菲特致合伙人信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1962 巴菲特致合伙人信",
+      "target": "收购"
+    },
+    {
+      "source": "1962年11月 巴菲特致合伙人信",
+      "target": "登普斯特风车制造公司"
+    },
+    {
+      "source": "1962年11月 巴菲特致合伙人信",
+      "target": "市场预测"
+    },
+    {
+      "source": "1962年11月 巴菲特致合伙人信",
+      "target": "套利"
+    },
+    {
+      "source": "1962年11月 巴菲特致合伙人信",
+      "target": "低估"
+    },
+    {
+      "source": "1962年11月 巴菲特致合伙人信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1962年11月 巴菲特致合伙人信",
+      "target": "安全边际"
+    },
+    {
+      "source": "1962年12月 巴菲特致合伙人信",
+      "target": "税收效率"
+    },
+    {
+      "source": "1962年12月 巴菲特致合伙人信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1962年中 巴菲特致合伙人信",
+      "target": "复利"
+    },
+    {
+      "source": "1962年中 巴菲特致合伙人信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1962年中 巴菲特致合伙人信",
+      "target": "市场预测"
+    },
+    {
+      "source": "1963 巴菲特致合伙人信",
+      "target": "道琼斯指数"
+    },
+    {
+      "source": "1963 巴菲特致合伙人信",
+      "target": "分散投资"
+    },
+    {
+      "source": "1963 巴菲特致合伙人信",
+      "target": "复利"
+    },
+    {
+      "source": "1963 巴菲特致合伙人信",
+      "target": "低估"
+    },
+    {
+      "source": "1963 巴菲特致合伙人信",
+      "target": "套利"
+    },
+    {
+      "source": "1963 巴菲特致合伙人信",
+      "target": "市场先生"
+    },
+    {
+      "source": "1963 巴菲特致合伙人信",
+      "target": "买入价格"
+    },
+    {
+      "source": "1963 巴菲特致合伙人信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1963年11月 巴菲特致合伙人信",
+      "target": "低估"
+    },
+    {
+      "source": "1963年11月 巴菲特致合伙人信",
+      "target": "套利"
+    },
+    {
+      "source": "1963年11月 巴菲特致合伙人信",
+      "target": "买入价格"
+    },
+    {
+      "source": "1963年12月 巴菲特致合伙人信",
+      "target": "复利"
+    },
+    {
+      "source": "1963年12月 巴菲特致合伙人信",
+      "target": "税收效率"
+    },
+    {
+      "source": "1963年12月 巴菲特致合伙人信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1963年中 巴菲特致合伙人信",
+      "target": "登普斯特农具机械制造公司"
+    },
+    {
+      "source": "1963年中 巴菲特致合伙人信",
+      "target": "低估"
+    },
+    {
+      "source": "1963年中 巴菲特致合伙人信",
+      "target": "套利"
+    },
+    {
+      "source": "1963年中 巴菲特致合伙人信",
+      "target": "市场预测"
+    },
+    {
+      "source": "1963年中 巴菲特致合伙人信",
+      "target": "复利"
+    },
+    {
+      "source": "1963年中 巴菲特致合伙人信",
+      "target": "分散投资"
+    },
+    {
+      "source": "1963年中 巴菲特致合伙人信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1963年中 巴菲特致合伙人信",
+      "target": "税收效率"
+    },
+    {
+      "source": "1964 巴菲特致合伙人信",
+      "target": "分散投资"
+    },
+    {
+      "source": "1964 巴菲特致合伙人信",
+      "target": "复利"
+    },
+    {
+      "source": "1964 巴菲特致合伙人信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1964 巴菲特致合伙人信",
+      "target": "买入价格"
+    },
+    {
+      "source": "1964 巴菲特致合伙人信",
+      "target": "安全边际"
+    },
+    {
+      "source": "1964 巴菲特致合伙人信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1964年中 巴菲特致合伙人信",
+      "target": "买入价格"
+    },
+    {
+      "source": "1964年中 巴菲特致合伙人信",
+      "target": "低估"
+    },
+    {
+      "source": "1964年中 巴菲特致合伙人信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1964年中 巴菲特致合伙人信",
+      "target": "税收效率"
+    },
+    {
+      "source": "1964年中 巴菲特致合伙人信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1965 巴菲特致合伙人信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1965 巴菲特致合伙人信",
+      "target": "套利"
+    },
+    {
+      "source": "1965 巴菲特致合伙人信",
+      "target": "低估"
+    },
+    {
+      "source": "1965 巴菲特致合伙人信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1965 巴菲特致合伙人信",
+      "target": "复利"
+    },
+    {
+      "source": "1965 巴菲特致股东信",
+      "target": "回购"
+    },
+    {
+      "source": "1965 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1965年11月 巴菲特致合伙人信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1965年11月 巴菲特致合伙人信",
+      "target": "安全边际"
+    },
+    {
+      "source": "1965年11月 巴菲特致合伙人信",
+      "target": "分散投资"
+    },
+    {
+      "source": "1965年11月 巴菲特致合伙人信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1965年11月 巴菲特致合伙人信",
+      "target": "买入价格"
+    },
+    {
+      "source": "1965年中 巴菲特致合伙人信",
+      "target": "低估"
+    },
+    {
+      "source": "1965年中 巴菲特致合伙人信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1965年中 巴菲特致合伙人信",
+      "target": "收购"
+    },
+    {
+      "source": "1965年中 巴菲特致合伙人信",
+      "target": "复利"
+    },
+    {
+      "source": "1965年中 巴菲特致合伙人信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1966 巴菲特致合伙人信",
+      "target": "复利"
+    },
+    {
+      "source": "1966 巴菲特致合伙人信",
+      "target": "低估"
+    },
+    {
+      "source": "1966 巴菲特致合伙人信",
+      "target": "套利"
+    },
+    {
+      "source": "1966 巴菲特致合伙人信",
+      "target": "市场先生"
+    },
+    {
+      "source": "1966 巴菲特致合伙人信",
+      "target": "科技与互联网"
+    },
+    {
+      "source": "1966 巴菲特致合伙人信",
+      "target": "市场预测"
+    },
+    {
+      "source": "1966 巴菲特致合伙人信",
+      "target": "留存收益"
+    },
+    {
+      "source": "1966 巴菲特致合伙人信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1966 巴菲特致合伙人信",
+      "target": "收购"
+    },
+    {
+      "source": "1966 巴菲特致合伙人信",
+      "target": "杠杆"
+    },
+    {
+      "source": "1966 巴菲特致合伙人信",
+      "target": "分散投资"
+    },
+    {
+      "source": "1966 巴菲特致股东信",
+      "target": "回购"
+    },
+    {
+      "source": "1966 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "1966 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1966 巴菲特致股东信",
+      "target": "债券"
+    },
+    {
+      "source": "1966年11月 巴菲特致合伙人信",
+      "target": "低估"
+    },
+    {
+      "source": "1966年11月 巴菲特致合伙人信",
+      "target": "套利"
+    },
+    {
+      "source": "1966年11月 巴菲特致合伙人信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1966年11月 巴菲特致合伙人信",
+      "target": "买入价格"
+    },
+    {
+      "source": "1966年11月 巴菲特致合伙人信",
+      "target": "留存收益"
+    },
+    {
+      "source": "1966年11月 巴菲特致合伙人信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1966年中 巴菲特致合伙人信",
+      "target": "复利"
+    },
+    {
+      "source": "1966年中 巴菲特致合伙人信",
+      "target": "收购"
+    },
+    {
+      "source": "1966年中 巴菲特致合伙人信",
+      "target": "买入价格"
+    },
+    {
+      "source": "1966年中 巴菲特致合伙人信",
+      "target": "留存收益"
+    },
+    {
+      "source": "1966年中 巴菲特致合伙人信",
+      "target": "市场预测"
+    },
+    {
+      "source": "1966年中 巴菲特致合伙人信",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "1966年中 巴菲特致合伙人信",
+      "target": "低估"
+    },
+    {
+      "source": "1966年中 巴菲特致合伙人信",
+      "target": "分散投资"
+    },
+    {
+      "source": "1966年中 巴菲特致合伙人信",
+      "target": "保险业"
+    },
+    {
+      "source": "1967 巴菲特致合伙人信",
+      "target": "套利"
+    },
+    {
+      "source": "1967 巴菲特致合伙人信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1967 巴菲特致合伙人信",
+      "target": "收购"
+    },
+    {
+      "source": "1967 巴菲特致合伙人信",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "1967 巴菲特致合伙人信",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "1967 巴菲特致合伙人信",
+      "target": "低估"
+    },
+    {
+      "source": "1967 巴菲特致合伙人信",
+      "target": "分散投资"
+    },
+    {
+      "source": "1967 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "1967 巴菲特致股东信",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "1967 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "1967 巴菲特致股东信",
+      "target": "分散投资"
+    },
+    {
+      "source": "1967 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1967年10月 巴菲特致合伙人信",
+      "target": "低估"
+    },
+    {
+      "source": "1967年10月 巴菲特致合伙人信",
+      "target": "市场预测"
+    },
+    {
+      "source": "1967年10月 巴菲特致合伙人信",
+      "target": "安全边际"
+    },
+    {
+      "source": "1967年10月 巴菲特致合伙人信",
+      "target": "杠杆"
+    },
+    {
+      "source": "1967年10月 巴菲特致合伙人信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1967年11月 巴菲特致合伙人信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1967年11月 巴菲特致合伙人信",
+      "target": "市场预测"
+    },
+    {
+      "source": "1967年11月 巴菲特致合伙人信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1967年11月 巴菲特致合伙人信",
+      "target": "安全边际"
+    },
+    {
+      "source": "1967年中 巴菲特致合伙人信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1967年中 巴菲特致合伙人信",
+      "target": "复利"
+    },
+    {
+      "source": "1967年中 巴菲特致合伙人信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1968 巴菲特致合伙人信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1968 巴菲特致合伙人信",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "1968 巴菲特致合伙人信",
+      "target": "买入价格"
+    },
+    {
+      "source": "1968 巴菲特致合伙人信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1968 巴菲特致合伙人信",
+      "target": "低估"
+    },
+    {
+      "source": "1968 巴菲特致合伙人信",
+      "target": "套利"
+    },
+    {
+      "source": "1968 巴菲特致合伙人信",
+      "target": "分散投资"
+    },
+    {
+      "source": "1968 巴菲特致合伙人信",
+      "target": "IBM"
+    },
+    {
+      "source": "1968 巴菲特致股东信",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "1968 巴菲特致股东信",
+      "target": "债券"
+    },
+    {
+      "source": "1968 巴菲特致股东信",
+      "target": "承保纪律"
+    },
+    {
+      "source": "1968 巴菲特致股东信",
+      "target": "留存收益"
+    },
+    {
+      "source": "1968 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "1968 巴菲特致股东信",
+      "target": "媒体与出版"
+    },
+    {
+      "source": "1968 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1968年11月 巴菲特致合伙人信",
+      "target": "留存收益"
+    },
+    {
+      "source": "1968年11月 巴菲特致合伙人信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1968年11月 巴菲特致合伙人信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1968年中 巴菲特致合伙人信",
+      "target": "分散投资"
+    },
+    {
+      "source": "1968年中 巴菲特致合伙人信",
+      "target": "复利"
+    },
+    {
+      "source": "1968年中 巴菲特致合伙人信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1968年中 巴菲特致合伙人信",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "1968年中 巴菲特致合伙人信",
+      "target": "收购"
+    },
+    {
+      "source": "1968年中 巴菲特致合伙人信",
+      "target": "低估"
+    },
+    {
+      "source": "1969 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "1969 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "1969 巴菲特致股东信",
+      "target": "承保纪律"
+    },
+    {
+      "source": "1969 巴菲特致股东信",
+      "target": "商业模式"
+    },
+    {
+      "source": "1969 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1969 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1969年10月 巴菲特致合伙人信",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "1969年10月 巴菲特致合伙人信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1969年10月 巴菲特致合伙人信",
+      "target": "套利"
+    },
+    {
+      "source": "1969年10月 巴菲特致合伙人信",
+      "target": "市盈率"
+    },
+    {
+      "source": "1969年10月 巴菲特致合伙人信",
+      "target": "税收效率"
+    },
+    {
+      "source": "1969年10月 巴菲特致合伙人信",
+      "target": "分散投资"
+    },
+    {
+      "source": "1969年10月 巴菲特致合伙人信",
+      "target": "债券"
+    },
+    {
+      "source": "1969年10月 巴菲特致合伙人信",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "1969年12月 巴菲特致合伙人信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1969年12月 巴菲特致合伙人信",
+      "target": "保险业"
+    },
+    {
+      "source": "1969年12月 巴菲特致合伙人信",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "1969年12月 巴菲特致合伙人信",
+      "target": "债券"
+    },
+    {
+      "source": "1969年12月 巴菲特致合伙人信",
+      "target": "企业文化"
+    },
+    {
+      "source": "1969年12月 巴菲特致合伙人信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1969年12月26日 巴菲特致合伙人信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1969年12月26日 巴菲特致合伙人信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1969年12月26日 巴菲特致合伙人信",
+      "target": "企业文化"
+    },
+    {
+      "source": "1969年12月26日 巴菲特致合伙人信",
+      "target": "收购"
+    },
+    {
+      "source": "1969年12月26日 巴菲特致合伙人信",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "1969年5月 巴菲特致合伙人信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1969年5月 巴菲特致合伙人信",
+      "target": "低估"
+    },
+    {
+      "source": "1969年5月 巴菲特致合伙人信",
+      "target": "市场先生"
+    },
+    {
+      "source": "1969年5月 巴菲特致合伙人信",
+      "target": "收购"
+    },
+    {
+      "source": "1969年5月 巴菲特致合伙人信",
+      "target": "套利"
+    },
+    {
+      "source": "1970 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1970 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "1970 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1970 巴菲特致股东信",
+      "target": "承保纪律"
+    },
+    {
+      "source": "1970 巴菲特致股东信",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "1970 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "1970年2月 巴菲特致合伙人信",
+      "target": "债券"
+    },
+    {
+      "source": "1970年2月 巴菲特致合伙人信",
+      "target": "买入价格"
+    },
+    {
+      "source": "1970年2月 巴菲特致合伙人信",
+      "target": "可转换证券"
+    },
+    {
+      "source": "1970年2月 巴菲特致合伙人信",
+      "target": "税收效率"
+    },
+    {
+      "source": "1971 巴菲特致股东信",
+      "target": "承保纪律"
+    },
+    {
+      "source": "1971 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1971 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "1971 巴菲特致股东信",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "1971 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "1971 巴菲特致股东信",
+      "target": "企业文化"
+    },
+    {
+      "source": "1971 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1972 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1972 巴菲特致股东信",
+      "target": "回购"
+    },
+    {
+      "source": "1972 巴菲特致股东信",
+      "target": "复利"
+    },
+    {
+      "source": "1972 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "1972 巴菲特致股东信",
+      "target": "企业文化"
+    },
+    {
+      "source": "1972 巴菲特致股东信",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "1972 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "1972 巴菲特致股东信",
+      "target": "承保纪律"
+    },
+    {
+      "source": "1972 巴菲特致股东信",
+      "target": "债券"
+    },
+    {
+      "source": "1972 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1973 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "1973 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1973 巴菲特致股东信",
+      "target": "蓝筹印花"
+    },
+    {
+      "source": "1973 巴菲特致股东信",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "1973 巴菲特致股东信",
+      "target": "承保纪律"
+    },
+    {
+      "source": "1973 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1973 巴菲特致股东信",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "1973 巴菲特致股东信",
+      "target": "买入价格"
+    },
+    {
+      "source": "1974 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1974 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "1974 巴菲特致股东信",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "1974 巴菲特致股东信",
+      "target": "债券"
+    },
+    {
+      "source": "1974 巴菲特致股东信",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "1974 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1974 巴菲特致股东信",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "1974 巴菲特致股东信",
+      "target": "承保纪律"
+    },
+    {
+      "source": "1974 巴菲特致股东信",
+      "target": "安全边际"
+    },
+    {
+      "source": "1975 巴菲特致股东信",
+      "target": "买入价格"
+    },
+    {
+      "source": "1975 巴菲特致股东信",
+      "target": "复利"
+    },
+    {
+      "source": "1975 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "1975 巴菲特致股东信",
+      "target": "蓝筹印花公司"
+    },
+    {
+      "source": "1975 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "1975 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1975 巴菲特致股东信",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "1975 巴菲特致股东信",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "1975 巴菲特致股东信",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "1975 巴菲特致股东信",
+      "target": "安全边际"
+    },
+    {
+      "source": "1975 巴菲特致股东信",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "1975 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1975 巴菲特致股东信",
+      "target": "承保纪律"
+    },
+    {
+      "source": "1976 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "1976 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "1976 巴菲特致股东信",
+      "target": "巴菲特"
+    },
+    {
+      "source": "1976 巴菲特致股东信",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "1976 巴菲特致股东信",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "1976 巴菲特致股东信",
+      "target": "买入价格"
+    },
+    {
+      "source": "1976 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1976 巴菲特致股东信",
+      "target": "分散投资"
+    },
+    {
+      "source": "1976 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1977 巴菲特致股东信",
+      "target": "复利"
+    },
+    {
+      "source": "1977 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1977 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "1977 巴菲特致股东信",
+      "target": "护城河"
+    },
+    {
+      "source": "1977 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1977 巴菲特致股东信",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "1977 巴菲特致股东信",
+      "target": "承保纪律"
+    },
+    {
+      "source": "1977 巴菲特致股东信",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "1977 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "1977 巴菲特致股东信",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "1977 巴菲特致股东信",
+      "target": "大都会通信"
+    },
+    {
+      "source": "1977 巴菲特致股东信",
+      "target": "买入价格"
+    },
+    {
+      "source": "1977 巴菲特致股东信",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "1977 巴菲特致股东信",
+      "target": "特许经营权"
+    },
+    {
+      "source": "1977 巴菲特致股东信",
+      "target": "企业文化"
+    },
+    {
+      "source": "1978 巴菲特致股东信",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "1978 巴菲特致股东信",
+      "target": "蓝筹印花"
+    },
+    {
+      "source": "1978 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "1978 巴菲特致股东信",
+      "target": "买入价格"
+    },
+    {
+      "source": "1978 巴菲特致股东信",
+      "target": "低估"
+    },
+    {
+      "source": "1978 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1978 巴菲特致股东信",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "1978 巴菲特致股东信",
+      "target": "承保纪律"
+    },
+    {
+      "source": "1978 巴菲特致股东信",
+      "target": "护城河"
+    },
+    {
+      "source": "1978 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "1978 巴菲特致股东信",
+      "target": "分散投资"
+    },
+    {
+      "source": "1978 巴菲特致股东信",
+      "target": "复利"
+    },
+    {
+      "source": "1978 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1978 巴菲特致股东信",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "1978 巴菲特致股东信",
+      "target": "布法罗新闻报"
+    },
+    {
+      "source": "1979 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1979 巴菲特致股东信",
+      "target": "杠杆"
+    },
+    {
+      "source": "1979 巴菲特致股东信",
+      "target": "每股收益"
+    },
+    {
+      "source": "1979 巴菲特致股东信",
+      "target": "回购"
+    },
+    {
+      "source": "1979 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "1979 巴菲特致股东信",
+      "target": "买入价格"
+    },
+    {
+      "source": "1979 巴菲特致股东信",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "1979 巴菲特致股东信",
+      "target": "承保纪律"
+    },
+    {
+      "source": "1979 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "1979 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1979 巴菲特致股东信",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "1979 巴菲特致股东信",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "1979 巴菲特致股东信",
+      "target": "布法罗新闻报"
+    },
+    {
+      "source": "1980 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1980 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "1980 巴菲特致股东信",
+      "target": "留存收益"
+    },
+    {
+      "source": "1980 巴菲特致股东信",
+      "target": "回购"
+    },
+    {
+      "source": "1980 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1980 巴菲特致股东信",
+      "target": "复利"
+    },
+    {
+      "source": "1980 巴菲特致股东信",
+      "target": "买入价格"
+    },
+    {
+      "source": "1980 巴菲特致股东信",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "1980 巴菲特致股东信",
+      "target": "布法罗新闻报"
+    },
+    {
+      "source": "1980 巴菲特致股东信",
+      "target": "税收效率"
+    },
+    {
+      "source": "1980 巴菲特致股东信",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "1980 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "1981 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1981 巴菲特致股东信",
+      "target": "留存收益"
+    },
+    {
+      "source": "1981 巴菲特致股东信",
+      "target": "买入价格"
+    },
+    {
+      "source": "1981 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "1981 巴菲特致股东信",
+      "target": "大都会通信"
+    },
+    {
+      "source": "1981 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1981 巴菲特致股东信",
+      "target": "复利"
+    },
+    {
+      "source": "1981 巴菲特致股东信",
+      "target": "市盈率"
+    },
+    {
+      "source": "1981 巴菲特致股东信",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "1982 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1982 巴菲特致股东信",
+      "target": "留存收益"
+    },
+    {
+      "source": "1982 巴菲特致股东信",
+      "target": "通用食品"
+    },
+    {
+      "source": "1982 巴菲特致股东信",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "1982 巴菲特致股东信",
+      "target": "市场价值"
+    },
+    {
+      "source": "1982 巴菲特致股东信",
+      "target": "买入价格"
+    },
+    {
+      "source": "1982 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "1982 巴菲特致股东信",
+      "target": "复利"
+    },
+    {
+      "source": "1982 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1982 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "1982 巴菲特致股东信",
+      "target": "承保纪律"
+    },
+    {
+      "source": "1982 巴菲特致股东信",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "1982 巴菲特致股东信",
+      "target": "布法罗新闻报"
+    },
+    {
+      "source": "1983 巴菲特致股东信",
+      "target": "内布拉斯加家具店"
+    },
+    {
+      "source": "1983 巴菲特致股东信",
+      "target": "B夫人"
+    },
+    {
+      "source": "1983 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1983 巴菲特致股东信",
+      "target": "商誉"
+    },
+    {
+      "source": "1983 巴菲特致股东信",
+      "target": "杠杆"
+    },
+    {
+      "source": "1983 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1983 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "1983 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "1983 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "1983 巴菲特致股东信",
+      "target": "分散投资"
+    },
+    {
+      "source": "1983 巴菲特致股东信",
+      "target": "留存收益"
+    },
+    {
+      "source": "1983 巴菲特致股东信",
+      "target": "护城河"
+    },
+    {
+      "source": "1983 巴菲特致股东信",
+      "target": "企业文化"
+    },
+    {
+      "source": "1983 巴菲特致股东信",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "1983 巴菲特致股东信",
+      "target": "布法罗新闻报"
+    },
+    {
+      "source": "1983 巴菲特致股东信",
+      "target": "可口可乐"
+    },
+    {
+      "source": "1983 巴菲特致股东信",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "1984 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1984 巴菲特致股东信",
+      "target": "内布拉斯加家具店"
+    },
+    {
+      "source": "1984 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1984 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "1984 巴菲特致股东信",
+      "target": "回购"
+    },
+    {
+      "source": "1984 巴菲特致股东信",
+      "target": "B夫人"
+    },
+    {
+      "source": "1984 巴菲特致股东信",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "1984 巴菲特致股东信",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "1984 巴菲特致股东信",
+      "target": "复利"
+    },
+    {
+      "source": "1984 巴菲特致股东信",
+      "target": "安全边际"
+    },
+    {
+      "source": "1984 巴菲特致股东信",
+      "target": "企业文化"
+    },
+    {
+      "source": "1984 巴菲特致股东信",
+      "target": "商业模式"
+    },
+    {
+      "source": "1984 巴菲特致股东信",
+      "target": "布法罗新闻报"
+    },
+    {
+      "source": "1985 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "1985 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1985 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1985 巴菲特致股东信",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "1985 巴菲特致股东信",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "1985 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "1985 巴菲特致股东信",
+      "target": "买入价格"
+    },
+    {
+      "source": "1985 巴菲特致股东信",
+      "target": "商业模式"
+    },
+    {
+      "source": "1985 巴菲特致股东信",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "1985 巴菲特致股东信",
+      "target": "回购"
+    },
+    {
+      "source": "1985 巴菲特致股东信",
+      "target": "复利"
+    },
+    {
+      "source": "1985 巴菲特致股东信",
+      "target": "低估"
+    },
+    {
+      "source": "1985 巴菲特致股东信",
+      "target": "留存收益"
+    },
+    {
+      "source": "1985 巴菲特致股东信",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "1985 巴菲特致股东信",
+      "target": "布法罗新闻报"
+    },
+    {
+      "source": "1985 巴菲特致股东信",
+      "target": "内布拉斯加家具店"
+    },
+    {
+      "source": "1986 巴菲特致股东信",
+      "target": "布法罗新闻报"
+    },
+    {
+      "source": "1986 巴菲特致股东信",
+      "target": "内布拉斯加家具店"
+    },
+    {
+      "source": "1986 巴菲特致股东信",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "1986 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1986 巴菲特致股东信",
+      "target": "商誉"
+    },
+    {
+      "source": "1986 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "1986 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1986 巴菲特致股东信",
+      "target": "B夫人"
+    },
+    {
+      "source": "1986 巴菲特致股东信",
+      "target": "世界图书百科全书"
+    },
+    {
+      "source": "1986 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "1986 巴菲特致股东信",
+      "target": "留存收益"
+    },
+    {
+      "source": "1986 巴菲特致股东信",
+      "target": "企业文化"
+    },
+    {
+      "source": "1986 巴菲特致股东信",
+      "target": "复利"
+    },
+    {
+      "source": "1986 巴菲特致股东信",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "1987 巴菲特致股东信",
+      "target": "特许经营权"
+    },
+    {
+      "source": "1987 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1987 巴菲特致股东信",
+      "target": "复利"
+    },
+    {
+      "source": "1987 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1987 巴菲特致股东信",
+      "target": "布法罗新闻报"
+    },
+    {
+      "source": "1987 巴菲特致股东信",
+      "target": "内布拉斯加家具店"
+    },
+    {
+      "source": "1987 巴菲特致股东信",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "1987 巴菲特致股东信",
+      "target": "世界图书百科全书"
+    },
+    {
+      "source": "1987 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "1987 巴菲特致股东信",
+      "target": "市盈率"
+    },
+    {
+      "source": "1987 巴菲特致股东信",
+      "target": "B夫人"
+    },
+    {
+      "source": "1987 巴菲特致股东信",
+      "target": "杠杆"
+    },
+    {
+      "source": "1987 巴菲特致股东信",
+      "target": "企业文化"
+    },
+    {
+      "source": "1987 巴菲特致股东信",
+      "target": "商誉"
+    },
+    {
+      "source": "1988 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1988 巴菲特致股东信",
+      "target": "复利"
+    },
+    {
+      "source": "1988 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1988 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "1988 巴菲特致股东信",
+      "target": "大都会通信"
+    },
+    {
+      "source": "1988 巴菲特致股东信",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "1988 巴菲特致股东信",
+      "target": "布法罗新闻报"
+    },
+    {
+      "source": "1988 巴菲特致股东信",
+      "target": "内布拉斯加家具店"
+    },
+    {
+      "source": "1988 巴菲特致股东信",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "1988 巴菲特致股东信",
+      "target": "世界图书百科全书"
+    },
+    {
+      "source": "1988 巴菲特致股东信",
+      "target": "杠杆"
+    },
+    {
+      "source": "1988 巴菲特致股东信",
+      "target": "特许经营权"
+    },
+    {
+      "source": "1988 巴菲特致股东信",
+      "target": "B夫人"
+    },
+    {
+      "source": "1988 巴菲特致股东信",
+      "target": "企业文化"
+    },
+    {
+      "source": "1988 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "1989 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1989 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1989 巴菲特致股东信",
+      "target": "税收效率"
+    },
+    {
+      "source": "1989 巴菲特致股东信",
+      "target": "低估"
+    },
+    {
+      "source": "1989 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "1989 巴菲特致股东信",
+      "target": "留存收益"
+    },
+    {
+      "source": "1989 巴菲特致股东信",
+      "target": "波仙珠宝"
+    },
+    {
+      "source": "1989 巴菲特致股东信",
+      "target": "布法罗新闻报"
+    },
+    {
+      "source": "1989 巴菲特致股东信",
+      "target": "内布拉斯加家具店"
+    },
+    {
+      "source": "1989 巴菲特致股东信",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "1989 巴菲特致股东信",
+      "target": "世界图书百科全书"
+    },
+    {
+      "source": "1989 巴菲特致股东信",
+      "target": "杠杆"
+    },
+    {
+      "source": "1989 巴菲特致股东信",
+      "target": "B夫人"
+    },
+    {
+      "source": "1989 巴菲特致股东信",
+      "target": "复利"
+    },
+    {
+      "source": "1989 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "1989 巴菲特致股东信",
+      "target": "品牌"
+    },
+    {
+      "source": "1989 巴菲特致股东信",
+      "target": "可口可乐"
+    },
+    {
+      "source": "1990 巴菲特致股东信",
+      "target": "内布拉斯加家具店"
+    },
+    {
+      "source": "1990 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1990 巴菲特致股东信",
+      "target": "大都会通信"
+    },
+    {
+      "source": "1990 巴菲特致股东信",
+      "target": "可口可乐"
+    },
+    {
+      "source": "1990 巴菲特致股东信",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "1990 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "1990 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1990 巴菲特致股东信",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "1990 巴菲特致股东信",
+      "target": "留存收益"
+    },
+    {
+      "source": "1990 巴菲特致股东信",
+      "target": "回购"
+    },
+    {
+      "source": "1990 巴菲特致股东信",
+      "target": "特许经营权"
+    },
+    {
+      "source": "1990 巴菲特致股东信",
+      "target": "杠杆"
+    },
+    {
+      "source": "1990 巴菲特致股东信",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "1990 巴菲特致股东信",
+      "target": "税收效率"
+    },
+    {
+      "source": "1990 巴菲特致股东信",
+      "target": "买入价格"
+    },
+    {
+      "source": "1990 巴菲特致股东信",
+      "target": "企业文化"
+    },
+    {
+      "source": "1990 巴菲特致股东信",
+      "target": "世界图书百科全书"
+    },
+    {
+      "source": "1991 巴菲特致股东信",
+      "target": "可口可乐"
+    },
+    {
+      "source": "1991 巴菲特致股东信",
+      "target": "吉列"
+    },
+    {
+      "source": "1991 巴菲特致股东信",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "1991 巴菲特致股东信",
+      "target": "特许经营权"
+    },
+    {
+      "source": "1991 巴菲特致股东信",
+      "target": "富国银行"
+    },
+    {
+      "source": "1991 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1991 巴菲特致股东信",
+      "target": "复利"
+    },
+    {
+      "source": "1991 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "1991 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1991 巴菲特致股东信",
+      "target": "市盈率"
+    },
+    {
+      "source": "1991 巴菲特致股东信",
+      "target": "留存收益"
+    },
+    {
+      "source": "1991 巴菲特致股东信",
+      "target": "媒体与出版"
+    },
+    {
+      "source": "1991 巴菲特致股东信",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "1991 巴菲特致股东信",
+      "target": "大都会通信"
+    },
+    {
+      "source": "1991 巴菲特致股东信",
+      "target": "买入价格"
+    },
+    {
+      "source": "1991 巴菲特致股东信",
+      "target": "护城河"
+    },
+    {
+      "source": "1991 巴菲特致股东信",
+      "target": "杠杆"
+    },
+    {
+      "source": "1991 巴菲特致股东信",
+      "target": "布法罗新闻报"
+    },
+    {
+      "source": "1991 巴菲特致股东信",
+      "target": "世界图书百科全书"
+    },
+    {
+      "source": "1991 巴菲特致股东信",
+      "target": "内布拉斯加家具店"
+    },
+    {
+      "source": "1991 巴菲特致股东信",
+      "target": "房地美"
+    },
+    {
+      "source": "1992 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1992 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "1992 巴菲特致股东信",
+      "target": "透视收益"
+    },
+    {
+      "source": "1992 巴菲特致股东信",
+      "target": "可转换证券"
+    },
+    {
+      "source": "1992 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "1992 巴菲特致股东信",
+      "target": "市场预测"
+    },
+    {
+      "source": "1992 巴菲特致股东信",
+      "target": "买入价格"
+    },
+    {
+      "source": "1992 巴菲特致股东信",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "1992 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1992 巴菲特致股东信",
+      "target": "复利"
+    },
+    {
+      "source": "1992 巴菲特致股东信",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "1992 巴菲特致股东信",
+      "target": "承保纪律"
+    },
+    {
+      "source": "1992 巴菲特致股东信",
+      "target": "留存收益"
+    },
+    {
+      "source": "1992 巴菲特致股东信",
+      "target": "商誉"
+    },
+    {
+      "source": "1992 巴菲特致股东信",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "1992 巴菲特致股东信",
+      "target": "内布拉斯加家具店"
+    },
+    {
+      "source": "1992 巴菲特致股东信",
+      "target": "布法罗新闻报"
+    },
+    {
+      "source": "1992 巴菲特致股东信",
+      "target": "世界图书百科全书"
+    },
+    {
+      "source": "1992 巴菲特致股东信",
+      "target": "可口可乐"
+    },
+    {
+      "source": "1992 巴菲特致股东信",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "1992 巴菲特致股东信",
+      "target": "富国银行"
+    },
+    {
+      "source": "1992 巴菲特致股东信",
+      "target": "吉列"
+    },
+    {
+      "source": "1992 巴菲特致股东信",
+      "target": "房地美"
+    },
+    {
+      "source": "1992 巴菲特致股东信",
+      "target": "大都会通信"
+    },
+    {
+      "source": "1993 巴菲特致股东信",
+      "target": "德克斯特鞋业"
+    },
+    {
+      "source": "1993 巴菲特致股东信",
+      "target": "可口可乐"
+    },
+    {
+      "source": "1993 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1993 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1993 巴菲特致股东信",
+      "target": "吉列"
+    },
+    {
+      "source": "1993 巴菲特致股东信",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "1993 巴菲特致股东信",
+      "target": "市场先生"
+    },
+    {
+      "source": "1993 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "1993 巴菲特致股东信",
+      "target": "企业文化"
+    },
+    {
+      "source": "1993 巴菲特致股东信",
+      "target": "透视收益"
+    },
+    {
+      "source": "1993 巴菲特致股东信",
+      "target": "留存收益"
+    },
+    {
+      "source": "1993 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "1993 巴菲特致股东信",
+      "target": "税收效率"
+    },
+    {
+      "source": "1993 巴菲特致股东信",
+      "target": "复利"
+    },
+    {
+      "source": "1993 巴菲特致股东信",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "1993 巴菲特致股东信",
+      "target": "富国银行"
+    },
+    {
+      "source": "1993 巴菲特致股东信",
+      "target": "房地美"
+    },
+    {
+      "source": "1993 巴菲特致股东信",
+      "target": "世界图书百科全书"
+    },
+    {
+      "source": "1993 巴菲特致股东信",
+      "target": "内布拉斯加家具店"
+    },
+    {
+      "source": "1993 巴菲特致股东信",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "1994 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1994 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "1994 巴菲特致股东信",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "1994 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1994 巴菲特致股东信",
+      "target": "世界图书百科全书"
+    },
+    {
+      "source": "1994 巴菲特致股东信",
+      "target": "商誉"
+    },
+    {
+      "source": "1994 巴菲特致股东信",
+      "target": "可口可乐"
+    },
+    {
+      "source": "1994 巴菲特致股东信",
+      "target": "吉列"
+    },
+    {
+      "source": "1994 巴菲特致股东信",
+      "target": "富国银行"
+    },
+    {
+      "source": "1994 巴菲特致股东信",
+      "target": "账面价值"
+    },
+    {
+      "source": "1994 巴菲特致股东信",
+      "target": "复利"
+    },
+    {
+      "source": "1994 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "1994 巴菲特致股东信",
+      "target": "回购"
+    },
+    {
+      "source": "1994 巴菲特致股东信",
+      "target": "市场预测"
+    },
+    {
+      "source": "1994 巴菲特致股东信",
+      "target": "安全边际"
+    },
+    {
+      "source": "1995 巴菲特致股东信",
+      "target": "威利家居"
+    },
+    {
+      "source": "1995 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1995 巴菲特致股东信",
+      "target": "复利"
+    },
+    {
+      "source": "1995 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "1995 巴菲特致股东信",
+      "target": "买入价格"
+    },
+    {
+      "source": "1995 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "1995 巴菲特致股东信",
+      "target": "内布拉斯加家具店"
+    },
+    {
+      "source": "1995 巴菲特致股东信",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "1995 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "1995 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1995 巴菲特致股东信",
+      "target": "分散投资"
+    },
+    {
+      "source": "1995 巴菲特致股东信",
+      "target": "商业模式"
+    },
+    {
+      "source": "1995 巴菲特致股东信",
+      "target": "护城河"
+    },
+    {
+      "source": "1995 巴菲特致股东信",
+      "target": "市盈率"
+    },
+    {
+      "source": "1995 巴菲特致股东信",
+      "target": "企业文化"
+    },
+    {
+      "source": "1995 巴菲特致股东信",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "1996 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1996 巴菲特致股东信",
+      "target": "复利"
+    },
+    {
+      "source": "1996 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "1996 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1996 巴菲特致股东信",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "1996 巴菲特致股东信",
+      "target": "承保纪律"
+    },
+    {
+      "source": "1996 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "1996 巴菲特致股东信",
+      "target": "商业模式"
+    },
+    {
+      "source": "1996 巴菲特致股东信",
+      "target": "企业文化"
+    },
+    {
+      "source": "1996 巴菲特致股东信",
+      "target": "可口可乐"
+    },
+    {
+      "source": "1997 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1997 巴菲特致股东信",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "1997 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1997 巴菲特致股东信",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "1997 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "1997 巴菲特致股东信",
+      "target": "可口可乐"
+    },
+    {
+      "source": "1997 巴菲特致股东信",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "1997 巴菲特致股东信",
+      "target": "富国银行"
+    },
+    {
+      "source": "1997 巴菲特致股东信",
+      "target": "回购"
+    },
+    {
+      "source": "1997 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "1997 巴菲特致股东信",
+      "target": "复利"
+    },
+    {
+      "source": "1997 巴菲特致股东信",
+      "target": "承保纪律"
+    },
+    {
+      "source": "1997 巴菲特致股东信",
+      "target": "留存收益"
+    },
+    {
+      "source": "1997 巴菲特致股东信",
+      "target": "安全边际"
+    },
+    {
+      "source": "1997 巴菲特致股东信",
+      "target": "买入价格"
+    },
+    {
+      "source": "1997 巴菲特致股东信",
+      "target": "低估"
+    },
+    {
+      "source": "1998 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1998 巴菲特致股东信",
+      "target": "通用再保险"
+    },
+    {
+      "source": "1998 巴菲特致股东信",
+      "target": "盖可保险"
+    },
+    {
+      "source": "1998 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1998 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "1998 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "1998 巴菲特致股东信",
+      "target": "承保纪律"
+    },
+    {
+      "source": "1998 巴菲特致股东信",
+      "target": "企业文化"
+    },
+    {
+      "source": "1998 巴菲特致股东信",
+      "target": "复利"
+    },
+    {
+      "source": "1998 巴菲特致股东信",
+      "target": "买入价格"
+    },
+    {
+      "source": "1998 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "1998 巴菲特致股东信",
+      "target": "商业模式"
+    },
+    {
+      "source": "1998 巴菲特致股东信",
+      "target": "留存收益"
+    },
+    {
+      "source": "1998 巴菲特致股东信",
+      "target": "飞安国际"
+    },
+    {
+      "source": "1999 巴菲特致股东信",
+      "target": "浮存金"
+    },
+    {
+      "source": "1999 巴菲特致股东信",
+      "target": "阿吉特·贾恩"
+    },
+    {
+      "source": "1999 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "1999 巴菲特致股东信",
+      "target": "资本配置"
+    },
+    {
+      "source": "1999 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "1999 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "1999 巴菲特致股东信",
+      "target": "通用再保险"
+    },
+    {
+      "source": "1999 巴菲特致股东信",
+      "target": "商誉"
+    },
+    {
+      "source": "1999 巴菲特致股东信",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "1999 巴菲特致股东信",
+      "target": "布法罗新闻报"
+    },
+    {
+      "source": "1999 巴菲特致股东信",
+      "target": "威利家居"
+    },
+    {
+      "source": "1999 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "1999 巴菲特致股东信",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "1999 巴菲特致股东信",
+      "target": "承保纪律"
+    },
+    {
+      "source": "1999 巴菲特致股东信",
+      "target": "中美能源"
+    },
+    {
+      "source": "1999 巴菲特致股东信",
+      "target": "复利"
+    },
+    {
+      "source": "1999 巴菲特致股东信",
+      "target": "企业文化"
+    },
+    {
+      "source": "1999 巴菲特致股东信",
+      "target": "护城河"
+    },
+    {
+      "source": "1999 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "1999 巴菲特致股东信",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "2000 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2000 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "2000 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "2000 巴菲特致股东信",
+      "target": "中美能源"
+    },
+    {
+      "source": "2000 巴菲特致股东信",
+      "target": "企业文化"
+    },
+    {
+      "source": "2000 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "2000 巴菲特致股东信",
+      "target": "杠杆"
+    },
+    {
+      "source": "2000 巴菲特致股东信",
+      "target": "品牌"
+    },
+    {
+      "source": "2000 巴菲特致股东信",
+      "target": "复利"
+    },
+    {
+      "source": "2000 巴菲特致股东信",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "2000 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "2001 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2001 巴菲特致股东信",
+      "target": "买入价格"
+    },
+    {
+      "source": "2001 巴菲特致股东信",
+      "target": "华盛顿邮报"
+    },
+    {
+      "source": "2001 巴菲特致股东信",
+      "target": "公司治理"
+    },
+    {
+      "source": "2001 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "2001 巴菲特致股东信",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "2001 巴菲特致股东信",
+      "target": "威利家居"
+    },
+    {
+      "source": "2001 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "2001 巴菲特致股东信",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "2001 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "2001 巴菲特致股东信",
+      "target": "复利"
+    },
+    {
+      "source": "2001 巴菲特致股东信",
+      "target": "安全边际"
+    },
+    {
+      "source": "2001 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "2001 巴菲特致股东信",
+      "target": "留存收益"
+    },
+    {
+      "source": "2001 巴菲特致股东信",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "2002 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2002 巴菲特致股东信",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "2002 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "2002 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "2002 巴菲特致股东信",
+      "target": "中美能源"
+    },
+    {
+      "source": "2002 巴菲特致股东信",
+      "target": "格雷格·阿贝尔"
+    },
+    {
+      "source": "2002 巴菲特致股东信",
+      "target": "盖可保险"
+    },
+    {
+      "source": "2002 巴菲特致股东信",
+      "target": "承保纪律"
+    },
+    {
+      "source": "2002 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "2002 巴菲特致股东信",
+      "target": "企业文化"
+    },
+    {
+      "source": "2002 巴菲特致股东信",
+      "target": "买入价格"
+    },
+    {
+      "source": "2002 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "2002 巴菲特致股东信",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "2003 巴菲特致股东信",
+      "target": "克莱顿房屋"
+    },
+    {
+      "source": "2003 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "2003 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "2003 巴菲特致股东信",
+      "target": "低估"
+    },
+    {
+      "source": "2003 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "2003 巴菲特致股东信",
+      "target": "买入价格"
+    },
+    {
+      "source": "2003 巴菲特致股东信",
+      "target": "债券"
+    },
+    {
+      "source": "2003 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2003 巴菲特致股东信",
+      "target": "税收效率"
+    },
+    {
+      "source": "2003 巴菲特致股东信",
+      "target": "可转换证券"
+    },
+    {
+      "source": "2003 巴菲特致股东信",
+      "target": "内布拉斯加家具店"
+    },
+    {
+      "source": "2003 巴菲特致股东信",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "2004 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2004 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "2004 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "2004 巴菲特致股东信",
+      "target": "承保纪律"
+    },
+    {
+      "source": "2004 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "2004 巴菲特致股东信",
+      "target": "中美能源"
+    },
+    {
+      "source": "2004 巴菲特致股东信",
+      "target": "格雷格·阿贝尔"
+    },
+    {
+      "source": "2004 巴菲特致股东信",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "2004 巴菲特致股东信",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "2004 巴菲特致股东信",
+      "target": "分散投资"
+    },
+    {
+      "source": "2004 巴菲特致股东信",
+      "target": "可转换证券"
+    },
+    {
+      "source": "2004 巴菲特致股东信",
+      "target": "护城河"
+    },
+    {
+      "source": "2004 巴菲特致股东信",
+      "target": "商业模式"
+    },
+    {
+      "source": "2004 巴菲特致股东信",
+      "target": "可口可乐"
+    },
+    {
+      "source": "2004 巴菲特致股东信",
+      "target": "吉列"
+    },
+    {
+      "source": "2004 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "2005 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2005 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "2005 巴菲特致股东信",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "2005 巴菲特致股东信",
+      "target": "中美能源"
+    },
+    {
+      "source": "2005 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "2005 巴菲特致股东信",
+      "target": "巴菲特"
+    },
+    {
+      "source": "2005 巴菲特致股东信",
+      "target": "承保纪律"
+    },
+    {
+      "source": "2005 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "2005 巴菲特致股东信",
+      "target": "杠杆"
+    },
+    {
+      "source": "2005 巴菲特致股东信",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "2005 巴菲特致股东信",
+      "target": "克莱顿房屋"
+    },
+    {
+      "source": "2005 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "2005 巴菲特致股东信",
+      "target": "阿吉特·贾恩"
+    },
+    {
+      "source": "2006 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2006 巴菲特致股东信",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "2006 巴菲特致股东信",
+      "target": "承保纪律"
+    },
+    {
+      "source": "2006 巴菲特致股东信",
+      "target": "盖可保险"
+    },
+    {
+      "source": "2006 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "2006 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "2006 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "2006 巴菲特致股东信",
+      "target": "阿吉特·贾恩"
+    },
+    {
+      "source": "2006 巴菲特致股东信",
+      "target": "利捷航空"
+    },
+    {
+      "source": "2006 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦能源"
+    },
+    {
+      "source": "2006 巴菲特致股东信",
+      "target": "中美能源"
+    },
+    {
+      "source": "2006 巴菲特致股东信",
+      "target": "格雷格·阿贝尔"
+    },
+    {
+      "source": "2006 巴菲特致股东信",
+      "target": "克莱顿房屋"
+    },
+    {
+      "source": "2006 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "2006 巴菲特致股东信",
+      "target": "安全边际"
+    },
+    {
+      "source": "2007 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2007 巴菲特致股东信",
+      "target": "护城河"
+    },
+    {
+      "source": "2007 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "2007 巴菲特致股东信",
+      "target": "富国银行"
+    },
+    {
+      "source": "2007 巴菲特致股东信",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "2007 巴菲特致股东信",
+      "target": "巴菲特"
+    },
+    {
+      "source": "2007 巴菲特致股东信",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "2007 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "2007 巴菲特致股东信",
+      "target": "买入价格"
+    },
+    {
+      "source": "2007 巴菲特致股东信",
+      "target": "品牌"
+    },
+    {
+      "source": "2007 巴菲特致股东信",
+      "target": "可口可乐"
+    },
+    {
+      "source": "2007 巴菲特致股东信",
+      "target": "吉列"
+    },
+    {
+      "source": "2007 巴菲特致股东信",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "2007 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "2007 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "2007 巴菲特致股东信",
+      "target": "复利"
+    },
+    {
+      "source": "2007 巴菲特致股东信",
+      "target": "套利"
+    },
+    {
+      "source": "2007 巴菲特致股东信",
+      "target": "商业模式"
+    },
+    {
+      "source": "2007 巴菲特致股东信",
+      "target": "伊斯卡"
+    },
+    {
+      "source": "2008 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2008 巴菲特致股东信",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "2008 巴菲特致股东信",
+      "target": "中美能源"
+    },
+    {
+      "source": "2008 巴菲特致股东信",
+      "target": "护城河"
+    },
+    {
+      "source": "2008 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "2008 巴菲特致股东信",
+      "target": "承保纪律"
+    },
+    {
+      "source": "2008 巴菲特致股东信",
+      "target": "特许经营权"
+    },
+    {
+      "source": "2008 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦能源"
+    },
+    {
+      "source": "2008 巴菲特致股东信",
+      "target": "格雷格·阿贝尔"
+    },
+    {
+      "source": "2008 巴菲特致股东信",
+      "target": "留存收益"
+    },
+    {
+      "source": "2008 巴菲特致股东信",
+      "target": "杠杆"
+    },
+    {
+      "source": "2008 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "2008 巴菲特致股东信",
+      "target": "买入价格"
+    },
+    {
+      "source": "2008 巴菲特致股东信",
+      "target": "企业文化"
+    },
+    {
+      "source": "2008 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "2008 巴菲特致股东信",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "2009 巴菲特致股东信",
+      "target": "BNSF铁路"
+    },
+    {
+      "source": "2009 巴菲特致股东信",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "2009 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "2009 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "2009 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2009 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "2009 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "2009 巴菲特致股东信",
+      "target": "阿吉特·贾恩"
+    },
+    {
+      "source": "2009 巴菲特致股东信",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "2009 巴菲特致股东信",
+      "target": "承保纪律"
+    },
+    {
+      "source": "2009 巴菲特致股东信",
+      "target": "企业文化"
+    },
+    {
+      "source": "2009 巴菲特致股东信",
+      "target": "公司治理"
+    },
+    {
+      "source": "2009 巴菲特致股东信",
+      "target": "安全边际"
+    },
+    {
+      "source": "2009 巴菲特致股东信",
+      "target": "市场预测"
+    },
+    {
+      "source": "2009 巴菲特致股东信",
+      "target": "商誉"
+    },
+    {
+      "source": "2010 巴菲特致股东信",
+      "target": "BNSF铁路"
+    },
+    {
+      "source": "2010 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2010 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "2010 巴菲特致股东信",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "2010 巴菲特致股东信",
+      "target": "承保纪律"
+    },
+    {
+      "source": "2010 巴菲特致股东信",
+      "target": "留存收益"
+    },
+    {
+      "source": "2010 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "2010 巴菲特致股东信",
+      "target": "企业文化"
+    },
+    {
+      "source": "2010 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "2011 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2011 巴菲特致股东信",
+      "target": "托德·库姆斯"
+    },
+    {
+      "source": "2011 巴菲特致股东信",
+      "target": "泰德·韦施勒"
+    },
+    {
+      "source": "2011 巴菲特致股东信",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "2011 巴菲特致股东信",
+      "target": "IBM"
+    },
+    {
+      "source": "2011 巴菲特致股东信",
+      "target": "回购"
+    },
+    {
+      "source": "2011 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "2011 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "2011 巴菲特致股东信",
+      "target": "BNSF铁路"
+    },
+    {
+      "source": "2011 巴菲特致股东信",
+      "target": "中美能源"
+    },
+    {
+      "source": "2011 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "2011 巴菲特致股东信",
+      "target": "可口可乐"
+    },
+    {
+      "source": "2011 巴菲特致股东信",
+      "target": "富国银行"
+    },
+    {
+      "source": "2011 巴菲特致股东信",
+      "target": "留存收益"
+    },
+    {
+      "source": "2011 巴菲特致股东信",
+      "target": "债券"
+    },
+    {
+      "source": "2011 巴菲特致股东信",
+      "target": "克莱顿房屋"
+    },
+    {
+      "source": "2011 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "2012 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2012 巴菲特致股东信",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "2012 巴菲特致股东信",
+      "target": "BNSF铁路"
+    },
+    {
+      "source": "2012 巴菲特致股东信",
+      "target": "伊斯卡"
+    },
+    {
+      "source": "2012 巴菲特致股东信",
+      "target": "中美能源"
+    },
+    {
+      "source": "2012 巴菲特致股东信",
+      "target": "回购"
+    },
+    {
+      "source": "2012 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "2012 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "2012 巴菲特致股东信",
+      "target": "低估"
+    },
+    {
+      "source": "2012 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "2012 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "2012 巴菲特致股东信",
+      "target": "商业模式"
+    },
+    {
+      "source": "2012 巴菲特致股东信",
+      "target": "承保纪律"
+    },
+    {
+      "source": "2012 巴菲特致股东信",
+      "target": "可口可乐"
+    },
+    {
+      "source": "2012 巴菲特致股东信",
+      "target": "IBM"
+    },
+    {
+      "source": "2012 巴菲特致股东信",
+      "target": "富国银行"
+    },
+    {
+      "source": "2012 巴菲特致股东信",
+      "target": "托德·库姆斯"
+    },
+    {
+      "source": "2012 巴菲特致股东信",
+      "target": "泰德·韦施勒"
+    },
+    {
+      "source": "2012 巴菲特致股东信",
+      "target": "企业文化"
+    },
+    {
+      "source": "2013 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2013 巴菲特致股东信",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "2013 巴菲特致股东信",
+      "target": "可口可乐"
+    },
+    {
+      "source": "2013 巴菲特致股东信",
+      "target": "IBM"
+    },
+    {
+      "source": "2013 巴菲特致股东信",
+      "target": "富国银行"
+    },
+    {
+      "source": "2013 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "2013 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "2013 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦能源"
+    },
+    {
+      "source": "2013 巴菲特致股东信",
+      "target": "中美能源"
+    },
+    {
+      "source": "2013 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "2013 巴菲特致股东信",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "2013 巴菲特致股东信",
+      "target": "回购"
+    },
+    {
+      "source": "2013 巴菲特致股东信",
+      "target": "托德·库姆斯"
+    },
+    {
+      "source": "2013 巴菲特致股东信",
+      "target": "泰德·韦施勒"
+    },
+    {
+      "source": "2013 巴菲特致股东信",
+      "target": "BNSF铁路"
+    },
+    {
+      "source": "2013 巴菲特致股东信",
+      "target": "市场先生"
+    },
+    {
+      "source": "2013 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "2013 巴菲特致股东信",
+      "target": "留存收益"
+    },
+    {
+      "source": "2013 巴菲特致股东信",
+      "target": "买入价格"
+    },
+    {
+      "source": "2013 巴菲特致股东信",
+      "target": "安全边际"
+    },
+    {
+      "source": "2013 巴菲特致股东信",
+      "target": "伊斯卡"
+    },
+    {
+      "source": "2014 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2014 巴菲特致股东信",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "2014 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "2014 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦能源"
+    },
+    {
+      "source": "2014 巴菲特致股东信",
+      "target": "BNSF铁路"
+    },
+    {
+      "source": "2014 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "2014 巴菲特致股东信",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "2014 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "2014 巴菲特致股东信",
+      "target": "IBM"
+    },
+    {
+      "source": "2014 巴菲特致股东信",
+      "target": "可口可乐"
+    },
+    {
+      "source": "2014 巴菲特致股东信",
+      "target": "富国银行"
+    },
+    {
+      "source": "2014 巴菲特致股东信",
+      "target": "回购"
+    },
+    {
+      "source": "2014 巴菲特致股东信",
+      "target": "托德·库姆斯"
+    },
+    {
+      "source": "2014 巴菲特致股东信",
+      "target": "泰德·韦施勒"
+    },
+    {
+      "source": "2014 巴菲特致股东信",
+      "target": "复利"
+    },
+    {
+      "source": "2014 巴菲特致股东信",
+      "target": "留存收益"
+    },
+    {
+      "source": "2014 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "2015 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2015 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "2015 巴菲特致股东信",
+      "target": "BNSF铁路"
+    },
+    {
+      "source": "2015 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "2015 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "2015 巴菲特致股东信",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "2015 巴菲特致股东信",
+      "target": "回购"
+    },
+    {
+      "source": "2015 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦能源"
+    },
+    {
+      "source": "2015 巴菲特致股东信",
+      "target": "托德·库姆斯"
+    },
+    {
+      "source": "2015 巴菲特致股东信",
+      "target": "可口可乐"
+    },
+    {
+      "source": "2015 巴菲特致股东信",
+      "target": "IBM"
+    },
+    {
+      "source": "2015 巴菲特致股东信",
+      "target": "富国银行"
+    },
+    {
+      "source": "2015 巴菲特致股东信",
+      "target": "卡夫亨氏"
+    },
+    {
+      "source": "2015 巴菲特致股东信",
+      "target": "商业模式"
+    },
+    {
+      "source": "2015 巴菲特致股东信",
+      "target": "留存收益"
+    },
+    {
+      "source": "2015 巴菲特致股东信",
+      "target": "复利"
+    },
+    {
+      "source": "2015 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "2015 巴菲特致股东信",
+      "target": "泰德·韦施勒"
+    },
+    {
+      "source": "2016 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2016 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "2016 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "2016 巴菲特致股东信",
+      "target": "回购"
+    },
+    {
+      "source": "2016 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "2016 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "2016 巴菲特致股东信",
+      "target": "留存收益"
+    },
+    {
+      "source": "2016 巴菲特致股东信",
+      "target": "德克斯特鞋业"
+    },
+    {
+      "source": "2016 巴菲特致股东信",
+      "target": "中美能源"
+    },
+    {
+      "source": "2016 巴菲特致股东信",
+      "target": "BNSF铁路"
+    },
+    {
+      "source": "2016 巴菲特致股东信",
+      "target": "市场先生"
+    },
+    {
+      "source": "2016 巴菲特致股东信",
+      "target": "低估"
+    },
+    {
+      "source": "2016 巴菲特致股东信",
+      "target": "商誉"
+    },
+    {
+      "source": "2016 巴菲特致股东信",
+      "target": "企业文化"
+    },
+    {
+      "source": "2016 巴菲特致股东信",
+      "target": "买入价格"
+    },
+    {
+      "source": "2017 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2017 巴菲特致股东信",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "2017 巴菲特致股东信",
+      "target": "杠杆"
+    },
+    {
+      "source": "2017 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "2017 巴菲特致股东信",
+      "target": "买入价格"
+    },
+    {
+      "source": "2017 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "2017 巴菲特致股东信",
+      "target": "克莱顿房屋"
+    },
+    {
+      "source": "2017 巴菲特致股东信",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "2017 巴菲特致股东信",
+      "target": "企业文化"
+    },
+    {
+      "source": "2017 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "2017 巴菲特致股东信",
+      "target": "承保纪律"
+    },
+    {
+      "source": "2017 巴菲特致股东信",
+      "target": "安全边际"
+    },
+    {
+      "source": "2017 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦能源"
+    },
+    {
+      "source": "2017 巴菲特致股东信",
+      "target": "卡夫亨氏"
+    },
+    {
+      "source": "2018 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2018 巴菲特致股东信",
+      "target": "阿吉特·贾恩"
+    },
+    {
+      "source": "2018 巴菲特致股东信",
+      "target": "格雷格·阿贝尔"
+    },
+    {
+      "source": "2018 巴菲特致股东信",
+      "target": "回购"
+    },
+    {
+      "source": "2018 巴菲特致股东信",
+      "target": "卡夫亨氏"
+    },
+    {
+      "source": "2018 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "2018 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "2018 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "2018 巴菲特致股东信",
+      "target": "留存收益"
+    },
+    {
+      "source": "2018 巴菲特致股东信",
+      "target": "可口可乐"
+    },
+    {
+      "source": "2018 巴菲特致股东信",
+      "target": "富国银行"
+    },
+    {
+      "source": "2018 巴菲特致股东信",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "2018 巴菲特致股东信",
+      "target": "买入价格"
+    },
+    {
+      "source": "2018 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "2018 巴菲特致股东信",
+      "target": "市场预测"
+    },
+    {
+      "source": "2018 巴菲特致股东信",
+      "target": "企业文化"
+    },
+    {
+      "source": "2019 巴菲特致股东信",
+      "target": "留存收益"
+    },
+    {
+      "source": "2019 巴菲特致股东信",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "2019 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2019 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "2019 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "2019 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "2019 巴菲特致股东信",
+      "target": "复利"
+    },
+    {
+      "source": "2019 巴菲特致股东信",
+      "target": "可口可乐"
+    },
+    {
+      "source": "2019 巴菲特致股东信",
+      "target": "富国银行"
+    },
+    {
+      "source": "2019 巴菲特致股东信",
+      "target": "BNSF铁路"
+    },
+    {
+      "source": "2019 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦能源"
+    },
+    {
+      "source": "2019 巴菲特致股东信",
+      "target": "克莱顿房屋"
+    },
+    {
+      "source": "2019 巴菲特致股东信",
+      "target": "利捷航空"
+    },
+    {
+      "source": "2019 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "2019 巴菲特致股东信",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "2019 巴菲特致股东信",
+      "target": "承保纪律"
+    },
+    {
+      "source": "2019 巴菲特致股东信",
+      "target": "债券"
+    },
+    {
+      "source": "2020 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2020 巴菲特致股东信",
+      "target": "留存收益"
+    },
+    {
+      "source": "2020 巴菲特致股东信",
+      "target": "回购"
+    },
+    {
+      "source": "2020 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "2020 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "2020 巴菲特致股东信",
+      "target": "BNSF铁路"
+    },
+    {
+      "source": "2020 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦能源"
+    },
+    {
+      "source": "2020 巴菲特致股东信",
+      "target": "债券"
+    },
+    {
+      "source": "2020 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "2020 巴菲特致股东信",
+      "target": "护城河"
+    },
+    {
+      "source": "2020 巴菲特致股东信",
+      "target": "买入价格"
+    },
+    {
+      "source": "2020 巴菲特致股东信",
+      "target": "阿吉特·贾恩"
+    },
+    {
+      "source": "2020 巴菲特致股东信",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "2020 巴菲特致股东信",
+      "target": "可口可乐"
+    },
+    {
+      "source": "2020 巴菲特致股东信",
+      "target": "伊藤忠商事"
+    },
+    {
+      "source": "2020 巴菲特致股东信",
+      "target": "威瑞森通讯"
+    },
+    {
+      "source": "2020 巴菲特致股东信",
+      "target": "卡夫亨氏"
+    },
+    {
+      "source": "2020 巴菲特致股东信",
+      "target": "喜诗糖果"
+    },
+    {
+      "source": "2020 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "2021 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2021 巴菲特致股东信",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "2021 巴菲特致股东信",
+      "target": "BNSF铁路"
+    },
+    {
+      "source": "2021 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦能源"
+    },
+    {
+      "source": "2021 巴菲特致股东信",
+      "target": "复利"
+    },
+    {
+      "source": "2021 巴菲特致股东信",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "2021 巴菲特致股东信",
+      "target": "阿吉特·贾恩"
+    },
+    {
+      "source": "2021 巴菲特致股东信",
+      "target": "回购"
+    },
+    {
+      "source": "2021 巴菲特致股东信",
+      "target": "格雷格·阿贝尔"
+    },
+    {
+      "source": "2021 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "2021 巴菲特致股东信",
+      "target": "买入价格"
+    },
+    {
+      "source": "2021 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "2021 巴菲特致股东信",
+      "target": "护城河"
+    },
+    {
+      "source": "2021 巴菲特致股东信",
+      "target": "留存收益"
+    },
+    {
+      "source": "2021 巴菲特致股东信",
+      "target": "可口可乐"
+    },
+    {
+      "source": "2021 巴菲特致股东信",
+      "target": "卡夫亨氏"
+    },
+    {
+      "source": "2021 巴菲特致股东信",
+      "target": "伊藤忠商事"
+    },
+    {
+      "source": "2021 巴菲特致股东信",
+      "target": "三菱商事"
+    },
+    {
+      "source": "2021 巴菲特致股东信",
+      "target": "三井物产"
+    },
+    {
+      "source": "2021 巴菲特致股东信",
+      "target": "威瑞森通讯"
+    },
+    {
+      "source": "2021 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "2021 巴菲特致股东信",
+      "target": "托德·库姆斯"
+    },
+    {
+      "source": "2021 巴菲特致股东信",
+      "target": "泰德·韦施勒"
+    },
+    {
+      "source": "2022 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "2022 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2022 巴菲特致股东信",
+      "target": "有效市场"
+    },
+    {
+      "source": "2022 巴菲特致股东信",
+      "target": "可口可乐"
+    },
+    {
+      "source": "2022 巴菲特致股东信",
+      "target": "复利"
+    },
+    {
+      "source": "2022 巴菲特致股东信",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "2022 巴菲特致股东信",
+      "target": "承保纪律"
+    },
+    {
+      "source": "2022 巴菲特致股东信",
+      "target": "国民保险公司"
+    },
+    {
+      "source": "2022 巴菲特致股东信",
+      "target": "回购"
+    },
+    {
+      "source": "2022 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "2022 巴菲特致股东信",
+      "target": "BNSF铁路"
+    },
+    {
+      "source": "2022 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦能源"
+    },
+    {
+      "source": "2022 巴菲特致股东信",
+      "target": "留存收益"
+    },
+    {
+      "source": "2023 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2023 巴菲特致股东信",
+      "target": "巴菲特"
+    },
+    {
+      "source": "2023 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "2023 巴菲特致股东信",
+      "target": "可口可乐"
+    },
+    {
+      "source": "2023 巴菲特致股东信",
+      "target": "买入价格"
+    },
+    {
+      "source": "2023 巴菲特致股东信",
+      "target": "伊藤忠商事"
+    },
+    {
+      "source": "2023 巴菲特致股东信",
+      "target": "三菱商事"
+    },
+    {
+      "source": "2023 巴菲特致股东信",
+      "target": "三井物产"
+    },
+    {
+      "source": "2023 巴菲特致股东信",
+      "target": "回购"
+    },
+    {
+      "source": "2023 巴菲特致股东信",
+      "target": "留存收益"
+    },
+    {
+      "source": "2023 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "2023 巴菲特致股东信",
+      "target": "BNSF铁路"
+    },
+    {
+      "source": "2023 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦能源"
+    },
+    {
+      "source": "2023 巴菲特致股东信",
+      "target": "复利"
+    },
+    {
+      "source": "2023 巴菲特致股东信",
+      "target": "市场先生"
+    },
+    {
+      "source": "2023 巴菲特致股东信",
+      "target": "安全边际"
+    },
+    {
+      "source": "2023 巴菲特致股东信",
+      "target": "格雷厄姆"
+    },
+    {
+      "source": "2023 巴菲特致股东信",
+      "target": "格雷格·阿贝尔"
+    },
+    {
+      "source": "2024 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦"
+    },
+    {
+      "source": "2024 巴菲特致股东信",
+      "target": "保险业"
+    },
+    {
+      "source": "2024 巴菲特致股东信",
+      "target": "托德·库姆斯"
+    },
+    {
+      "source": "2024 巴菲特致股东信",
+      "target": "复利"
+    },
+    {
+      "source": "2024 巴菲特致股东信",
+      "target": "芒格"
+    },
+    {
+      "source": "2024 巴菲特致股东信",
+      "target": "格雷格·阿贝尔"
+    },
+    {
+      "source": "2024 巴菲特致股东信",
+      "target": "收购"
+    },
+    {
+      "source": "2024 巴菲特致股东信",
+      "target": "BNSF铁路"
+    },
+    {
+      "source": "2024 巴菲特致股东信",
+      "target": "伯克希尔哈撒韦能源"
+    },
+    {
+      "source": "2024 巴菲特致股东信",
+      "target": "留存收益"
+    },
+    {
+      "source": "2024 巴菲特致股东信",
+      "target": "可口可乐"
+    },
+    {
+      "source": "2024 巴菲特致股东信",
+      "target": "保险浮存金"
+    },
+    {
+      "source": "2024 巴菲特致股东信",
+      "target": "内在价值"
+    },
+    {
+      "source": "2024 巴菲特致股东信",
+      "target": "企业文化"
+    },
+    {
+      "source": "2024 巴菲特致股东信",
+      "target": "卡夫亨氏"
+    },
+    {
+      "source": "2024 巴菲特致股东信",
+      "target": "阿吉特·贾恩"
+    }
+  ]
+}

@@ -1,0 +1,2944 @@
+[
+  {
+    "title": "买入价格",
+    "slug": "买入价格",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "\"买入价格\"是巴菲特投资哲学中最核心的概念之一，也是他投资思想发生根本性转变的关键枢纽。简而言之，买入价格决定了投资的最终回报率——无论企业多么优秀，如果买入价格过高，就可能是一笔糟糕的投资；反之，即使企业平庸，如果价格足够低，也能获得可观的回报。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/买入价格"
+  },
+  {
+    "title": "企业文化",
+    "slug": "企业文化",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "企业文化（Corporate Culture）在巴菲特的投资体系中占据着独特而核心的位置。他所说的企业文化，不是悬挂在公司大堂墙上的使命宣言，不是人力资源部门编写的员工手册，而是一个组织中每个人在无人监督时如何做决策、如何行动的集体习惯和共同信念。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/企业文化"
+  },
+  {
+    "title": "低估",
+    "slug": "低估",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "\"低估\"是巴菲特投资生涯中最持久、最根本的概念。从1957年第一封合伙人信到2018年的致股东信，这个词贯穿了超过60年的投资实践。简单来说，低估是指市场价格显著低于内在价值的状态。当这种状态出现时，投资者就获得了一个以折扣价买入资产的机会。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/低估"
+  },
+  {
+    "title": "保险业",
+    "slug": "保险业",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "1967年，巴菲特以860万美元收购国民保险公司，自此保险成为伯克希尔增长的引擎。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/保险业"
+  },
+  {
+    "title": "保险浮存金",
+    "slug": "保险浮存金",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "保险浮存金（Insurance Float）是指保险公司在收取保费与支付赔款之间的时间差内，暂时持有的一笔资金。这笔钱在法律意义上不属于保险公司——它最终要用来支付理赔——但在持有期间，保险公司可以将其用于投资。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/保险浮存金"
+  },
+  {
+    "title": "债券",
+    "slug": "债券",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "债券是一种固定收益证券，发行人承诺在约定期限内向持有人支付利息并在到期时偿还本金。在巴菲特的投资生涯中，债券扮演了多重角色：合伙人时期的现金替代工具、伯克希尔保险公司的法定投资标的、以及偶尔出现的超额回报机会。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/债券"
+  },
+  {
+    "title": "公司治理",
+    "slug": "公司治理",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "他对美国公司治理体制的批判聚焦于三个层面：董事会的失职、CEO薪酬的失控、以及\"独立性\"定义的荒谬。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/公司治理"
+  },
+  {
+    "title": "内在价值",
+    "slug": "内在价值",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "内在价值是巴菲特整个投资体系的基石，也是他从恩师本杰明·格雷厄姆那里继承并不断发展的核心概念。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/内在价值"
+  },
+  {
+    "title": "分散投资",
+    "slug": "分散投资",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "分散投资是现代投资组合理论（Modern Portfolio Theory）的核心教条之一，主张投资者应当持有大量不同的证券以降低风险。这一理念通过哈里·马科维茨（Harry Markowitz）的开创性论文和后续的学术研究被系统化，成为几乎所有商学院金融课程的标配内容。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/分散投资"
+  },
+  {
+    "title": "可转换证券",
+    "slug": "可转换证券",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "可转换证券是一种混合金融工具，兼具固定收益和股权参与的双重特性。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/可转换证券"
+  },
+  {
+    "title": "品牌",
+    "slug": "品牌",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "品牌力量（Brand Power）在巴菲特的投资体系中，是构成护城河和特许经营权的核心要素之一。巴菲特所理解的品牌，远不止一个商标或一段广告语——它是消费者心智中根深蒂固的认知和偏好，是企业拥有定价权的根本来源，是一种无需实体形态即可跨越地理和时间界限的经济资产。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/品牌"
+  },
+  {
+    "title": "商业模式",
+    "slug": "商业模式",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "商业模式（Business Model）描述的是一家企业如何创造价值、传递价值、并最终获取价值的底层逻辑。在巴菲特的投资框架中，商业模式的含义比商学院教科书中的定义更为朴素也更为深刻——它关注的核心问题是：这家企业的钱是怎么赚的？这种赚钱方式能持续多久？竞争者能不能轻易复制？",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/商业模式"
+  },
+  {
+    "title": "商誉",
+    "slug": "商誉",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "商誉是巴菲特投资哲学中最具思想深度的概念之一，也是他思想演变的重要标志。理解巴菲特对商誉的看法，需要首先区分两个截然不同的概念：会计商誉与经济商誉。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/商誉"
+  },
+  {
+    "title": "回购",
+    "slug": "回购",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "股票回购（Share Buyback / Share Repurchase）是指公司用自有资金从公开市场或通过要约收购的方式买回自己已发行在外的股票。回购后的股票通常被注销，从而减少流通股数量，提高剩余股东在公司中的持股比例。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/回购"
+  },
+  {
+    "title": "复利",
+    "slug": "复利",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "复利，即\"利滚利\"，指的是投资收益不被取出消费，而是持续再投入，使得下一期的本金包含了上一期的利息，从而产生指数级增长效应。爱因斯坦据传曾称之为\"世界第八大奇迹\"，虽然这个归因尚有争议，但复利本身的威力毋庸置疑。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/复利"
+  },
+  {
+    "title": "套利",
+    "slug": "套利",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "套利最初是指在两个不同市场同时买卖相同的证券或外汇，以赚取微小价差的行为。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/套利"
+  },
+  {
+    "title": "媒体与出版",
+    "slug": "媒体与出版",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "在1970-1980年代，巴菲特视报纸和电视台为最完美的生意之一。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/媒体与出版"
+  },
+  {
+    "title": "安全边际",
+    "slug": "安全边际",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "安全边际是本杰明·格雷厄姆在其经典著作《聪明的投资者》（The Intelligent Investor）最后一章中着重阐述的概念，被他称为\"投资中最重要的四个字\"。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/安全边际"
+  },
+  {
+    "title": "市场先生",
+    "slug": "市场先生",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "\"市场先生\"（Mr. Market）是本杰明·格雷厄姆在其经典著作《聪明的投资者》（The Intelligent Investor）第八章中创造的一个寓言人物。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/市场先生"
+  },
+  {
+    "title": "市场预测",
+    "slug": "市场预测",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "市场预测是指试图预判股票市场短期或中期走势的行为。这种行为在华尔街极为盛行——每天都有无数分析师、经济学家和电视评论员对市场下一步的走向发表见解。然而，巴菲特将市场预测视为一种彻底的徒劳，甚至是一种危险的活动，因为它会分散投资者对真正重要事物——企业基本面——的注意力。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/市场预测"
+  },
+  {
+    "title": "市盈率",
+    "slug": "市盈率",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "市盈率（Price-to-Earnings Ratio，简称P/E）是股价与每股收益的比率，是股票市场上最广泛使用的估值指标之一。一家公司的市盈率为20倍，意味着投资者愿意为其每一元的年利润支付20元的价格——或者换一种理解方式，如果利润保持不变，投资者需要20年才能通过盈利\"收回\"投入的本金。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/市盈率"
+  },
+  {
+    "title": "承保纪律",
+    "slug": "承保纪律",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "承保纪律是保险行业中最核心的经营原则，指保险公司在承接风险时严格遵循合理定价标准，宁可放弃保费收入也不承接定价不合理的风险。这一概念的本质是：保险公司的长期价值不取决于规模大小，而取决于能否在承保过程中实现盈利。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/承保纪律"
+  },
+  {
+    "title": "护城河",
+    "slug": "护城河",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "\"护城河\"是巴菲特投资哲学中最核心的概念之一，指企业拥有的持久竞争优势，能够保护其长期盈利能力免受竞争侵蚀。这个比喻源自中世纪城堡的防御工事：一座价值连城的商业城堡，需要一条宽阔而深邃的护城河来抵御觊觎者的进攻。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/护城河"
+  },
+  {
+    "title": "收购",
+    "slug": "收购",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "收购是伯克希尔·哈撒韦增长的核心引擎之一。与华尔街主流的收购行为不同，巴菲特发展出了一套独特的收购哲学——明确的标准、简洁的流程、永不退出的承诺。他在年报中反复刊登收购标准，像发布\"企业通缉令\"一样寻找目标，同时对不符合标准的交易坚定说不。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/收购"
+  },
+  {
+    "title": "有效市场",
+    "slug": "有效市场",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "有效市场假说（Efficient Market Hypothesis, EMH）是20世纪后半叶金融学术界最具影响力的理论之一。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/有效市场"
+  },
+  {
+    "title": "杠杆",
+    "slug": "杠杆",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "杠杆是指使用借入资金来放大投资回报的行为。巴菲特对杠杆的态度可以用一句话概括：它可以加速你变富，也可以加速你破产——而后者往往是不可逆的。在巴菲特看来，杠杆是投资世界中最危险的工具之一，因为它把低概率的灾难性事件从\"不太可能发生\"变成了\"一旦发生就会致命\"。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/杠杆"
+  },
+  {
+    "title": "特许经营权",
+    "slug": "特许经营权",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "在巴菲特的投资词汇中，\"特许经营权\"（Franchise）——更准确地说是\"经济特许经营权\"（Economic Franchise）——是一个含义特殊且极其重要的概念。它并非法律意义上的特许经营许可（如麦当劳的加盟权），而是指一家企业因其产品或服务的独特性，在经济上享有的类似于垄断的地位。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/特许经营权"
+  },
+  {
+    "title": "留存收益",
+    "slug": "留存收益",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "留存收益（Retained Earnings）是指企业在一定期间内赚取的净利润中，扣除分配给股东的股息后保留在公司内部的部分。这些未分配的利润留在企业中用于再投资——可能是扩展业务、收购新企业、偿还债务或回购股票。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/留存收益"
+  },
+  {
+    "title": "科技与互联网",
+    "slug": "科技与互联网",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "巴菲特在科技行业上最著名的立场不是某笔投资，而是他长达数十年的拒绝投资。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/科技与互联网"
+  },
+  {
+    "title": "税收效率",
+    "slug": "税收效率",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "税收效率是巴菲特投资策略中一个被低估却极为关键的维度。他从不逃税——恰恰相反，伯克希尔是全美最大的纳税人之一——但他深谙如何在合法框架内让复利效应最大化。其核心洞见是：递延纳税等于获得了政府的无息贷款。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/税收效率"
+  },
+  {
+    "title": "竞争优势",
+    "slug": "竞争优势",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "竞争优势是巴菲特投资体系的基石概念，与护城河紧密相关但又有所区别。如果说护城河是一个比喻——用城堡周围的壕沟来形容保护企业的防线，那么竞争优势就是这道壕沟的具体内容：它指的是一家企业相对于竞争对手所拥有的持久的、可防御的优势地位，使其能够在长期中维持高于行业平均水平的资本回报率。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/竞争优势"
+  },
+  {
+    "title": "管理层",
+    "slug": "管理层",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "在巴菲特的投资体系中，管理层品质是决定企业价值的三大核心变量之一，与商业模式和买入价格并列。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/管理层"
+  },
+  {
+    "title": "纺织业务",
+    "slug": "纺织业务",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "纺织业务是伯克希尔·哈撒韦公司的原始业务（1965-1985），也是巴菲特投资生涯中最重要的反面教训。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/纺织业务"
+  },
+  {
+    "title": "股东导向",
+    "slug": "股东导向",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "股东导向是巴菲特经营伯克希尔·哈撒韦的根本哲学，也是他评估其他公司管理层的核心标准之一。这一理念的精髓可以用1983 巴菲特致股东信中的第一条经营原则来概括：",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/股东导向"
+  },
+  {
+    "title": "股息",
+    "slug": "股息",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "股息政策是公司将利润分配给股东还是留存再投资的决策。这个看似简单的问题，在巴菲特的投资哲学中被赋予了极其深刻的内涵。伯克希尔·哈撒韦是股息政策方面最极端的案例之一：在整个公司历史中，仅在1967年1月3日派发过唯一一次股息——每股10美分，总计101,755美元。此后再未分红。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/股息"
+  },
+  {
+    "title": "能力圈",
+    "slug": "能力圈",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "\"能力圈\"是巴菲特投资哲学中最具实践指导意义的概念之一。它的核心思想是：每个投资者都有一个自己真正理解的领域范围，投资应该严格限定在这个范围之内。更关键的是，知道自己能力的边界在哪里，远比扩大能力圈本身更为重要。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/能力圈"
+  },
+  {
+    "title": "能源",
+    "slug": "能源",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "伯克希尔哈撒韦能源（原中美能源）是伯克希尔\"五驾马车\"之一，也是巴菲特在能源行业最核心的布局。2000年收购以来，在戴夫·索科尔和格雷格·阿贝尔的管理下，这家公司从爱荷华州的一家电力公司发展为横跨美国和英国的庞大公用事业帝国，服务数百万用户。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/能源"
+  },
+  {
+    "title": "航空业",
+    "slug": "航空业",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "航空业是巴菲特最著名的反面教材之一。他用一个辛辣的比喻总结了这个行业的经济学：如果当年奥维尔·莱特在小鹰镇没能飞起来就好了——航空业越发展壮大，投资者亏得越惨。这个行业完美诠释了巴菲特的一个核心洞察：增长本身不等于价值创造。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/航空业"
+  },
+  {
+    "title": "衍生品",
+    "slug": "衍生品",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "衍生品是其价值\"衍生\"自其他资产或变量的金融合约。巴菲特对衍生品发出了投资界最著名的警告之一——在2002年致股东信中，他将衍生品称为\"大规模杀伤性金融武器\"（financial weapons of mass destruction）。这一称呼在2008年金融危机后被证明具有惊人的预见性。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/衍生品"
+  },
+  {
+    "title": "诚信",
+    "slug": "诚信",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "在巴菲特的用人哲学中，诚信是排在第一位的品质。他反复引用一个简洁的公式：招人看三样东西——正直、聪明和精力。如果缺了第一条，后面两条会要你的命。这不是修辞上的夸张，而是他数十年投资经验的浓缩。一个既聪明又精力旺盛却不诚信的人，其破坏力远大于一个愚钝懒散的人。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/诚信"
+  },
+  {
+    "title": "账面价值",
+    "slug": "账面价值",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "账面价值（Book Value）是一个会计概念，代表企业在资产负债表上的净资产，即总资产减去总负债。对股东而言，每股账面价值代表了投入企业的资本总额（含历年留存收益）按每股计算的金额。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/账面价值"
+  },
+  {
+    "title": "资本配置",
+    "slug": "资本配置",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "资本配置（Capital Allocation）是指企业决定如何使用其产生的现金流的过程——是再投资于现有业务、收购新企业、回购股票，还是以股息形式分配给股东。在巴菲特看来，这是CEO最重要的职责之一，其重要性甚至超过了日常运营管理。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/资本配置"
+  },
+  {
+    "title": "透视盈余",
+    "slug": "透视盈余",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "透视盈余（Look-Through Earnings）是巴菲特独创的一个财务分析概念，旨在弥补通用会计准则（GAAP）在反映持股公司真实盈利能力方面的重大缺陷。其核心思想是：投资者不应仅看被投资公司分配的股息，还应将按持股比例应享有的未分配利润纳入考量。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/透视盈余"
+  },
+  {
+    "title": "通货膨胀",
+    "slug": "通货膨胀",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "通货膨胀是巴菲特最为关注的宏观经济风险之一。与许多投资者将通胀视为可以被忽略的背景噪音不同，巴菲特将通胀视为一种\"隐性税收\"——它悄无声息地侵蚀投资者的实际购买力。在1980年致股东信中，他将通胀的影响上升到了与政府征税同等重要的高度。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/通货膨胀"
+  },
+  {
+    "title": "铁路运输",
+    "slug": "铁路运输",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "铁路曾是华尔街的噩梦——资本密集、监管沉重、工会强势、回报低迷。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/铁路运输"
+  },
+  {
+    "title": "银行业",
+    "slug": "银行业",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "银行业是巴菲特长期关注但始终保持警惕的行业。他既认为优秀的银行是极好的投资标的，又深知杠杆使银行成为所有行业中最危险的之一。这种矛盾贯穿了他数十年的投资实践：从早期拥有伊利诺伊国民银行，到重仓富国银行和美国银行，再到最终大幅减持几乎所有银行股。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/银行业"
+  },
+  {
+    "title": "长期持有",
+    "slug": "长期持有",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "长期持有，在巴菲特的语境中，不是一种被动的投资策略，而是一种主动选择的结果。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/长期持有"
+  },
+  {
+    "title": "集中投资",
+    "slug": "集中投资",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "集中投资是巴菲特投资哲学中最具争议性、也最能体现其独立思考精神的理念之一。它的核心主张是：把大量资金集中投入少数几家你真正了解的优秀企业，而非分散到几十甚至上百只股票中去。巴菲特认为，广泛的分散化实际上是对无知的一种保护措施——如果你真正了解你所投资的企业，分散反而会降低你的回报。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/集中投资"
+  },
+  {
+    "title": "零售与消费",
+    "slug": "零售与消费",
+    "category": "concepts",
+    "type": "concept",
+    "summary": "这笔看似不起眼的交易彻底改变了他的投资哲学——从格雷厄姆式\"捡烟蒂\"转向\"以合理价格买好企业\"。",
+    "tags": [
+      "concept",
+      "投资概念"
+    ],
+    "path": "concepts/零售与消费"
+  },
+  {
+    "title": "BNSF铁路",
+    "slug": "BNSF铁路",
+    "category": "companies",
+    "type": "company",
+    "summary": "BNSF铁路（Burlington Northern Santa Fe Railway）是北美最大的货运铁路公司之一，按货运量计算是美国最大的铁路公司。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/BNSF铁路"
+  },
+  {
+    "title": "IBM",
+    "slug": "IBM",
+    "category": "companies",
+    "type": "company",
+    "summary": "国际商业机器公司（International Business Machines Corporation），简称IBM，是全球最具历史传承的科技巨头之一。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/IBM"
+  },
+  {
+    "title": "三井物产",
+    "slug": "三井物产",
+    "category": "companies",
+    "type": "company",
+    "summary": "三井物产株式会社的商贸传统可追溯至1673年（三井高利创立越后屋），现代形式的三井物产成立于1947年，总部位于日本东京，是日本五大综合商社之一。公司的业务涵盖金属资源、能源、机械与基础设施、化学品、铁钢制品、生活产业和创新事业等七个核心领域。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/三井物产"
+  },
+  {
+    "title": "三菱商事",
+    "slug": "三菱商事",
+    "category": "companies",
+    "type": "company",
+    "summary": "三菱商事株式会社创立于1954年（三菱财阀的商贸传统可追溯至1870年），总部位于日本东京，是日本五大综合商社中规模最大的一家。公司的业务涵盖天然气、综合材料、石油化工、矿产资源、工业基础设施、汽车与出行、食品产业、消费产业、电力解决方案和城市开发等十个事业领域。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/三菱商事"
+  },
+  {
+    "title": "世界图书百科全书",
+    "slug": "世界图书百科全书",
+    "category": "companies",
+    "type": "company",
+    "summary": "世界图书公司 (World Book, Inc.) 约占斯科特费泽销售额的40%，利润占比更高一些，是该公司最大的业务部门。它同时也是行业中遥遥领先的龙头，每年百科全书的销量超过最接近的竞争对手的两倍。事实上，它在美国的销量超过四大竞争对手的总和。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/世界图书百科全书"
+  },
+  {
+    "title": "中国石油",
+    "slug": "中国石油",
+    "category": "companies",
+    "type": "company",
+    "summary": "中国石油天然气股份有限公司（PetroChina）成立于1999年，是中国石油天然气集团公司（CNPC）的上市旗舰，也是中国最大的油气生产商。公司于2000年在香港联交所上市（H股），2007年在上海证券交易所上市（A股）。业务涵盖油气勘探与生产、炼油与化工、天然气输送与销售、成品油销售等全产业链。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/中国石油"
+  },
+  {
+    "title": "中美能源",
+    "slug": "中美能源",
+    "category": "companies",
+    "type": "company",
+    "summary": "中美能源控股公司（MidAmerican Energy Holdings）成立于爱荷华州，是一家大型多元化能源控股企业，2014年更名为伯克希尔哈撒韦能源（Berkshire Hathaway Energy，简称BHE）。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/中美能源"
+  },
+  {
+    "title": "伊斯卡",
+    "slug": "伊斯卡",
+    "category": "companies",
+    "type": "company",
+    "summary": "伊斯卡（Iscar，后更名为IMC，即International Metalworking Companies/国际金属加工公司）是一家总部位于以色列的全球领先切削工具和金属加工刀具制造商。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/伊斯卡"
+  },
+  {
+    "title": "伊藤忠商事",
+    "slug": "伊藤忠商事",
+    "category": "companies",
+    "type": "company",
+    "summary": "伊藤忠商事株式会社创立于1858年，总部位于日本大阪和东京，是日本五大综合商社之一。公司由初代伊藤忠兵卫以麻布贸易起家，经过160多年的发展，已成为一家业务遍布全球的多元化企业集团。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/伊藤忠商事"
+  },
+  {
+    "title": "伯克希尔哈撒韦",
+    "slug": "伯克希尔哈撒韦",
+    "category": "companies",
+    "type": "company",
+    "summary": "伯克希尔·哈撒韦公司成立于1839年，最初是马萨诸塞州新贝德福德的一家纺织厂。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/伯克希尔哈撒韦"
+  },
+  {
+    "title": "伯克希尔哈撒韦能源",
+    "slug": "伯克希尔哈撒韦能源",
+    "category": "companies",
+    "type": "company",
+    "summary": "伯克希尔哈撒韦能源（Berkshire Hathaway Energy）",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/伯克希尔哈撒韦能源"
+  },
+  {
+    "title": "克莱顿房屋",
+    "slug": "克莱顿房屋",
+    "category": "companies",
+    "type": "company",
+    "summary": "克莱顿房屋（Clayton Homes）总部位于田纳西州诺克斯维尔，是全美最大的预制房屋（manufactured homes）制造商、销售商和融资商。公司由吉姆·克莱顿（Jim Clayton）创立，目前由其子凯文·克莱顿（Kevin Clayton）担任CEO。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/克莱顿房屋"
+  },
+  {
+    "title": "内布拉斯加家具店",
+    "slug": "内布拉斯加家具店",
+    "category": "companies",
+    "type": "company",
+    "summary": "内布拉斯加家具店（Nebraska Furniture Mart）",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/内布拉斯加家具店"
+  },
+  {
+    "title": "冰雪皇后",
+    "slug": "冰雪皇后",
+    "category": "companies",
+    "type": "company",
+    "summary": "冰雪皇后（International Dairy Queen，简称DQ）是全球知名的连锁冰淇淋和快餐品牌，以暴风雪冰淇淋（Blizzard）等标志性产品闻名。公司采用特许经营模式运营，在全球拥有数千家门店，覆盖美国、加拿大、中国等多个市场。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/冰雪皇后"
+  },
+  {
+    "title": "利捷航空",
+    "slug": "利捷航空",
+    "category": "companies",
+    "type": "company",
+    "summary": "利捷航空（NetJets）是全球最大的公务机共享所有权公司，也是这一商业模式的发明者。公司前身为Executive Jet Aviation（EJA），通过NetJets共享计划，客户可以购买公务机的部分所有权（如1/8或1/16份额），按需享用飞机服务，而无需承担整架飞机的全部成本。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/利捷航空"
+  },
+  {
+    "title": "华盛顿邮报",
+    "slug": "华盛顿邮报",
+    "category": "companies",
+    "type": "company",
+    "summary": "华盛顿邮报公司（The Washington Post Company）是一家美国媒体集团，旗下拥有《华盛顿邮报》报纸、新闻周刊（Newsweek）、多家电视台以及卡普兰教育集团（Kaplan）等业务。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/华盛顿邮报"
+  },
+  {
+    "title": "卡夫亨氏",
+    "slug": "卡夫亨氏",
+    "category": "companies",
+    "type": "company",
+    "summary": "卡夫亨氏公司（The Kraft Heinz Company）是全球第五大食品饮料公司，2015年由卡夫食品（Kraft Foods）与亨氏公司（H.J. Heinz）合并而成。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/卡夫亨氏"
+  },
+  {
+    "title": "可口可乐",
+    "slug": "可口可乐",
+    "category": "companies",
+    "type": "company",
+    "summary": "可口可乐公司成立于1886年，总部位于亚特兰大，是全球最大的非酒精饮料公司。公司拥有超过500个饮料品牌，产品销往全球200多个国家和地区，每天的饮料消费量超过19亿杯。其核心产品可口可乐是人类历史上最具辨识度的品牌之一。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/可口可乐"
+  },
+  {
+    "title": "吉列",
+    "slug": "吉列",
+    "category": "companies",
+    "type": "company",
+    "summary": "吉列公司创立于1901年，由金·坎普·吉列（King Camp Gillette）在波士顿创办，以其发明的安全剃须刀起家。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/吉列"
+  },
+  {
+    "title": "喜诗糖果",
+    "slug": "喜诗糖果",
+    "category": "companies",
+    "type": "company",
+    "summary": "喜诗糖果由玛丽·喜（Mary See）于一个世纪前在洛杉矶创立，是美国西海岸最著名的高端盒装巧克力和糖果制造零售商。公司以独家配方制作巧克力、太妃糖、花生脆等经典产品，通过遍布美国西部的数百家古色古香的零售门店直接面向消费者销售。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/喜诗糖果"
+  },
+  {
+    "title": "国民保险公司",
+    "slug": "国民保险公司",
+    "category": "companies",
+    "type": "company",
+    "summary": "国民保险公司（National Indemnity Company，简称NICO）是伯克希尔·哈撒韦旗下最重要的保险子公司，总部位于内布拉斯加州奥马哈。如今按净资产衡量，它是全球最大的财产意外险公司，但它的起步同样卑微。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/国民保险公司"
+  },
+  {
+    "title": "大都会通信",
+    "slug": "大都会通信",
+    "category": "companies",
+    "type": "company",
+    "summary": "大都会通信公司（Capital Cities Communications, Inc.），后更名为大都会/ABC公司（Capital Cities/ABC, Inc.），是20世纪美国最成功的媒体企业之一。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/大都会通信"
+  },
+  {
+    "title": "威利家居",
+    "slug": "威利家居",
+    "category": "companies",
+    "type": "company",
+    "summary": "...尔来说确实有许多令人振奋的好消息：我们谈成了三笔正是我们梦寐以求的并购交易。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/威利家居"
+  },
+  {
+    "title": "威瑞森通讯",
+    "slug": "威瑞森通讯",
+    "category": "companies",
+    "type": "company",
+    "summary": "威瑞森通讯公司成立于2000年，由贝尔大西洋（Bell Atlantic）和GTE合并而成，总部位于纽约市，是美国最大的无线通信运营商。公司继承了贝尔系统（Ma Bell）的深厚传统，拥有覆盖全美的4G LTE和5G无线网络，以及东北部地区的光纤宽带网络（Fios）。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/威瑞森通讯"
+  },
+  {
+    "title": "富国银行",
+    "slug": "富国银行",
+    "category": "companies",
+    "type": "company",
+    "summary": "富国银行成立于1852年，总部位于旧金山，是美国最大的银行之一。其业务覆盖社区银行、批发银行和财富管理三大板块，在全美拥有数千家网点，服务数千万客户。作为美国最重要的房地产贷款机构之一，富国银行在抵押贷款、小企业贷款和消费信贷等领域长期占据领先地位。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/富国银行"
+  },
+  {
+    "title": "州立农业保险",
+    "slug": "州立农业保险",
+    "category": "companies",
+    "type": "company",
+    "summary": "州立农业保险公司由乔治·梅切尔（George Mecherle）于1922年在伊利诺伊州布卢明顿创立，最初专门服务农场主群体。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/州立农业保险"
+  },
+  {
+    "title": "布法罗新闻报",
+    "slug": "布法罗新闻报",
+    "category": "companies",
+    "type": "company",
+    "summary": "布法罗新闻报是纽约州布法罗市的主要日报，伯克希尔哈撒韦于1977年通过旗下蓝筹印花公司以3,250万美元收购。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/布法罗新闻报"
+  },
+  {
+    "title": "康菲石油",
+    "slug": "康菲石油",
+    "category": "companies",
+    "type": "company",
+    "summary": "康菲石油成立于2002年，由康诺科（Conoco）和菲利普斯石油（Phillips Petroleum）合并而成，总部位于德克萨斯州休斯顿。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/康菲石油"
+  },
+  {
+    "title": "德克斯特鞋业",
+    "slug": "德克斯特鞋业",
+    "category": "companies",
+    "type": "company",
+    "summary": "德克斯特鞋业（Dexter Shoe）是一家位于美国缅因州的制鞋企业，以生产中高端皮鞋闻名。公司在缅因州小镇设有工厂，鼎盛时期雇佣约1,600名员工。1993年，伯克希尔哈撒韦以价值4.33亿美元的伯克希尔股票（25,203股A股）收购了德克斯特鞋业。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/德克斯特鞋业"
+  },
+  {
+    "title": "房地美",
+    "slug": "房地美",
+    "category": "companies",
+    "type": "company",
+    "summary": "联邦住宅贷款抵押公司（Federal Home Loan Mortgage Corporation），俗称房地美（Freddie Mac），是美国两大政府赞助企业（GSE）之一，另一家是房利美（Fannie Mae）。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/房地美"
+  },
+  {
+    "title": "所罗门",
+    "slug": "所罗门",
+    "category": "companies",
+    "type": "company",
+    "summary": "所罗门兄弟公司（Salomon Brothers）是20世纪华尔街最具传奇色彩的投资银行之一，以固定收益交易闻名于世。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/所罗门"
+  },
+  {
+    "title": "斯科特费泽",
+    "slug": "斯科特费泽",
+    "category": "companies",
+    "type": "company",
+    "summary": "斯科特费泽公司（The Scott & Fetzer Company）是一家位于俄亥俄州克利夫兰的多元化制造企业，旗下拥有22项业务（从收购到后来始终保持不变——没有新增，也没有出售过任何一项）。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/斯科特费泽"
+  },
+  {
+    "title": "森林河公司",
+    "slug": "森林河公司",
+    "category": "companies",
+    "type": "company",
+    "summary": "森林河公司（Forest River）是美国领先的休闲房车（RV）、浮筒船和游艇制造商，总部位于印第安纳州。公司由皮特·利格尔（Pete Liegl）创立并经营，拥有82家工厂，年销售额超过20亿美元。产品线涵盖各类房车（从拖挂式到自行式）、浮筒船和商用车辆。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/森林河公司"
+  },
+  {
+    "title": "比亚迪",
+    "slug": "比亚迪",
+    "category": "companies",
+    "type": "company",
+    "summary": "比亚迪股份有限公司由王传福于1995年在深圳创立，最初是一家生产可充电电池的小企业。经过近三十年的发展，比亚迪已经成长为全球最大的新能源汽车制造商之一，同时也是全球领先的动力电池、光伏太阳能和储能系统供应商。公司的业务覆盖汽车（新能源和燃油车）、电池、电子代工、轨道交通等多个领域。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/比亚迪"
+  },
+  {
+    "title": "波仙珠宝",
+    "slug": "波仙珠宝",
+    "category": "companies",
+    "type": "company",
+    "summary": "波仙珠宝（Borsheim's）是位于内布拉斯加州奥马哈市的一家高端珠宝零售商，也是全美单店销售额最高的珠宝店之一，除纽约蒂芙尼旗舰店外几乎无人能及。这家店的非凡之处在于：它只有一家门店，却做出了全国性的生意。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/波仙珠宝"
+  },
+  {
+    "title": "特许通讯",
+    "slug": "特许通讯",
+    "category": "companies",
+    "type": "company",
+    "summary": "特许通讯公司成立于1993年，总部位于康涅狄格州斯坦福德，是美国第二大有线电视和宽带互联网运营商（仅次于康卡斯特）。公司以\"Spectrum\"品牌提供宽带互联网、有线电视、固定电话和移动通信服务，覆盖全美41个州超过3,200万客户。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/特许通讯"
+  },
+  {
+    "title": "盖可保险",
+    "slug": "盖可保险",
+    "category": "companies",
+    "type": "company",
+    "summary": "盖可保险（Government Employees Insurance Company，简称GEICO）是美国第二大私人汽车保险公司，总部位于马里兰州切维蔡斯。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/盖可保险"
+  },
+  {
+    "title": "科比吸尘器",
+    "slug": "科比吸尘器",
+    "category": "companies",
+    "type": "company",
+    "summary": "科比公司（The Kirby Company）成立于1914年，总部位于俄亥俄州克利夫兰，是美国历史最悠久的高端吸尘器制造商之一。科比吸尘器以其耐用性、强大的吸力和独特的直销模式著称——公司不通过零售商渠道销售，而是由独立经销商通过上门演示的方式直接向消费者推销产品。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/科比吸尘器"
+  },
+  {
+    "title": "穆迪",
+    "slug": "穆迪",
+    "category": "companies",
+    "type": "company",
+    "summary": "穆迪公司（Moody's Corporation）是全球三大信用评级机构之一，成立于1900年，总部位于纽约。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/穆迪"
+  },
+  {
+    "title": "精密铸件",
+    "slug": "精密铸件",
+    "category": "companies",
+    "type": "company",
+    "summary": "精密铸件公司（Precision Castparts Corp.，简称PCC）是全球领先的复杂金属零部件和产品制造商，总部位于俄勒冈州波特兰市。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/精密铸件"
+  },
+  {
+    "title": "约翰斯曼维尔",
+    "slug": "约翰斯曼维尔",
+    "category": "companies",
+    "type": "company",
+    "summary": "约翰斯曼维尔公司（Johns Manville）成立于1858年，总部位于科罗拉多州丹佛，是全球领先的建筑和特种产品制造商。公司的核心产品包括玻璃纤维隔热材料、屋顶系统、商用和工业用绝缘产品、以及玻璃纤维增强材料。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/约翰斯曼维尔"
+  },
+  {
+    "title": "纽约梅隆银行",
+    "slug": "纽约梅隆银行",
+    "category": "companies",
+    "type": "company",
+    "summary": "纽约梅隆银行（Bank of New York Mellon）",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/纽约梅隆银行"
+  },
+  {
+    "title": "美国合众银行",
+    "slug": "美国合众银行",
+    "category": "companies",
+    "type": "company",
+    "summary": "美国合众银行成立于1863年，总部位于明尼苏达州明尼阿波利斯市，是美国第五大商业银行。公司旗下拥有全美最大的银行子公司之一——美国银行（U.S. Bank），在全美26个州拥有数千家分支机构。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/美国合众银行"
+  },
+  {
+    "title": "美国家庭服务",
+    "slug": "美国家庭服务",
+    "category": "companies",
+    "type": "company",
+    "summary": "美国家庭服务（HomeServices of America）",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/美国家庭服务"
+  },
+  {
+    "title": "美国运通",
+    "slug": "美国运通",
+    "category": "companies",
+    "type": "company",
+    "summary": "美国运通创立于1850年，最初是一家快递公司，后来发展为全球领先的支付和旅行服务公司。公司的核心业务包括信用卡与签账卡发行、商户收单、旅行相关服务以及财务顾问业务。美国运通采用\"闭环\"商业模式——同时担任发卡方和收单方，这使其能够直接掌握交易双方的数据，形成了独特的竞争优势。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/美国运通"
+  },
+  {
+    "title": "美国银行",
+    "slug": "美国银行",
+    "category": "companies",
+    "type": "company",
+    "summary": "美国银行成立于1904年，总部位于北卡罗来纳州夏洛特市，是美国资产规模最大的银行之一，也是全球系统重要性金融机构。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/美国银行"
+  },
+  {
+    "title": "苹果",
+    "slug": "苹果",
+    "category": "companies",
+    "type": "company",
+    "summary": "苹果公司由史蒂夫·乔布斯、史蒂夫·沃兹尼亚克和罗纳德·韦恩于1976年在加州车库中创立，如今已成为全球市值最高的上市公司之一。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/苹果"
+  },
+  {
+    "title": "蓝筹印花",
+    "slug": "蓝筹印花",
+    "category": "companies",
+    "type": "company",
+    "summary": "蓝筹印花公司成立于1956年，总部位于加利福尼亚州洛杉矶，是一家交易印花（trading stamps）企业。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/蓝筹印花"
+  },
+  {
+    "title": "西方石油",
+    "slug": "西方石油",
+    "category": "companies",
+    "type": "company",
+    "summary": "西方石油公司成立于1920年，总部位于德克萨斯州休斯顿，是美国主要的石油和天然气勘探与生产公司之一。公司的核心资产集中在美国的二叠纪盆地（Permian Basin）——全美最富产的油田区域之一，此外还拥有中东和北非的重要石油资产。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/西方石油"
+  },
+  {
+    "title": "费希海默制服",
+    "slug": "费希海默制服",
+    "category": "companies",
+    "type": "company",
+    "summary": "费希海默兄弟公司（Fechheimer Bros.）成立于1842年，总部位于俄亥俄州辛辛那提，是美国历史最悠久的制服制造商之一。公司专门为执法机关、消防部门、邮政系统、军事单位及其他政府和公共服务机构生产和销售制服。其产品线涵盖警察制服、消防员制服、邮递员制服以及各类职业装。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/费希海默制服"
+  },
+  {
+    "title": "路博润",
+    "slug": "路博润",
+    "category": "companies",
+    "type": "company",
+    "summary": "路博润（Lubrizol Corporation）是一家总部位于俄亥俄州威克利夫的全球性特种化学品公司，主要生产润滑油添加剂、燃料添加剂及其他特种化学品。公司产品广泛应用于汽车、工业设备和个人护理等领域，是全球润滑油添加剂市场的领导者。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/路博润"
+  },
+  {
+    "title": "通用再保险",
+    "slug": "通用再保险",
+    "category": "companies",
+    "type": "company",
+    "summary": "通用再保险公司（General Reinsurance Corporation，简称General Re）是全球最大的再保险公司之一，总部位于康涅狄格州斯坦福德。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/通用再保险"
+  },
+  {
+    "title": "通用汽车",
+    "slug": "通用汽车",
+    "category": "companies",
+    "type": "company",
+    "summary": "通用汽车成立于1908年，总部位于密歇根州底特律，是美国最大的汽车制造商之一。公司旗下品牌包括雪佛兰（Chevrolet）、别克（Buick）、GMC和凯迪拉克（Cadillac）。在其巅峰时期，通用汽车曾是全球最大的公司，雇员超过80万人，其市场地位看似不可撼动。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/通用汽车"
+  },
+  {
+    "title": "通用电气",
+    "slug": "通用电气",
+    "category": "companies",
+    "type": "company",
+    "summary": "通用电气由托马斯·爱迪生于1892年创立，总部位于波士顿，曾是美国市值最高的公司，也是道琼斯工业平均指数的元老级成分股（自1907年至2018年）。公司的业务横跨航空发动机、发电设备、医疗器械、金融服务等多个领域，一度被视为美国工业实力和管理卓越的象征。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/通用电气"
+  },
+  {
+    "title": "雪佛龙",
+    "slug": "雪佛龙",
+    "category": "companies",
+    "type": "company",
+    "summary": "雪佛龙公司成立于1879年（前身为太平洋海岸石油公司），总部位于加利福尼亚州圣拉蒙，是全球第二大综合能源公司（仅次于埃克森美孚）。公司的前身可追溯到约翰·D·洛克菲勒的标准石油帝国解体后的一个分支——加利福尼亚标准石油公司（Standard Oil of California）。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/雪佛龙"
+  },
+  {
+    "title": "韦斯科",
+    "slug": "韦斯科",
+    "category": "companies",
+    "type": "company",
+    "summary": "韦斯科金融公司（Wesco Financial Corporation）成立于1959年，总部位于加利福尼亚州帕萨迪纳，最初是一家储蓄贷款协会（Savings & Loan）——互助储蓄银行的一种形式。公司的核心业务是吸收存款、发放住房按揭贷款，属于美国社区金融机构的典型代表。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/韦斯科"
+  },
+  {
+    "title": "飞安公司",
+    "slug": "飞安公司",
+    "category": "companies",
+    "type": "company",
+    "summary": "飞安公司（FlightSafety International）是全球最大的飞行员培训机构，1951年由阿尔·尤尔斯基（Al Ueltschi）以1万美元创立。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/飞安公司"
+  },
+  {
+    "title": "马蒙集团",
+    "slug": "马蒙集团",
+    "category": "companies",
+    "type": "company",
+    "summary": "马蒙集团（Marmon Group）是一家大型多元化工业控股集团，旗下拥有超过100个独立运营的业务单元（最多时达175个），涵盖铁路车辆租赁、工业设备、医疗设备制造、金属加工、电线电缆等众多领域，服务于差异巨大的市场。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/马蒙集团"
+  },
+  {
+    "title": "高盛",
+    "slug": "高盛",
+    "category": "companies",
+    "type": "company",
+    "summary": "高盛集团（Goldman Sachs Group, Inc.）是全球最具影响力的投资银行之一，1869年由马库斯·高盛（Marcus Goldman）创立于纽约，后由其女婿塞缪尔·萨克斯（Samuel Sachs）加入并发展壮大。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/高盛"
+  },
+  {
+    "title": "鲜果布衣",
+    "slug": "鲜果布衣",
+    "category": "companies",
+    "type": "company",
+    "summary": "鲜果布衣（Fruit of the Loom）是美国历史最悠久的消费品牌之一，创立于1851年，至今已有超过170年的历史。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/鲜果布衣"
+  },
+  {
+    "title": "麦克莱恩",
+    "slug": "麦克莱恩",
+    "category": "companies",
+    "type": "company",
+    "summary": "麦克莱恩公司（McLane Company）成立于1894年，总部位于德克萨斯州坦普尔市，是美国最大的食品杂货、糖果、烟草和非食品类商品批发分销商之一。公司为全美数万家便利店、药店、大型超市、快餐连锁店、电影院和批发仓储会员店提供商品配送服务，年销售额超过300亿美元。",
+    "tags": [
+      "company",
+      "投资公司"
+    ],
+    "path": "companies/麦克莱恩"
+  },
+  {
+    "title": "B夫人",
+    "slug": "B夫人",
+    "category": "people",
+    "type": "person",
+    "summary": "罗斯·布鲁姆金（Rose Blumkin，1893-1998），人人都叫她\"B夫人\"——这个名字在大奥马哈地区的知名度堪比可口可乐。",
+    "tags": [
+      "person",
+      "关键人物"
+    ],
+    "path": "people/B夫人"
+  },
+  {
+    "title": "托德·库姆斯",
+    "slug": "托德·库姆斯",
+    "category": "people",
+    "type": "person",
+    "summary": "托德·库姆斯，2010年加入伯克希尔·哈撒韦的投资经理人，与泰德·韦施勒一起被视为巴菲特投资衣钵的传承者。近年来，他的角色已远远超越投资管理本身，特别是主导了盖可保险（GEICO）的重大业务改革，展现出卓越的商业运营才能。",
+    "tags": [
+      "person",
+      "关键人物"
+    ],
+    "path": "people/托德·库姆斯"
+  },
+  {
+    "title": "格雷厄姆",
+    "slug": "格雷厄姆",
+    "category": "people",
+    "type": "person",
+    "summary": "本杰明·格雷厄姆（1894-1976），被尊称为\"价值投资之父\"，是现代证券分析学科的奠基人。他出生于伦敦，一岁时随家人移居纽约。父亲早逝后，家境困顿，但格雷厄姆凭借过人的智慧以优异成绩从哥伦比亚大学毕业，随后进入华尔街。",
+    "tags": [
+      "person",
+      "关键人物"
+    ],
+    "path": "people/格雷厄姆"
+  },
+  {
+    "title": "格雷格·阿贝尔",
+    "slug": "格雷格·阿贝尔",
+    "category": "people",
+    "type": "person",
+    "summary": "格雷格·阿贝尔，加拿大人，巴菲特钦定的伯克希尔·哈撒韦继任CEO。他从中美能源公司（MidAmerican Energy，后更名为伯克希尔·哈撒韦能源公司BHE）起步，逐步证明了自己是一位世界级的企业管理者，最终成为巴菲特选定的衣钵传人。",
+    "tags": [
+      "person",
+      "关键人物"
+    ],
+    "path": "people/格雷格·阿贝尔"
+  },
+  {
+    "title": "泰德·韦施勒",
+    "slug": "泰德·韦施勒",
+    "category": "people",
+    "type": "person",
+    "summary": "泰德·韦施勒，2012年正式加入伯克希尔·哈撒韦的投资经理人，与托德·库姆斯一起构成巴菲特投资接班团队的双子星。他的加入方式堪称投资界最传奇的故事之一：连续两次在巴菲特慈善午餐拍卖中胜出，以实际行动和投资业绩赢得了巴菲特的赏识。",
+    "tags": [
+      "person",
+      "关键人物"
+    ],
+    "path": "people/泰德·韦施勒"
+  },
+  {
+    "title": "芒格",
+    "slug": "芒格",
+    "category": "people",
+    "type": "person",
+    "summary": "查理·芒格（1924-2023），伯克希尔·哈撒韦副董事长，巴菲特超过六十年的搭档与挚友。2023年11月28日辞世，距百岁生辰仅差33天。",
+    "tags": [
+      "person",
+      "关键人物"
+    ],
+    "path": "people/芒格"
+  },
+  {
+    "title": "阿吉特·贾恩",
+    "slug": "阿吉特·贾恩",
+    "category": "people",
+    "type": "person",
+    "summary": "阿吉特·贾恩，在印度出生长大，1986年加入伯克希尔·哈撒韦，此后从零开始打造了全球最令人瞩目的再保险帝国之一。现任伯克希尔保险业务副董事长，负责管理公司全部保险运营。",
+    "tags": [
+      "person",
+      "关键人物"
+    ],
+    "path": "people/阿吉特·贾恩"
+  },
+  {
+    "title": "1985巴菲特电视采访",
+    "slug": "1985巴菲特电视采访",
+    "category": "interviews",
+    "type": "interview-summary",
+    "summary": "巴菲特开门见山地阐述了投资的两条规则：第一条是不要赔钱，第二条是不要忘记第一条。他强调，如果你以远低于内在价值的买入价格购入一组资产，基本上就不会亏钱。这体现了格雷厄姆价值投资的核心理念——安全边际。",
+    "tags": [
+      "访谈",
+      "演讲",
+      "interview-summary"
+    ],
+    "path": "interviews/1985巴菲特电视采访"
+  },
+  {
+    "title": "1990年巴菲特在斯坦福大学的演讲",
+    "slug": "1990年巴菲特在斯坦福大学的演讲",
+    "category": "interviews",
+    "type": "interview-summary",
+    "summary": "投资看起来简单，实际也确实如此，只是人们往往人为地把它复杂化了。成为优秀投资者不需要高深数学或技术知识，只需理解一些简单的事情——比如为什么人们喜欢喝可口可乐，以及他们是否会一直喜欢喝。",
+    "tags": [
+      "访谈",
+      "演讲",
+      "interview-summary"
+    ],
+    "path": "interviews/1990年巴菲特在斯坦福大学的演讲"
+  },
+  {
+    "title": "1991巴菲特对圣母大学对MBA学生的演讲",
+    "slug": "1991巴菲特对圣母大学对MBA学生的演讲",
+    "category": "interviews",
+    "type": "interview-summary",
+    "summary": "巴菲特用美国电话电报公司和《汤姆森报纸》对比说明商业模式的差异。两家公司都处于垄断地位，但电话公司在8-9年间投入了520亿美元新增资本，利润仅从22亿增至56亿——资本回报率极低。而汤姆森勋爵买下报纸后从不追加投资，每年提价获取现金，再用现金收购更多报纸，最终成为全球五大富翁之一。",
+    "tags": [
+      "访谈",
+      "演讲",
+      "interview-summary"
+    ],
+    "path": "interviews/1991巴菲特对圣母大学对MBA学生的演讲"
+  },
+  {
+    "title": "1998巴菲特在佛罗里达大学商学院的演讲",
+    "slug": "1998巴菲特在佛罗里达大学商学院的演讲",
+    "category": "interviews",
+    "type": "interview-summary",
+    "summary": "巴菲特开场就强调，在座的MBA学生都具备成功所需的智商和勤奋，但最终能否成功取决于品行。他引用彼得·基威特的话：招人看三点——品行、头脑和勤奋。一个聪明勤奋但品行不端的人，\"肯定是个祸害\"。",
+    "tags": [
+      "访谈",
+      "演讲",
+      "interview-summary"
+    ],
+    "path": "interviews/1998巴菲特在佛罗里达大学商学院的演讲"
+  },
+  {
+    "title": "1998年巴菲特与比尔盖茨在华盛顿大学的对话",
+    "slug": "1998年巴菲特与比尔盖茨在华盛顿大学的对话",
+    "category": "interviews",
+    "type": "interview-summary",
+    "summary": "巴菲特认为成功与智商无关，关键在于理智。他将智商比作汽车马力，而输出功率取决于理智程度。200马力的车百分之百发挥，胜过400马力只发挥100马力。许多聪明人做出妨碍自己的事情，原因在于习惯、性格和禀性。",
+    "tags": [
+      "访谈",
+      "演讲",
+      "interview-summary"
+    ],
+    "path": "interviews/1998年巴菲特与比尔盖茨在华盛顿大学的对话"
+  },
+  {
+    "title": "2005堪萨斯商学院学生于伯克希尔总部与沃伦·巴菲特的问答",
+    "slug": "2005堪萨斯商学院学生于伯克希尔总部与沃伦·巴菲特的问答",
+    "category": "interviews",
+    "type": "interview-summary",
+    "summary": "巴菲特表示自己不以赚钱多少来衡量成功，财产多几位数并不能带来更多幸福。投资对他而言是一个没有终点的旅程，总有新问题、新乐趣，而且新问题与旧问题相似，可以运用过去积累的知识。他打算一直做下去，除非老年痴呆——但他幽默地说，得了老年痴呆自己不知道，所以要求三个孩子必须一起告诉他。",
+    "tags": [
+      "访谈",
+      "演讲",
+      "interview-summary"
+    ],
+    "path": "interviews/2005堪萨斯商学院学生于伯克希尔总部与沃伦·巴菲特的问答"
+  },
+  {
+    "title": "2007年央视专访巴菲特",
+    "slug": "2007年央视专访巴菲特",
+    "category": "interviews",
+    "type": "interview-summary",
+    "summary": "巴菲特2003年以约1.6至1.7港元买入中国石油H股23.4亿股，投入约5亿美元，2007年全部清仓时赚了40亿美元。他专门给中石油写了感谢信，称其记录比世界上任何石油企业都好。",
+    "tags": [
+      "访谈",
+      "演讲",
+      "interview-summary"
+    ],
+    "path": "interviews/2007年央视专访巴菲特"
+  },
+  {
+    "title": "2008巴菲特答Emory与Austin大学商学院学生问巴菲特答",
+    "slug": "2008巴菲特答Emory与Austin大学商学院学生问巴菲特答",
+    "category": "interviews",
+    "type": "interview-summary",
+    "summary": "巴菲特对分散投资持两种观点：职业投资者如果对自己有信心，应该高度集中；普通人不懂投资，应该高度分散，购买低手续费的指数基金并长期定投。他和芒格主要投资5只股票，愿意把25%仓位分配给第一重仓股。历史上他曾用40%仓位投资美国运通，用75%仓位投资长期资本管理公司危机中的国债套利机会。",
+    "tags": [
+      "访谈",
+      "演讲",
+      "interview-summary"
+    ],
+    "path": "interviews/2008巴菲特答Emory与Austin大学商学院学生问巴菲特答"
+  },
+  {
+    "title": "2010央视财经采访巴菲特",
+    "slug": "2010央视财经采访巴菲特",
+    "category": "interviews",
+    "type": "interview-summary",
+    "summary": "巴菲特明确表示，拥有多少钱并不会改变他的生活。他享受工作本身，而非为赚钱而工作。他强调\"爱等于快乐\"，如果有许多人爱你，你就是快乐的人。健康只是运气因素。他选择捐赠的是那些自己并不需要的财产，而非必需品。",
+    "tags": [
+      "访谈",
+      "演讲",
+      "interview-summary"
+    ],
+    "path": "interviews/2010央视财经采访巴菲特"
+  },
+  {
+    "title": "2010年CNBC采访巴菲特全文",
+    "slug": "2010年CNBC采访巴菲特全文",
+    "category": "interviews",
+    "type": "interview-summary",
+    "summary": "巴菲特认为美国已度过经济上的\"珍珠港事件\"，正在赢得胜利。他旗下约80家企业的数据显示，电子元件等行业出现反弹，但消费行业仍在艰难挣扎。美国公众正在去杠杆化，消费观念已与几年前完全不同。",
+    "tags": [
+      "访谈",
+      "演讲",
+      "interview-summary"
+    ],
+    "path": "interviews/2010年CNBC采访巴菲特全文"
+  },
+  {
+    "title": "2011年巴菲特与南京大学EMBA学生畅言谈投资与人生全中文纪录",
+    "slug": "2011年巴菲特与南京大学EMBA学生畅言谈投资与人生全中文纪录",
+    "category": "interviews",
+    "type": "interview-summary",
+    "summary": "巴菲特展示了1983年收购内布拉斯加家具店的协议，仅4页纸，没有审计报告和律师参与。他强调投资犯错的风险在于错误计算公司未来的经济前景，而非法律细节。以德克斯特鞋业为例，错误判断美国制鞋业前景导致4亿美金损失归零，这比环保或租赁协议问题严重得多。",
+    "tags": [
+      "访谈",
+      "演讲",
+      "interview-summary"
+    ],
+    "path": "interviews/2011年巴菲特与南京大学EMBA学生畅言谈投资与人生全中文纪录"
+  },
+  {
+    "title": "2013巴菲特与马里兰大学MBA学生的交流发言",
+    "slug": "2013巴菲特与马里兰大学MBA学生的交流发言",
+    "category": "interviews",
+    "type": "interview-summary",
+    "summary": "巴菲特坦言自己的投资策略建立在格雷厄姆基础上，早期运用\"烟蒂投资法\"寻找极度便宜的股票。1951年他发现西部保险公司股价16美元，而每股净利润29美元，不到1倍市盈率。2004年他花一下午翻阅韩国股票手册，找到约20家2倍市盈率的公司分散买入。",
+    "tags": [
+      "访谈",
+      "演讲",
+      "interview-summary"
+    ],
+    "path": "interviews/2013巴菲特与马里兰大学MBA学生的交流发言"
+  },
+  {
+    "title": "2015沃伦·巴菲特答Ivey商学院MBA学生问沃伦·巴菲特答",
+    "slug": "2015沃伦·巴菲特答Ivey商学院MBA学生问沃伦·巴菲特答",
+    "category": "interviews",
+    "type": "interview-summary",
+    "summary": "选人的第一条标准是人品——必须是愿意交往、能当朋友家人的人。这样的人身上有值得钦佩的优点，甚至比自己更优秀。交待一件事能做十件，总是超出预期。伯克希尔哈撒韦选人一定要选一流的人。",
+    "tags": [
+      "访谈",
+      "演讲",
+      "interview-summary"
+    ],
+    "path": "interviews/2015沃伦·巴菲特答Ivey商学院MBA学生问沃伦·巴菲特答"
+  },
+  {
+    "title": "2016年巴菲特与8所大学MBA学生见面会的20个问答",
+    "slug": "2016年巴菲特与8所大学MBA学生见面会的20个问答",
+    "category": "interviews",
+    "type": "interview-summary",
+    "summary": "巴菲特认为招聘时最看重的品质是聪明、精力充沛和正直，但最重要的是对所从事业务充满激情。使伯克希尔哈撒韦70位经理脱颖而出的不是智商，而是对事业的热爱。他建议选择那些你愿意获得其未来收入10%的人作为榜样——有幽默感、值得追随的领导者。",
+    "tags": [
+      "访谈",
+      "演讲",
+      "interview-summary"
+    ],
+    "path": "interviews/2016年巴菲特与8所大学MBA学生见面会的20个问答"
+  },
+  {
+    "title": "2017年CNBC采访巴菲特",
+    "slug": "2017年CNBC采访巴菲特",
+    "category": "interviews",
+    "type": "interview-summary",
+    "summary": "巴菲特表示，对美国前景的乐观判断是他一生投资的最大主题。美国在240年里从一无所有成长为世界强国，虽然经历过2008年金融危机和战争等波折，但总能重新站起来。他认为市场体系是促成美国成功的压倒性因素，移民制度也让雄心勃勃的人选择了美国。",
+    "tags": [
+      "访谈",
+      "演讲",
+      "interview-summary"
+    ],
+    "path": "interviews/2017年CNBC采访巴菲特"
+  },
+  {
+    "title": "2017年哥伦比亚大学——人生最美好的事是什么？巴菲特：没考上哈佛大学",
+    "slug": "2017年哥伦比亚大学——人生最美好的事是什么？巴菲特：没考上哈佛大学",
+    "category": "interviews",
+    "type": "interview-summary",
+    "summary": "巴菲特最惊讶的是两人一开始就心灵相通。盖茨曾尝试卖给他一台电脑，这可能是盖茨唯一没做成的生意。",
+    "tags": [
+      "访谈",
+      "演讲",
+      "interview-summary"
+    ],
+    "path": "interviews/2017年哥伦比亚大学——人生最美好的事是什么？巴菲特：没考上哈佛大学"
+  },
+  {
+    "title": "2017年巴菲特对话北京大学学生：最好的投资是投资自己",
+    "slug": "2017年巴菲特对话北京大学学生：最好的投资是投资自己",
+    "category": "interviews",
+    "type": "interview-summary",
+    "summary": "巴菲特表示中国市场巨大，充满可能性。他和芒格经常讨论和研究中国，注重公司价值而非股票价格，希望购买整个企业进行运营。中美将成为两大经济强国，如果能找到合适的行业、时间和管理团队，会毫不犹豫投资。",
+    "tags": [
+      "访谈",
+      "演讲",
+      "interview-summary"
+    ],
+    "path": "interviews/2017年巴菲特对话北京大学学生：最好的投资是投资自己"
+  },
+  {
+    "title": "2018年巴菲特再度邀请北大光华学子共进午餐问答全记录",
+    "slug": "2018年巴菲特再度邀请北大光华学子共进午餐问答全记录",
+    "category": "interviews",
+    "type": "interview-summary",
+    "summary": "巴菲特回顾了报业从1880年代的繁荣到如今衰落的历程。报纸曾是具有地方性自然垄断力量的行业，但科技与互联网的出现彻底改变了这一格局。电视台和互联网取代报纸成为主要信息来源，报业逐渐失去了用户群和垄断力量。",
+    "tags": [
+      "访谈",
+      "演讲",
+      "interview-summary"
+    ],
+    "path": "interviews/2018年巴菲特再度邀请北大光华学子共进午餐问答全记录"
+  },
+  {
+    "title": "2019年5月雅虎财经专访巴菲特",
+    "slug": "2019年5月雅虎财经专访巴菲特",
+    "category": "interviews",
+    "type": "interview-summary",
+    "summary": "巴菲特表示，他和芒格过去54年的所有决定，没有一个是根据经济预测做出的。他们会对特定企业的未来业绩做出商业评估，据此评估需要支付的买入价格，但从不会因为看好或看淡经济形势而改变交易决策。",
+    "tags": [
+      "访谈",
+      "演讲",
+      "interview-summary"
+    ],
+    "path": "interviews/2019年5月雅虎财经专访巴菲特"
+  },
+  {
+    "title": "2020年沃伦·巴菲特接受CNBC专访",
+    "slug": "2020年沃伦·巴菲特接受CNBC专访",
+    "category": "interviews",
+    "type": "interview-summary",
+    "summary": "巴菲特在道指期货下跌近800点时表示毫不担心。他认为下跌对长期净买入者是好事——就像买食品一样，谁不希望明天价格更低？大多数投资者都在攒钱、净买入股票，应该盼着股市下跌。但人们的情绪不答应，股票不涨就乐不起来。",
+    "tags": [
+      "访谈",
+      "演讲",
+      "interview-summary"
+    ],
+    "path": "interviews/2020年沃伦·巴菲特接受CNBC专访"
+  },
+  {
+    "title": "2022巴菲特和查理罗斯对谈",
+    "slug": "2022巴菲特和查理罗斯对谈",
+    "category": "interviews",
+    "type": "interview-summary",
+    "summary": "91岁的巴菲特身体状况极佳，搭档芒格已98岁仍老当益壮。继任者格雷格·阿贝尔已确定但尚未完全接手。巴菲特每天7点前起床关注新闻和市场动态，8点给团队下达当日交易指令，内容包括买卖比例、限价等，执行后无需复核。团队成员共事数十年，彼此了解信任。",
+    "tags": [
+      "访谈",
+      "演讲",
+      "interview-summary"
+    ],
+    "path": "interviews/2022巴菲特和查理罗斯对谈"
+  },
+  {
+    "title": "2023年伯克希尔股东大会",
+    "slug": "2023年伯克希尔股东大会",
+    "category": "interviews",
+    "type": "interview-summary",
+    "summary": "巴菲特开场介绍了伯克希尔哈撒韦一季度经营利润约80亿美元。他强调关注经营利润而非资本利得，因为股价短期波动难以预测，但长期投资一定会有回报。",
+    "tags": [
+      "访谈",
+      "演讲",
+      "interview-summary"
+    ],
+    "path": "interviews/2023年伯克希尔股东大会"
+  },
+  {
+    "title": "2024年伯克希尔股东大会",
+    "slug": "2024年伯克希尔股东大会",
+    "category": "interviews",
+    "type": "interview-summary",
+    "summary": "2024年第一季度伯克希尔哈撒韦经营利润达112亿美元，远高于去年同期。保险业表现出色，但阿吉特·贾恩提醒不能简单乘以四估算全年——飓风季节通常在三季度带来最大风险。保险浮存金的投资收益因利率上升而大幅增长。BNSF铁路利润略有下降，与行业运量下滑相关，但利润水平仍有改善空间。",
+    "tags": [
+      "访谈",
+      "演讲",
+      "interview-summary"
+    ],
+    "path": "interviews/2024年伯克希尔股东大会"
+  },
+  {
+    "title": "2025年伯克希尔股东大会",
+    "slug": "2025年伯克希尔股东大会",
+    "category": "interviews",
+    "type": "interview-summary",
+    "summary": "本届股东大会创下多项纪录：19,700名股东参与购物活动，喜诗糖果创造317,000美元销售额，布鲁克斯跑鞋销售310,000美元。巴菲特特别感谢了为大会付出努力的伯克希尔哈撒韦总部员工，以及编写六十周年纪念书籍的凯丽·索娃。",
+    "tags": [
+      "访谈",
+      "演讲",
+      "interview-summary"
+    ],
+    "path": "interviews/2025年伯克希尔股东大会"
+  },
+  {
+    "title": "extra_1998_buffett_florida",
+    "slug": "extra_1998_buffett_florida",
+    "category": "interviews",
+    "type": "interview-summary",
+    "summary": "巴菲特向MBA学生提出一个思想实验：如果你能买入一位同学未来收入的10%，你会选谁？你不会选IQ最高或成绩最好的人，而是会选择那个慷慨、诚实、能领导他人、愿意把功劳归于别人的人。",
+    "tags": [
+      "访谈",
+      "演讲",
+      "interview-summary"
+    ],
+    "path": "interviews/extra_1998_buffett_florida"
+  },
+  {
+    "title": "extra_2013_University_of_Maryland",
+    "slug": "extra_2013_University_of_Maryland",
+    "category": "interviews",
+    "type": "interview-summary",
+    "summary": "伯克希尔哈撒韦没有设定固定的投资门槛收益率。巴菲特坦言，资本规模增大使得获取超额回报变得更加困难。如果管理100万美元，回报率会比管理2100亿美元（伯克希尔净资产）更高。规模是业绩的敌人，但他仍然宁愿管理2100亿美元。",
+    "tags": [
+      "访谈",
+      "演讲",
+      "interview-summary"
+    ],
+    "path": "interviews/extra_2013_University_of_Maryland"
+  },
+  {
+    "title": "1956 有限合伙协议",
+    "slug": "1956 有限合伙协议",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "伯克希尔哈撒韦的前身——巴菲特联合有限合伙公司于1956年5月1日在内布拉斯加州奥马哈市成立。经营范围明确为买卖股票、债券及其他证券、商品及其他投资。合伙期限设定为20年，至1976年4月30日届满。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1956 有限合伙协议"
+  },
+  {
+    "title": "1957 巴菲特致合伙人信",
+    "slug": "1957 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "道指从499点跌至435点，加上股息后全年亏损8.47%。巴菲特强调这只是\"温和\"下跌，媒体和新股民容易夸大跌幅。企业盈利能力的下滑幅度实际上比股价跌幅更大，说明市场对蓝筹股和宏观经济仍然乐观。从长期投资价值看，市场整体依然低估的反面——偏贵。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1957 巴菲特致合伙人信"
+  },
+  {
+    "title": "1958 巴菲特致合伙人信",
+    "slug": "1958 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1958年美国股市经历了一场心理大转变，\"亢奋\"成为最贴切的形容词。无论业余还是专业投资者，都被这股情绪裹挟。巴菲特观察到，越来越多\"阴晴不定\"的投机者涌入市场，他们能待多久完全取决于能否继续轻松赚快钱。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1958 巴菲特致合伙人信"
+  },
+  {
+    "title": "1959 巴菲特致合伙人信",
+    "slug": "1959 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "道指从583点涨至679点，表面强势，但市场内部呈现分化：纽约证券交易所下跌股票710只，上涨股票仅628只；道琼斯铁路指数和公用事业指数均录得下跌。大型基金普遍跑输道指——Tri-Continental全年收益率约5.7%，Massachusetts Investors Trust约9%。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1959 巴菲特致合伙人信"
+  },
+  {
+    "title": "1960 巴菲特致合伙人信",
+    "slug": "1960 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "道指从679点跌至616点，跌幅9.3%，加上股息后整体亏损6.3%。约90%的投资公司跑赢了工业指数。合伙公司在这一年取得22.8%的收益，验证了在下跌市场中跑赢指数的能力。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1960 巴菲特致合伙人信"
+  },
+  {
+    "title": "1961 巴菲特致合伙人信",
+    "slug": "1961 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1961年合伙基金表现优异，扣除费用后收益率45.9%，道指同期22.2%。五年累计，合伙基金复合收益251.0%，道指仅74.3%。有限合伙人按当前分成方案折算，五年复合收益181.6%。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1961 巴菲特致合伙人信"
+  },
+  {
+    "title": "1961年中 巴菲特致合伙人信",
+    "slug": "1961年中 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1961年上半年道指含股息涨幅约13%，这本是最难跑赢的行情，但所有全程运营的合伙账户均略微领先。巴菲特强调：一年太短，六个月更短，短期业绩最容易误导人。他更看重五年维度的表现，最好能经历牛市和熊市的双重考验。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1961年中 巴菲特致合伙人信"
+  },
+  {
+    "title": "1962 巴菲特致合伙人信",
+    "slug": "1962 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "合伙基金不做任何收益率保证。每月0.5%的提现实际上是在提取本金，只有长期年收益率超过6%，提现才能由盈利覆盖。衡量业绩好坏的标准不是绝对盈亏，而是与道指和主要投资公司的相对表现。评价业绩至少要看三年，五年更理想。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1962 巴菲特致合伙人信"
+  },
+  {
+    "title": "1962年11月 巴菲特致合伙人信",
+    "slug": "1962年11月 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "信件开篇处理例行文书工作：修订合伙协议、增资提现承诺书等。协议实质内容未变，仅纳入新合伙人并改写部分条款使其更清晰。提现款1月1日后立即拨付，增资款须在1月10日前到账，提前汇入按6%年息计算。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1962年11月 巴菲特致合伙人信"
+  },
+  {
+    "title": "1962年12月 巴菲特致合伙人信",
+    "slug": "1962年12月 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "巴菲特在年末向合伙人详细说明了税务处理要点。本年度从合伙基金收到的任何款项，在申报联邦所得税时一律不计入应税收入。完整的税务申报明细将于1月20日前寄出，合伙人在收到资料前不应提交税表。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1962年12月 巴菲特致合伙人信"
+  },
+  {
+    "title": "1962年中 巴菲特致合伙人信",
+    "slug": "1962年中 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "巴菲特开篇重新引用了年初信中\"一个预测\"的完整内容。他强调自己不预测宏观经济或股市短期走向，但确信未来十年道指会有大涨大跌的年份。他认为道指含股息的长期年复利收益率大约在5%到7%之间，期望更高恐怕要失望。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1962年中 巴菲特致合伙人信"
+  },
+  {
+    "title": "1963 巴菲特致合伙人信",
+    "slug": "1963 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1963年合伙基金取得38.7%的收益率，跑赢道琼斯指数17.7个百分点。但巴菲特强调，丰收的定义不在于绝对收益，而在于相对基准的领先。七年累计，有限合伙人收益率达311.2%，年化22.3%，而道指同期仅95.1%，年化10.0%。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1963 巴菲特致合伙人信"
+  },
+  {
+    "title": "1963年11月 巴菲特致合伙人信",
+    "slug": "1963年11月 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "巴菲特随信附上1964年合伙协议、承诺书及\"基本原则\"文件。他特别强调，每位合伙人应每年至少阅读一遍\"基本原则\"，并要求做到\"不只是脑袋里明白，还要融入骨髓\"。若无法真心认同这些理念，就不应签署协议。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1963年11月 巴菲特致合伙人信"
+  },
+  {
+    "title": "1963年12月 巴菲特致合伙人信",
+    "slug": "1963年12月 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "巴菲特在年末向合伙人发出重要税务提醒。他强调，本年度收到的任何分配款在申报联邦所得税时应予忽略，完整的纳税数据将于1月25日前由他本人或审计师直接寄出，届时会附上详细的填报指引。合伙人在收到这些资料前不应提交税表。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1963年12月 巴菲特致合伙人信"
+  },
+  {
+    "title": "1963年中 巴菲特致合伙人信",
+    "slug": "1963年中 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1963年上半年，道指整体收益率为10%，合伙基金（不含登普斯特估值变化）上涨14%。巴菲特再次强调两点：三年以下的短期业绩意义不大；市场下跌时我们通常能跑赢，但市场泡沫高涨时跟上基准已属不易。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1963年中 巴菲特致合伙人信"
+  },
+  {
+    "title": "1964 巴菲特致合伙人信",
+    "slug": "1964 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "合伙基金整体收益率27.8%，道指18.7%，有限合伙人22.3%。领先道指9.1个百分点，是1959年以来最小的领先优势。巴菲特坦言并不沮丧——市场强劲上涨时，合伙基金本就难以大幅跑赢。他甚至庆幸1964年不是被道指远远甩在身后的那一年。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1964 巴菲特致合伙人信"
+  },
+  {
+    "title": "1964年中 巴菲特致合伙人信",
+    "slug": "1964年中 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1964年上半年道指整体收益率约10.9%，合伙基金收益率12.0%，有限合伙人收益率10.5%。巴菲特坦率地表示，他更希望看到的是道指持平而合伙基金上涨5%，或者道指下跌10%而合伙基金持平。这印证了他一贯的观点：市场持平或下跌时，相对容易领先道指；市场上涨时则困难得多。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1964年中 巴菲特致合伙人信"
+  },
+  {
+    "title": "1965 巴菲特致合伙人信",
+    "slug": "1965 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1965年合伙基金实现47.2%的收益率，扣除普通合伙人分成后有限合伙人获得36.9%回报，而道指整体收益率仅14.2%。这是基金成立以来取得的最大相对优势，年末资产较年初增加1230万美元。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1965 巴菲特致合伙人信"
+  },
+  {
+    "title": "1965 巴菲特致股东信",
+    "slug": "1965 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "本财年公司净利润达227.9万美元，而上年仅12.5万美元。关闭福尔里弗市菲利普国王工厂A、E分厂产生的资产处置损失，已全额冲抵此前专项提存的准备金，未计入当期损益。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1965 巴菲特致股东信"
+  },
+  {
+    "title": "1965年11月 巴菲特致合伙人信",
+    "slug": "1965年11月 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "信中详细说明了1966年的承诺书流程：承诺书可在12月31日前修改，之后不可更改。提现将于1月5日支付，追加投资应在1月10日前存入。11月存入的追加资金可获6%利息，12月存入则无利息。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1965年11月 巴菲特致合伙人信"
+  },
+  {
+    "title": "1965年中 巴菲特致合伙人信",
+    "slug": "1965年中 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1965年上半年道指整体收益率仅0.8%，合伙基金未扣除分成的收益率达10.4%。但实际表现与预期完全相反：按照既定策略，合伙基金应该在市场下跌时领先、在泡沫中落后。然而这半年，市场大涨时合伙基金遥遥领先，后来市场下跌时却跟随道指下跌。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1965年中 巴菲特致合伙人信"
+  },
+  {
+    "title": "1966 巴菲特致合伙人信",
+    "slug": "1966 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "合伙基金1956年5月成立，最初由七位合伙人投入105,100美元。十年间，复利效应惊人：道指累计收益141.1%，合伙基金累计收益1028.7%，有限合伙人收益641.5%。年化复利收益率分别为9.7%、29.0%和23.5%。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1966 巴菲特致合伙人信"
+  },
+  {
+    "title": "1966 巴菲特致股东信",
+    "slug": "1966 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "本年度营业总额4,940万美元，与去年持平但产品结构变化较大。合成部门销售下滑，被家居纺织品部门增长所弥补。下半年市场整体低迷，面临染纱进口冲击、流行趋势转变、产能过剩等多重压力。公司主动关停产线避免库存积压，截至信件撰写时纺织市场仍未回暖。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1966 巴菲特致股东信"
+  },
+  {
+    "title": "1966年11月 巴菲特致合伙人信",
+    "slug": "1966年11月 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "今年业绩高于平均水平，但下半年明显比上半年艰难。六月份之前，低估类投资大幅领先道指，此后略微落后。套利类投资规模虽小但收益不错，基本弥补了下半年的差距。按道指810点计算，道指下跌14%，而合伙基金上涨4%（不计利息）。市场波动剧烈，若道指继续大跌，基金也必然受影响。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1966年11月 巴菲特致合伙人信"
+  },
+  {
+    "title": "1966年中 巴菲特致合伙人信",
+    "slug": "1966年中 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1966年上半年，道指从969点跌至870点，整体收益率约亏损8.7%。合伙基金收益率约8.2%，有限合伙人收益率7.7%，远超长期目标（每年跑赢道指10个百分点）。巴菲特强调这是特殊例外，提醒合伙人未来必然会经历业绩差于预期的时期。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1966年中 巴菲特致合伙人信"
+  },
+  {
+    "title": "1967 巴菲特致合伙人信",
+    "slug": "1967 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1967年合伙基金整体收益19,384,250美元，收益率35.9%，超越道指16.9个百分点。但巴菲特指出，这一年市场中95%以上的股票型基金都跑赢了道指，许多机构收益率超过100%。他引用格雷厄姆的话警示：\"投机不缺德、不犯法，也发不了家。\"大量资金涌入追求快钱，投机风气盛行，隐藏着风险。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1967 巴菲特致合伙人信"
+  },
+  {
+    "title": "1967 巴菲特致股东信",
+    "slug": "1967 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1967财年销售额从4,940万美元降至3,900万美元，原因是需求萎缩和价格下跌。家用纺织品部门表现出最强抗压能力。为避免库存积压，公司削减了约15%的产能，但这导致熟练技工流失，未来恢复满负荷运转时将面临较高培训成本。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1967 巴菲特致股东信"
+  },
+  {
+    "title": "1967年10月 巴菲特致合伙人信",
+    "slug": "1967年10月 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "巴菲特将投资分析分为定性派和定量派两个极端。定性派主张\"挑好公司买，不用管价格\"；定量派则\"挑好价格买，不用管公司\"。他自认是定量派，但真正赚大钱的机会都来自定性判断——那些\"看准了的大概率机会\"。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1967年10月 巴菲特致合伙人信"
+  },
+  {
+    "title": "1967年11月 巴菲特致合伙人信",
+    "slug": "1967年11月 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "巴菲特随信附上1968年承诺书、税收数据信函及相关副本。承诺书需在12月31日前确认，届时将转交毕马威会计师事务所，不可更改。今年实现了2400万美元的投资收益，合伙人应仔细了解纳税情况。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1967年11月 巴菲特致合伙人信"
+  },
+  {
+    "title": "1967年中 巴菲特致合伙人信",
+    "slug": "1967年中 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1967年开局艰难，一月份道指上涨8.5%，合伙基金仅上涨3.3%。但上半年结束时，合伙基金取得21%的收益率，有限合伙人收益率17.3%，领先道指9.6个百分点。巴菲特坦言今年上半年和去年一样，打败道指比较容易，很多基金经理都跑赢了道指。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1967年中 巴菲特致合伙人信"
+  },
+  {
+    "title": "1968 巴菲特致合伙人信",
+    "slug": "1968 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "年初对前景感到前所未有的悲观，但最终实现了4003万美元的总收益。道指收益率7.7%，合伙基金收益率58.8%，有限合伙人收益率45.6%。这个业绩应被视为极端异常——就像桥牌中连抓13张黑桃，叫到大满贯后应不动声色继续打下一局。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1968 巴菲特致合伙人信"
+  },
+  {
+    "title": "1968 巴菲特致股东信",
+    "slug": "1968 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "家居纺织品和男装衬里业务表现良好，营业额增长约14%。1969年将引进新型织机以丰富产品线，并保留扩产期权。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1968 巴菲特致股东信"
+  },
+  {
+    "title": "1968年11月 巴菲特致合伙人信",
+    "slug": "1968年11月 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "巴菲特提醒合伙人尽早返还1969年承诺书，12月31日后不可更改。税收情况与8月信中一致，但年底前可能有重大交易影响纳税，届时会在12月24日信中更新。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1968年11月 巴菲特致合伙人信"
+  },
+  {
+    "title": "1968年中 巴菲特致合伙人信",
+    "slug": "1968年中 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1968年上半年，道指仅上涨0.9%，而合伙基金取得了16%的总收益，有限合伙人收益率为13.5%。巴菲特坦言这个业绩\"好得出乎意料\"，但提醒合伙人：由于采用重仓集中投资而非分散投资的方法，相对业绩更容易出现较大波动。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1968年中 巴菲特致合伙人信"
+  },
+  {
+    "title": "1969 巴菲特致股东信",
+    "slug": "1969 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "四年前，伯克希尔哈撒韦管理层决定摆脱对纺织业的依赖，寻求更强大、更稳定的盈利能力。策略是先将资金投入有价证券，同时耐心寻找符合标准的实体企业进行收购。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1969 巴菲特致股东信"
+  },
+  {
+    "title": "1969年10月 巴菲特致合伙人信",
+    "slug": "1969年10月 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "巴菲特详细列出了合伙基金清算的时间表：11月末正式通知退休，12月初寄送伯克希尔哈撒韦和多元零售公司的资料，1月5日左右分配现金（至少为1969年1月1日资本的56%）和控股公司股份。他预计1970年6月30日后剩余资产价值将不到当前的10%。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1969年10月 巴菲特致合伙人信"
+  },
+  {
+    "title": "1969年12月 巴菲特致合伙人信",
+    "slug": "1969年12月 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "多元零售公司流通股100万股，巴菲特合伙基金持有80万股。公司已将霍赫希尔德·科恩公司出售，获得约1100万美元现金（含票据现值）。目前保留的联合零售商店净资产约750万美元，财务稳健、利润率高，去年销售额3750万美元，净利润约100万美元，今年预计净利润可达110万美元。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1969年12月 巴菲特致合伙人信"
+  },
+  {
+    "title": "1969年12月26日 巴菲特致合伙人信",
+    "slug": "1969年12月26日 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1970年1月5日将向合伙人分配约64%的资本（以1969年1月1日为基准）。从清算时机来看，债券和股票市场表现对基金十分有利。无论合伙人打算投资债券还是股票，现在收到现金都比去年有更好的机会。追求稳定收入的投资者，按当前收益率计算，税后收益率比去年高40%。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1969年12月26日 巴菲特致合伙人信"
+  },
+  {
+    "title": "1969年5月 巴菲特致合伙人信",
+    "slug": "1969年5月 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "巴菲特指出当前投资环境面临三重困境：通过定量分析能找到的低估机会在过去二十年稳步减少，现在几乎绝迹；合伙基金1亿美元的规模限制了投资选择，300万美元以下的投资对整体业绩无意义；市场上追逐业绩的人越来越多，市场先生的眼光越来越短，投机氛围日益浓厚。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1969年5月 巴菲特致合伙人信"
+  },
+  {
+    "title": "1970 巴菲特致股东信",
+    "slug": "1970 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1970年伯克希尔哈撒韦各业务单位盈利差异显著。伊利诺伊州国民银行创历史最高收益，以经营收益占平均资产比例衡量位居全美前列；保险业承保成绩退步，但投资收益增加使整体回报可观；纺织业务全年走下坡路，最终勉强维持损益平衡。综合各因素，股东平均资本内在价值约10%，虽仅与美国工业企业平均水平持平，但远优于五年前全部资源押注纺织业时的回报。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1970 巴菲特致股东信"
+  },
+  {
+    "title": "1970年2月 巴菲特致合伙人信",
+    "slug": "1970年2月 巴菲特致合伙人信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "债券采用无记名形式，如同货币可转让，面额一般为5,000美元。债券上附有息票，每六个月剪一次存入银行。可选择银行委托保管服务，250,000美元组合年费约200美元。自行保管则必须存放在保险箱中。",
+    "tags": [
+      "合伙人信",
+      "letter-summary"
+    ],
+    "path": "letters/1970年2月 巴菲特致合伙人信"
+  },
+  {
+    "title": "1971 巴菲特致股东信",
+    "slug": "1971 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1971年经营收益（扣除资本利得）超过年初股东权益的14%，这一成绩在纺织业务盈利不佳的情况下取得，充分验证了五年前启动的资本重新配置战略的成效。管理层坦言，维持目前较高的内在价值回报率，比从1960年代的低回报率中爬升更具挑战。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1971 巴菲特致股东信"
+  },
+  {
+    "title": "1972 巴菲特致股东信",
+    "slug": "1972 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1972年伯克希尔哈撒韦经营收益达11,116,256美元，远超将资本全部投入纺织业务所能产生的回报。现任管理层1965年接手时，股东权益为22,138,753美元。八年间公司未引入任何新增股权资本，反而通过回购使流通股减少14%。每股账面价值从19.46美元增至69.72美元，体现了复利的力量。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1972 巴菲特致股东信"
+  },
+  {
+    "title": "1973 巴菲特致股东信",
+    "slug": "1973 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "公司1973年每股收益从11.43美元升至12.18美元，但回报率下滑源于盈利增幅跟不上股东资本增速——这一情况在上年年报中已有预告。管理层明确目标：在坚持稳健会计与债务政策的同时，长期资本回报率略高于美国行业整体水准。展望1974年，随着资本规模扩大，回报率可能进一步下降。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1973 巴菲特致股东信"
+  },
+  {
+    "title": "1974 巴菲特致股东信",
+    "slug": "1974 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1974年经营收益为每股8.56美元，期初内在价值回报率仅10.3%，为1970年以来最低。保险业承保业务的恶化程度超出预期，随着年份推进愈演愈烈。1975年前景同样不乐观：纺织业务将大幅倒退，银行盈利可能温和下滑，保险承保业务可能极为糟糕。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1974 巴菲特致股东信"
+  },
+  {
+    "title": "1975 巴菲特致股东信",
+    "slug": "1975 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1975年经营收益为671万美元，每股6.85美元，期初股东权益回报率仅7.6%。收益中相当部分来自联邦所得税退款，这笔退款1976年将无法再助推业绩。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1975 巴菲特致股东信"
+  },
+  {
+    "title": "1976 巴菲特致股东信",
+    "slug": "1976 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1976年经营收益达每股16.47美元，创历史新高。但巴菲特强调股本回报率才是衡量经济表现更有意义的尺度——17.3%虽高于美国工业平均水平，却仍低于1972年的19.8%历史纪录。预计1977年美元收益可能增长，但回报率将略有下滑。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1976 巴菲特致股东信"
+  },
+  {
+    "title": "1977 巴菲特致股东信",
+    "slug": "1977 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1977年经营收益为2,190万美元，折合每股约22.54美元。以期初股东权益计算的经营回报率约为19%，高于长期平均水平及美国企业整体平均水平。巴菲特强调，大多数公司把每股收益创新高称为\"创纪录\"业绩是没有意义的——股本增加10%而每股收益只增长5%，就像定期存款靠复利产生越来越多利息一样平淡无奇。内在价值的真正衡量标准应该是股本回报率。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1977 巴菲特致股东信"
+  },
+  {
+    "title": "1978 巴菲特致股东信",
+    "slug": "1978 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "年末与多元零售公司的合并带来两个复杂问题：一是对蓝筹印花持股比例提高到约58%后需完全合并账目，将纺织、保险、糖果、报纸、印花等截然不同业务的数字搅在一起；二是会计准则要求重述历史数据，好像两家公司成立时就已合并。这种报表格式内部从不编制，对经营管理毫无用处。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1978 巴菲特致股东信"
+  },
+  {
+    "title": "1979 巴菲特致股东信",
+    "slug": "1979 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "新会计准则要求保险公司股票投资按市值列示，这使得伯克希尔哈撒韦净资产大幅增加。但巴菲特认为，衡量单一年度经营绩效最恰当的指标是经营收益除以期初股东权益（证券按成本计价）。按市值计算会因证券市值波动而扭曲绩效——股价下跌反而让平庸收益显得出色，投资越成功反而绩效越黯淡。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1979 巴菲特致股东信"
+  },
+  {
+    "title": "1980 巴菲特致股东信",
+    "slug": "1980 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "伯克希尔哈撒韦将大量资源集中于保险业，资产大量配置在持股低于20%的公司。按会计准则，这类公司只有分红才计入收益，留存收益被完全忽略。然而这些公司保留的属于\"我们\"的收益，实际上超过了全年报告经营收益总额——收益\"冰山\"只有不到一半浮出水面。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1980 巴菲特致股东信"
+  },
+  {
+    "title": "1981 巴菲特致股东信",
+    "slug": "1981 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "伯克希尔哈撒韦在许多公司拥有重要但非控制性的投资，这些公司的未分配收益不会出现在报表上。然而这些收益终将转化为股东的有形价值，其确定性丝毫不亚于控制权子公司的留存收益。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1981 巴菲特致股东信"
+  },
+  {
+    "title": "1982 巴菲特致股东信",
+    "slug": "1982 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "按会计准则，持股20%以上的被投资企业收益可按比例计入，但低于20%时只计入现金股利。以GEICO为例，1982年我们收到350万美元股利计入报告，但应享有的2,300万美元未分配收益被完全忽略。这意味着如果GEICO赚得更少但多发股利，我们的报告收益反而会增加——这显然扭曲了经济现实。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1982 巴菲特致股东信"
+  },
+  {
+    "title": "1983 巴菲特致股东信",
+    "slug": "1983 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "伯克希尔哈撒韦虽然是公司制，但管理层以合伙关系的态度对待股东。芒格和巴菲特将自己视为执行合伙人，股东则是所有者合伙人。五位董事中至少四位的家族净资产一半以上都是伯克希尔股份——\"我们自己吃自己做的菜\"。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1983 巴菲特致股东信"
+  },
+  {
+    "title": "1984 巴菲特致股东信",
+    "slug": "1984 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1984年伯克希尔哈撒韦净资产增加1.526亿美元，每股增长133美元，增长率为13.6%。虽然数字听起来不错，但必须与产生它的资本相比较。过去20年每股账面价值年复合增长率为22.1%，但这一增长率已成历史。要在未来十年达到15%的年均增长率，需要赚取约39亿美元，这需要几个大点子——小打小闹不行。芒格和巴菲特目前还没有好主意，但根据经验，好点子偶尔会冒出来。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1984 巴菲特致股东信"
+  },
+  {
+    "title": "1985 巴菲特致股东信",
+    "slug": "1985 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1985年伯克希尔净资产增加6.136亿美元，增幅48.2%。自现任管理层接手21年以来，每股账面价值年复合增长率约23.2%。但芒格和我认为这种增长率无法持续，原因有二：",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1985 巴菲特致股东信"
+  },
+  {
+    "title": "1986 巴菲特致股东信",
+    "slug": "1986 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "22年间，每股账面价值从19.46美元增长到2,073.06美元，净资产增长106倍，而流通股份增加不到1%。内在价值适度超过账面价值，两者比率相当稳定。1986年内在价值增长可能超过账面价值增长，主要归功于关键经理人在几乎不需要额外资本的情况下大幅提升了业务盈利能力——这种未被记录的商誉价值增长相当可观。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1986 巴菲特致股东信"
+  },
+  {
+    "title": "1987 巴菲特致股东信",
+    "slug": "1987 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1987年伯克希尔净资产增加4.64亿美元，增幅19.5%。自现任管理层接手23年来，每股账面价值由19.46美元增长到2,477.47美元，年复利增长率约23.1%。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1987 巴菲特致股东信"
+  },
+  {
+    "title": "1988 巴菲特致股东信",
+    "slug": "1988 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1988年伯克希尔哈撒韦净资产增加5.69亿美元，增幅20%。24年来每股账面价值从19.46美元增长到2,974.52美元，年复利增长率约23%。内在价值已大幅超越账面价值。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1988 巴菲特致股东信"
+  },
+  {
+    "title": "1989 巴菲特致股东信",
+    "slug": "1989 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "伯克希尔哈撒韦1989年净资产增加15.15亿美元。真正重要的是内在价值——通过对企业未来所有现金流折现计算得出。25年前账面价值19.46美元时，内在价值更低，因为资产绑在纺织业务上；如今大部分业务价值远超账面价值，这种从折价到溢价的演变意味着内在价值复合增长率比账面价值23.8%的增长率更高。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1989 巴菲特致股东信"
+  },
+  {
+    "title": "1990 巴菲特致股东信",
+    "slug": "1990 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1990年伯克希尔哈撒韦净资产增长3.62亿美元，增幅7.3%。四大核心持股——大都会通信/ABC、可口可乐、盖可保险和华盛顿邮报——市值变化不大。两家媒体公司股价因行业演变大幅下跌，可口可乐则大幅上涨。年底这些股票估值比一年前更合理。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1990 巴菲特致股东信"
+  },
+  {
+    "title": "1991 巴菲特致股东信",
+    "slug": "1991 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1991年伯克希尔哈撒韦净资产增加21亿美元，增幅39.6%。自现任管理层接手27年来，每股账面价值从19美元增长到6,437美元，年复利增长率约23.7%。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1991 巴菲特致股东信"
+  },
+  {
+    "title": "1992 巴菲特致股东信",
+    "slug": "1992 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1992年伯克希尔哈撒韦净资产增加15.2亿美元，超过98%来自经营收益与投资增值。因赎回可转换证券债券，部分持有人选择转股，公司发行了6,106股新股。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1992 巴菲特致股东信"
+  },
+  {
+    "title": "1993 巴菲特致股东信",
+    "slug": "1993 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1993年每股账面价值增长14.3%，净资产增加15亿美元。这个数字受到四项因素影响：会计准则变更导致税款调整减少净资产1.45亿美元，但有价证券按市价计算的新规则增加了1.72亿美元，发行新股又增加了4.78亿美元。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1993 巴菲特致股东信"
+  },
+  {
+    "title": "1994 巴菲特致股东信",
+    "slug": "1994 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "伯克希尔哈撒韦净资产已达119亿美元，而30年前仅2,200万美元。芒格和巴菲特坦承：未来表现将难以复制过去的辉煌。问题不在于方法失灵，而在于规模——太大的钱袋是获取卓越回报的大敌。现在只考虑1亿美元以上的投资，投资范围大幅缩小。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1994 巴菲特致股东信"
+  },
+  {
+    "title": "1995 巴菲特致股东信",
+    "slug": "1995 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1995年净资产增加53亿美元，增幅45%，每股账面价值增长43.1%。31年来每股账面价值从19美元成长到14,426美元，年复利增长率约23.6%。但巴菲特坦言在去年的股票市场里\"随便一个笨蛋都能大赚一笔\"，水涨船高——只不过涨的全是游艇。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1995 巴菲特致股东信"
+  },
+  {
+    "title": "1996 巴菲特致股东信",
+    "slug": "1996 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1996年伯克希尔哈撒韦净资产增加62亿美元，每股账面价值增长31.8%。由于发行新股收购飞安国际及发售B级普通股，流通股数有所增加。自现任管理层接手32年来，每股账面价值从19美元增长至19,011美元，年复利增长率约23.8%。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1996 巴菲特致股东信"
+  },
+  {
+    "title": "1997 巴菲特致股东信",
+    "slug": "1997 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1997年伯克希尔哈撒韦每股账面价值增长34.1%，33年来年复合增长率约24.1%。但巴菲特警告不要因此沾沾自喜——在大牛市中，任何投资人都能获得可观回报。他用\"暴风雨后呱呱大叫的骄傲鸭子\"来比喻那些把市场上涨归功于自己能力的人。与标普500指数相比，伯克希尔哈撒韦表现只是持平，而且还要承担42亿美元的联邦所得税负担。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1997 巴菲特致股东信"
+  },
+  {
+    "title": "1998 巴菲特致股东信",
+    "slug": "1998 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1998年伯克希尔哈撒韦账面价值增长48.3%，但巴菲特坦言这个数字\"比听起来要好\"。增长主要来自换股并购——由于股票以远高于账面价值的价格交易，每次发行新股都会立刻拉高每股账面价值，但并不会带来内在价值的即时增长。芒格和巴菲特反复强调，真正重要的是每股内在价值的增长。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1998 巴菲特致股东信"
+  },
+  {
+    "title": "1999 巴菲特致股东信",
+    "slug": "1999 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "1999年伯克希尔哈撒韦净资产仅增加3.58亿美元，无论绝对数字还是相对标普500指数，都是巴菲特35年任期内最差的一年。罪魁祸首是资本配置失误——股票投资组合表现糟糕，几笔大型投资标的因自身经营不佳而远远落后大盘。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/1999 巴菲特致股东信"
+  },
+  {
+    "title": "2000 巴菲特致股东信",
+    "slug": "2000 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "伯克希尔哈撒韦2000年净资产增加39.6亿美元，每股账面价值从19美元（36年前）增长至40,442美元。虽然账面价值增幅6.5%看似平淡，但超越了标普500指数（下跌9.1%）。巴菲特相信内在价值的增长适度超过账面价值增长。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/2000 巴菲特致股东信"
+  },
+  {
+    "title": "2001 巴菲特致股东信",
+    "slug": "2001 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "伯克希尔哈撒韦2001年每股账面价值下降6.2%，但相对标普500指数的-11.9%仍领先5.7个百分点。自1965年以来，公司年复合增长率达22.6%，累计回报194,936%。巴菲特强调相对业绩的重要性——只要能持续跑赢大盘，长期回报必然可观。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/2001 巴菲特致股东信"
+  },
+  {
+    "title": "2002 巴菲特致股东信",
+    "slug": "2002 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "2002年伯克希尔哈撒韦净资产增加61亿美元，38年来每股账面价值从19美元增至41,727美元，年复合增长率22.2%。芒格和我最多只期望每年稳定超越指数几个百分点，32.1个百分点的领先有些反常。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/2002 巴菲特致股东信"
+  },
+  {
+    "title": "2003 巴菲特致股东信",
+    "slug": "2003 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "2003年公司净资产增加136亿美元，每股账面价值从19美元成长到50,498美元。芒格和巴菲特强调，真正重要的是内在价值而非账面价值。伯克希尔已从一家摇摇欲坠的纺织企业蜕变为业务多元、内在价值远超账面价值的企业集团。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/2003 巴菲特致股东信"
+  },
+  {
+    "title": "2004 巴菲特致股东信",
+    "slug": "2004 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "2004年公司净资产增加83亿美元，每股账面价值增长10.5%。自1964年以来，伯克希尔哈撒韦从一家濒临倒闭的纺织企业蜕变为多元化集团，内在价值远超账面价值。由于股票投资占净资产比重已从1980年代的114%降至不足50%，单年度与标普500的对比参考意义下降，但长期跑赢指数仍是管理层存在价值的根本。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/2004 巴菲特致股东信"
+  },
+  {
+    "title": "2005 巴菲特致股东信",
+    "slug": "2005 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "巴菲特开篇即阐明报告目的：为股东提供估算伯克希尔哈撒韦内在价值所需的信息。他坦承内在价值计算\"不可避免地不够精确\"，但伯克希尔因拥有多种稳定收益来源、充裕流动性和极低负债，估值精度高于大多数公司。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/2005 巴菲特致股东信"
+  },
+  {
+    "title": "2006 巴菲特致股东信",
+    "slug": "2006 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "保险业是伯克希尔哈撒韦的核心业务。保险浮存金——虽不属于公司但可用于投资的资金——是理解保险经济特性的关键。当承保纪律持续产生利润时，浮存金的价值甚至超过同等规模的净资产，相当于使用免费资金赚钱。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/2006 巴菲特致股东信"
+  },
+  {
+    "title": "2007 巴菲特致股东信",
+    "slug": "2007 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "2007年伯克希尔哈撒韦76家运营业务总体表现良好，少数与房地产相关的业务（砖块、地毯、房地产经纪）受到轻微冲击。与此同时，大型金融机构因深陷\"放松的放贷标准\"而遭遇触目惊心的问题。富国银行CEO对此评论道：\"旧的赔钱方法还好端端的，这个行业偏要发明新的赔钱方法。\"",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/2007 巴菲特致股东信"
+  },
+  {
+    "title": "2008 巴菲特致股东信",
+    "slug": "2008 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "2008年金融危机席卷全球，信贷市场停摆，恐惧与商业萎缩形成恶性循环。政府被迫\"全押\"救市，但巴菲特提醒这必然带来后遗症，尤其是通货膨胀。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/2008 巴菲特致股东信"
+  },
+  {
+    "title": "2009 巴菲特致股东信",
+    "slug": "2009 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "芒格和巴菲特选择内在价值的替代指标——每股账面价值来衡量业绩，并以标普500指数为标杆。理由很简单：股东持有指数基金几乎不费成本就能取得同样业绩，管理层必须证明自己能创造超额价值。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/2009 巴菲特致股东信"
+  },
+  {
+    "title": "2010 巴菲特致股东信",
+    "slug": "2010 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "2010年伯克希尔哈撒韦每股账面价值增长13%。年度最大亮点是完成BNSF铁路收购，交易效果超出预期。这笔收购使公司股份增加6%，动用220亿美元现金，但现金很快得到补充，经济效益非常出色。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/2010 巴菲特致股东信"
+  },
+  {
+    "title": "2011 巴菲特致股东信",
+    "slug": "2011 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "董事会在接班人规划上投入了大量时间和精力。2011年初托德·库姆斯加入，年底后泰德·韦施勒也加入团队。两人都具备杰出的投资才能，完全能够在芒格和巴菲特不再管理时接管整个投资组合。CEO继任者也已确定，还有两位出色的后备人选。巴菲特超过98%的净资产都投在伯克希尔哈撒韦股票上，对公司前景充满信心。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/2011 巴菲特致股东信"
+  },
+  {
+    "title": "2012 巴菲特致股东信",
+    "slug": "2012 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "2012年伯克希尔哈撒韦为股东创造241亿美元收益，动用13亿美元回购股票后净资产增加228亿美元。48年来每股账面价值从19美元增长到114,214美元，年复合增长率19.7%。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/2012 巴菲特致股东信"
+  },
+  {
+    "title": "2013 巴菲特致股东信",
+    "slug": "2013 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "2013年伯克希尔哈撒韦每股账面价值增长18.2%，但在标普500指数大涨32.4%的强劲市场中暂时落后。芒格和巴菲特认为这符合预期：在市场温和或下跌年份能跑赢，强劲上涨年份会暂时落后。从2007年底到2013年底的完整周期看，伯克希尔跑赢了标普。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/2013 巴菲特致股东信"
+  },
+  {
+    "title": "2014 巴菲特致股东信",
+    "slug": "2014 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "50年来，伯克希尔哈撒韦每股账面价值从19美元增长至146,186美元。早期公司资产主要是有价证券，账面价值与内在价值关系紧密。如今重心转向经营大型企业，许多企业价值远超账面价值，但这些增值永远不会向上调整，导致两者差距大幅扩大。因此首页业绩表新增了股价历史记录——长期来看，股价和内在价值几乎总是趋于吻合。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/2014 巴菲特致股东信"
+  },
+  {
+    "title": "2015 巴菲特致股东信",
+    "slug": "2015 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "伯克希尔哈撒韦2015年每股账面价值增长6.4%。早期公司资源主要配置在有价证券上，账面价值与内在价值大致相当。但1990年代初转向完全持有企业后，会计准则的不对称处理——\"输家\"减记而\"赢家\"不上调——导致两者差距不断拉大。如今内在价值远超账面价值，这也是公司愿意在股价低于账面价值120%时回购股票的原因。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/2015 巴菲特致股东信"
+  },
+  {
+    "title": "2016 巴菲特致股东信",
+    "slug": "2016 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "2016年伯克希尔哈撒韦净资产增加275亿美元，每股账面价值增长10.7%。52年来每股账面价值从19美元增至172,108美元。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/2016 巴菲特致股东信"
+  },
+  {
+    "title": "2017 巴菲特致股东信",
+    "slug": "2017 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "2017年伯克希尔哈撒韦净资产增长653亿美元，每股账面价值增长23%。但这并非寻常年份——360亿美元来自经营，290亿美元是税改带来的一次性收益。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/2017 巴菲特致股东信"
+  },
+  {
+    "title": "2018 巴菲特致股东信",
+    "slug": "2018 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "2018年伯克希尔哈撒韦按GAAP报告盈利40亿美元，包含248亿美元经营收益、30亿美元卡夫亨氏无形资产减值、28亿美元已实现资本利得，以及206亿美元未实现资本利得减少带来的亏损。新会计准则要求将投资组合的市值变动计入当期收益，芒格和我都认为这不合理。季度GAAP收益因此剧烈波动，但经营收益全年增长41%，达到历史新高。投资者应关注经营收益，忽略各种利得或亏损。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/2018 巴菲特致股东信"
+  },
+  {
+    "title": "2019 巴菲特致股东信",
+    "slug": "2019 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "2019年伯克希尔哈撒韦GAAP收益814亿美元，其中537亿来自股票未实现收益增长。芒格和巴菲特都不认同2018年实施的新规则——它要求将股票组合的每一次波动都计入损益。2018年股市下跌导致报告收益仅40亿，2019年股市上涨则暴增至814亿，两年间GAAP收益疯狂波动1,900%。但在现实世界中，伯克希尔哈撒韦的股票持仓内在价值一直在稳步增长。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/2019 巴菲特致股东信"
+  },
+  {
+    "title": "2020 巴菲特致股东信",
+    "slug": "2020 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "2020年伯克希尔哈撒韦按GAAP计算利润425亿美元，包括：219亿美元经营收益、49亿美元已实现资本利得、267亿美元未实现资本利得增加、110亿美元减值亏损。巴菲特强调经营收益才是最重要的指标，公司的工作重点是增加经营收益和收购优质企业，但去年两个目标都未达成。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/2020 巴菲特致股东信"
+  },
+  {
+    "title": "2021 巴菲特致股东信",
+    "slug": "2021 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "很多人把伯克希尔哈撒韦看作金融资产集合体，但事实上公司拥有的美国基础设施资产比任何其他美国公司都多。公司与美国政府之间存在一种\"看不见的财务合伙关系\"——1955年合并时每天只缴100美元税，如今每天缴纳约900万美元。复利的力量加上收益再投资，让股东和财政部都成为受益者。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/2021 巴菲特致股东信"
+  },
+  {
+    "title": "2022 巴菲特致股东信",
+    "slug": "2022 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "芒格和巴菲特管理着大批个人投资者的积蓄，这些股东大多是\"一日储蓄者，终身储蓄者\"，最终会把大部分资金捐给慈善组织。伯克希尔哈撒韦的资本配置分为两种形式：控股企业（通常100%持有）和上市公司股票的被动持有。两种形式追求同一目标——投资于具有长期优良经济特质和值得信赖管理层的企业。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/2022 巴菲特致股东信"
+  },
+  {
+    "title": "2023 巴菲特致股东信",
+    "slug": "2023 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "巴菲特开篇就挑战了官方财务报告的有用性。按GAAP计算的\"净利润\"——2021年900亿、2022年负230亿、2023年960亿——这种剧烈波动让人困惑。问题在于这些数字包含了未实现的内在价值变动，有时一天波动就超过50亿美元。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/2023 巴菲特致股东信"
+  },
+  {
+    "title": "2024 巴菲特致股东信",
+    "slug": "2024 巴菲特致股东信",
+    "category": "letters",
+    "type": "letter-summary",
+    "summary": "伯克希尔哈撒韦的\"报告\"意味着超越法律要求的责任——向股东如实汇报好消息和坏消息。在2019至2023年间，巴菲特在信中使用了16次\"错误\"或\"失误\"，而许多大公司从未用过这类词。",
+    "tags": [
+      "股东信",
+      "伯克希尔",
+      "letter-summary"
+    ],
+    "path": "letters/2024 巴菲特致股东信"
+  }
+]

@@ -1,0 +1,182 @@
+# 操作日志
+
+## 2026-04-15
+
+- 初始化项目结构 buffet1/
+- 复制原始数据到 raw/ 目录（35篇合伙人信 + 60篇股东信 + 49概念 + 61公司 + 7人物 + 26访谈）
+- 创建 SCHEMA.md、README.md、ARCHITECTURE.md
+- 运行 convert_existing.py：转换 117 个概念/公司/人物页面
+- 运行 fix_headings2.py：修复标题 113/120 文件
+- 运行 fix_paragraphs.py：修复段落 111/120 文件
+- 运行 build-data.py：生成 wiki-index (117条) + graph (117节点/1113边)
+- 前端 Vue 3 网站构建完成，已在 http://localhost:5173 运行
+
+
+## 2026-04-16
+
+- 摄取: 2025年伯克希尔股东大会.md → wiki\interviews\2025年伯克希尔股东大会.md
+- 摄取: 1985巴菲特电视采访.md → wiki\interviews\1985巴菲特电视采访.md
+- 摄取: 1990年巴菲特在斯坦福大学的演讲.md → wiki\interviews\1990年巴菲特在斯坦福大学的演讲.md
+- 摄取: 1991巴菲特对圣母大学对MBA学生的演讲.md → wiki\interviews\1991巴菲特对圣母大学对MBA学生的演讲.md
+- 摄取: 1998巴菲特在佛罗里达大学商学院的演讲.md → wiki\interviews\1998巴菲特在佛罗里达大学商学院的演讲.md
+- 摄取: 1998年巴菲特与比尔盖茨在华盛顿大学的对话.md → wiki\interviews\1998年巴菲特与比尔盖茨在华盛顿大学的对话.md
+- 摄取: 2005堪萨斯商学院学生于伯克希尔总部与沃伦·巴菲特的问答.md → wiki\interviews\2005堪萨斯商学院学生于伯克希尔总部与沃伦·巴菲特的问答.md
+- 摄取: 2007年央视专访巴菲特.md → wiki\interviews\2007年央视专访巴菲特.md
+- 摄取: 2008巴菲特答Emory与Austin大学商学院学生问巴菲特答.md → wiki\interviews\2008巴菲特答Emory与Austin大学商学院学生问巴菲特答.md
+- 摄取: 2010央视财经采访巴菲特.md → wiki\interviews\2010央视财经采访巴菲特.md
+- 摄取: 2010年CNBC采访巴菲特全文.md → wiki\interviews\2010年CNBC采访巴菲特全文.md
+- 摄取: 2011年巴菲特与南京大学EMBA学生畅言谈投资与人生全中文纪录.md → wiki\interviews\2011年巴菲特与南京大学EMBA学生畅言谈投资与人生全中文纪录.md
+- 摄取: 2013巴菲特与马里兰大学MBA学生的交流发言.md → wiki\interviews\2013巴菲特与马里兰大学MBA学生的交流发言.md
+- 摄取: 2015沃伦·巴菲特答Ivey商学院MBA学生问沃伦·巴菲特答.md → wiki\interviews\2015沃伦·巴菲特答Ivey商学院MBA学生问沃伦·巴菲特答.md
+- 摄取: 2016年巴菲特与8所大学MBA学生见面会的20个问答.md → wiki\interviews\2016年巴菲特与8所大学MBA学生见面会的20个问答.md
+- 摄取: 2017年CNBC采访巴菲特.md → wiki\interviews\2017年CNBC采访巴菲特.md
+- 摄取: 2017年哥伦比亚大学——人生最美好的事是什么？巴菲特：没考上哈佛大学.md → wiki\interviews\2017年哥伦比亚大学——人生最美好的事是什么？巴菲特：没考上哈佛大学.md
+- 摄取: 2017年巴菲特对话北京大学学生：最好的投资是投资自己.md → wiki\interviews\2017年巴菲特对话北京大学学生：最好的投资是投资自己.md
+- 摄取: 2018年巴菲特再度邀请北大光华学子共进午餐问答全记录.md → wiki\interviews\2018年巴菲特再度邀请北大光华学子共进午餐问答全记录.md
+- 摄取: 2019年5月雅虎财经专访巴菲特.md → wiki\interviews\2019年5月雅虎财经专访巴菲特.md
+- 摄取: 2020年沃伦·巴菲特接受CNBC专访.md → wiki\interviews\2020年沃伦·巴菲特接受CNBC专访.md
+- 摄取: 2022巴菲特和查理罗斯对谈.md → wiki\interviews\2022巴菲特和查理罗斯对谈.md
+- 摄取: 2023年伯克希尔股东大会.md → wiki\interviews\2023年伯克希尔股东大会.md
+- 摄取: 2024年伯克希尔股东大会.md → wiki\interviews\2024年伯克希尔股东大会.md
+- 摄取: extra_1998_buffett_florida.md → wiki\interviews\extra_1998_buffett_florida.md
+- 摄取: extra_2013_University_of_Maryland.md → wiki\interviews\extra_2013_University_of_Maryland.md
+- 摄取: 1965 巴菲特致股东信.md → wiki\letters\1965 巴菲特致股东信.md
+- 摄取: 1966 巴菲特致股东信.md → wiki\letters\1966 巴菲特致股东信.md
+- 摄取: 1967 巴菲特致股东信.md → wiki\letters\1967 巴菲特致股东信.md
+- 摄取: 1968 巴菲特致股东信.md → wiki\letters\1968 巴菲特致股东信.md
+- 摄取: 1969 巴菲特致股东信.md → wiki\letters\1969 巴菲特致股东信.md
+- 摄取: 1970 巴菲特致股东信.md → wiki\letters\1970 巴菲特致股东信.md
+- 摄取: 1971 巴菲特致股东信.md → wiki\letters\1971 巴菲特致股东信.md
+- 摄取: 1972 巴菲特致股东信.md → wiki\letters\1972 巴菲特致股东信.md
+- 摄取: 1973 巴菲特致股东信.md → wiki\letters\1973 巴菲特致股东信.md
+- 摄取: 1974 巴菲特致股东信.md → wiki\letters\1974 巴菲特致股东信.md
+- 摄取: 1975 巴菲特致股东信.md → wiki\letters\1975 巴菲特致股东信.md
+- 摄取: 1956 有限合伙协议.md → wiki\letters\1956 有限合伙协议.md
+- 摄取: 1956 有限合伙协议.md → wiki\letters\1956 有限合伙协议.md
+- 摄取: 1957 巴菲特致合伙人信.md → wiki\letters\1957 巴菲特致合伙人信.md
+- 摄取: 1957 巴菲特致合伙人信.md → wiki\letters\1957 巴菲特致合伙人信.md
+- 摄取: 1958 巴菲特致合伙人信.md → wiki\letters\1958 巴菲特致合伙人信.md
+- 摄取: 1958 巴菲特致合伙人信.md → wiki\letters\1958 巴菲特致合伙人信.md
+- 摄取: 1959 巴菲特致合伙人信.md → wiki\letters\1959 巴菲特致合伙人信.md
+- 摄取: 1959 巴菲特致合伙人信.md → wiki\letters\1959 巴菲特致合伙人信.md
+- 摄取: 1960 巴菲特致合伙人信.md → wiki\letters\1960 巴菲特致合伙人信.md
+- 摄取: 1960 巴菲特致合伙人信.md → wiki\letters\1960 巴菲特致合伙人信.md
+- 摄取: 1961 巴菲特致合伙人信.md → wiki\letters\1961 巴菲特致合伙人信.md
+- 摄取: 1961 巴菲特致合伙人信.md → wiki\letters\1961 巴菲特致合伙人信.md
+- 摄取: 1961年中 巴菲特致合伙人信.md → wiki\letters\1961年中 巴菲特致合伙人信.md
+- 摄取: 1961年中 巴菲特致合伙人信.md → wiki\letters\1961年中 巴菲特致合伙人信.md
+- 摄取: 1962 巴菲特致合伙人信.md → wiki\letters\1962 巴菲特致合伙人信.md
+- 摄取: 1962 巴菲特致合伙人信.md → wiki\letters\1962 巴菲特致合伙人信.md
+- 摄取: 1962年11月 巴菲特致合伙人信.md → wiki\letters\1962年11月 巴菲特致合伙人信.md
+- 摄取: 1962年12月 巴菲特致合伙人信.md → wiki\letters\1962年12月 巴菲特致合伙人信.md
+- 摄取: 1962年11月 巴菲特致合伙人信.md → wiki\letters\1962年11月 巴菲特致合伙人信.md
+- 摄取: 1962年中 巴菲特致合伙人信.md → wiki\letters\1962年中 巴菲特致合伙人信.md
+- 摄取: 1962年中 巴菲特致合伙人信.md → wiki\letters\1962年中 巴菲特致合伙人信.md
+- 摄取: 1963 巴菲特致合伙人信.md → wiki\letters\1963 巴菲特致合伙人信.md
+- 摄取: 1963 巴菲特致合伙人信.md → wiki\letters\1963 巴菲特致合伙人信.md
+- 摄取: 1963年11月 巴菲特致合伙人信.md → wiki\letters\1963年11月 巴菲特致合伙人信.md
+- 摄取: 1963年11月 巴菲特致合伙人信.md → wiki\letters\1963年11月 巴菲特致合伙人信.md
+- 摄取: 1963年12月 巴菲特致合伙人信.md → wiki\letters\1963年12月 巴菲特致合伙人信.md
+- 摄取: 1963年12月 巴菲特致合伙人信.md → wiki\letters\1963年12月 巴菲特致合伙人信.md
+- 摄取: 1963年中 巴菲特致合伙人信.md → wiki\letters\1963年中 巴菲特致合伙人信.md
+- 摄取: 1963年中 巴菲特致合伙人信.md → wiki\letters\1963年中 巴菲特致合伙人信.md
+- 摄取: 1964 巴菲特致合伙人信.md → wiki\letters\1964 巴菲特致合伙人信.md
+- 摄取: 1964 巴菲特致合伙人信.md → wiki\letters\1964 巴菲特致合伙人信.md
+- 摄取: 1964年中 巴菲特致合伙人信.md → wiki\letters\1964年中 巴菲特致合伙人信.md
+- 摄取: 1964年中 巴菲特致合伙人信.md → wiki\letters\1964年中 巴菲特致合伙人信.md
+- 摄取: 1965 巴菲特致合伙人信.md → wiki\letters\1965 巴菲特致合伙人信.md
+- 摄取: 1965 巴菲特致合伙人信.md → wiki\letters\1965 巴菲特致合伙人信.md
+- 摄取: 1965年11月 巴菲特致合伙人信.md → wiki\letters\1965年11月 巴菲特致合伙人信.md
+- 摄取: 1965年11月 巴菲特致合伙人信.md → wiki\letters\1965年11月 巴菲特致合伙人信.md
+- 摄取: 1965年中 巴菲特致合伙人信.md → wiki\letters\1965年中 巴菲特致合伙人信.md
+- 摄取: 1965年中 巴菲特致合伙人信.md → wiki\letters\1965年中 巴菲特致合伙人信.md
+- 摄取: 1966 巴菲特致合伙人信.md → wiki\letters\1966 巴菲特致合伙人信.md
+- 摄取: 1966 巴菲特致合伙人信.md → wiki\letters\1966 巴菲特致合伙人信.md
+- 摄取: 1966年11月 巴菲特致合伙人信.md → wiki\letters\1966年11月 巴菲特致合伙人信.md
+- 摄取: 1966年11月 巴菲特致合伙人信.md → wiki\letters\1966年11月 巴菲特致合伙人信.md
+- 摄取: 1966年中 巴菲特致合伙人信.md → wiki\letters\1966年中 巴菲特致合伙人信.md
+- 摄取: 1966年中 巴菲特致合伙人信.md → wiki\letters\1966年中 巴菲特致合伙人信.md
+- 摄取: 1967 巴菲特致合伙人信.md → wiki\letters\1967 巴菲特致合伙人信.md
+- 摄取: 1967 巴菲特致合伙人信.md → wiki\letters\1967 巴菲特致合伙人信.md
+- 摄取: 1967年10月 巴菲特致合伙人信.md → wiki\letters\1967年10月 巴菲特致合伙人信.md
+- 摄取: 1967年10月 巴菲特致合伙人信.md → wiki\letters\1967年10月 巴菲特致合伙人信.md
+- 摄取: 1967年11月 巴菲特致合伙人信.md → wiki\letters\1967年11月 巴菲特致合伙人信.md
+- 摄取: 1967年11月 巴菲特致合伙人信.md → wiki\letters\1967年11月 巴菲特致合伙人信.md
+- 摄取: 1967年中 巴菲特致合伙人信.md → wiki\letters\1967年中 巴菲特致合伙人信.md
+- 摄取: 1967年中 巴菲特致合伙人信.md → wiki\letters\1967年中 巴菲特致合伙人信.md
+- 摄取: 1968 巴菲特致合伙人信.md → wiki\letters\1968 巴菲特致合伙人信.md
+- 摄取: 1968 巴菲特致合伙人信.md → wiki\letters\1968 巴菲特致合伙人信.md
+- 摄取: 1968年11月 巴菲特致合伙人信.md → wiki\letters\1968年11月 巴菲特致合伙人信.md
+- 摄取: 1968年11月 巴菲特致合伙人信.md → wiki\letters\1968年11月 巴菲特致合伙人信.md
+- 摄取: 1968年中 巴菲特致合伙人信.md → wiki\letters\1968年中 巴菲特致合伙人信.md
+- 摄取: 1968年中 巴菲特致合伙人信.md → wiki\letters\1968年中 巴菲特致合伙人信.md
+- 摄取: 1969年10月 巴菲特致合伙人信.md → wiki\letters\1969年10月 巴菲特致合伙人信.md
+- 摄取: 1969年10月 巴菲特致合伙人信.md → wiki\letters\1969年10月 巴菲特致合伙人信.md
+- 摄取: 1969年12月 巴菲特致合伙人信.md → wiki\letters\1969年12月 巴菲特致合伙人信.md
+- 摄取: 1969年12月 巴菲特致合伙人信.md → wiki\letters\1969年12月 巴菲特致合伙人信.md
+- 摄取: 1969年12月26日 巴菲特致合伙人信.md → wiki\letters\1969年12月26日 巴菲特致合伙人信.md
+- 摄取: 1969年12月26日 巴菲特致合伙人信.md → wiki\letters\1969年12月26日 巴菲特致合伙人信.md
+- 摄取: 1969年5月 巴菲特致合伙人信.md → wiki\letters\1969年5月 巴菲特致合伙人信.md
+- 摄取: 1969年5月 巴菲特致合伙人信.md → wiki\letters\1969年5月 巴菲特致合伙人信.md
+- 摄取: 1970年2月 巴菲特致合伙人信.md → wiki\letters\1970年2月 巴菲特致合伙人信.md
+- 摄取: 1970年2月 巴菲特致合伙人信.md → wiki\letters\1970年2月 巴菲特致合伙人信.md
+- 摄取: 1965 巴菲特致股东信.md → wiki\letters\1965 巴菲特致股东信.md
+- 摄取: 1966 巴菲特致股东信.md → wiki\letters\1966 巴菲特致股东信.md
+- 摄取: 1967 巴菲特致股东信.md → wiki\letters\1967 巴菲特致股东信.md
+- 摄取: 1968 巴菲特致股东信.md → wiki\letters\1968 巴菲特致股东信.md
+- 摄取: 1969 巴菲特致股东信.md → wiki\letters\1969 巴菲特致股东信.md
+- 摄取: 1970 巴菲特致股东信.md → wiki\letters\1970 巴菲特致股东信.md
+- 摄取: 1971 巴菲特致股东信.md → wiki\letters\1971 巴菲特致股东信.md
+- 摄取: 1972 巴菲特致股东信.md → wiki\letters\1972 巴菲特致股东信.md
+- 摄取: 1973 巴菲特致股东信.md → wiki\letters\1973 巴菲特致股东信.md
+- 摄取: 1974 巴菲特致股东信.md → wiki\letters\1974 巴菲特致股东信.md
+- 摄取: 1975 巴菲特致股东信.md → wiki\letters\1975 巴菲特致股东信.md
+- 摄取: 1976 巴菲特致股东信.md → wiki\letters\1976 巴菲特致股东信.md
+- 摄取: 1977 巴菲特致股东信.md → wiki\letters\1977 巴菲特致股东信.md
+- 摄取: 1978 巴菲特致股东信.md → wiki\letters\1978 巴菲特致股东信.md
+- 摄取: 1979 巴菲特致股东信.md → wiki\letters\1979 巴菲特致股东信.md
+- 摄取: 1980 巴菲特致股东信.md → wiki\letters\1980 巴菲特致股东信.md
+- 摄取: 1981 巴菲特致股东信.md → wiki\letters\1981 巴菲特致股东信.md
+- 摄取: 1982 巴菲特致股东信.md → wiki\letters\1982 巴菲特致股东信.md
+- 摄取: 1983 巴菲特致股东信.md → wiki\letters\1983 巴菲特致股东信.md
+- 摄取: 1984 巴菲特致股东信.md → wiki\letters\1984 巴菲特致股东信.md
+- 摄取: 1985 巴菲特致股东信.md → wiki\letters\1985 巴菲特致股东信.md
+- 摄取: 1986 巴菲特致股东信.md → wiki\letters\1986 巴菲特致股东信.md
+- 摄取: 1987 巴菲特致股东信.md → wiki\letters\1987 巴菲特致股东信.md
+- 摄取: 1988 巴菲特致股东信.md → wiki\letters\1988 巴菲特致股东信.md
+- 摄取: 1989 巴菲特致股东信.md → wiki\letters\1989 巴菲特致股东信.md
+- 摄取: 1990 巴菲特致股东信.md → wiki\letters\1990 巴菲特致股东信.md
+- 摄取: 1991 巴菲特致股东信.md → wiki\letters\1991 巴菲特致股东信.md
+- 摄取: 1992 巴菲特致股东信.md → wiki\letters\1992 巴菲特致股东信.md
+- 摄取: 1993 巴菲特致股东信.md → wiki\letters\1993 巴菲特致股东信.md
+- 摄取: 1994 巴菲特致股东信.md → wiki\letters\1994 巴菲特致股东信.md
+- 摄取: 1995 巴菲特致股东信.md → wiki\letters\1995 巴菲特致股东信.md
+- 摄取: 1996 巴菲特致股东信.md → wiki\letters\1996 巴菲特致股东信.md
+- 摄取: 1997 巴菲特致股东信.md → wiki\letters\1997 巴菲特致股东信.md
+- 摄取: 1998 巴菲特致股东信.md → wiki\letters\1998 巴菲特致股东信.md
+- 摄取: 1999 巴菲特致股东信.md → wiki\letters\1999 巴菲特致股东信.md
+- 摄取: 2000 巴菲特致股东信.md → wiki\letters\2000 巴菲特致股东信.md
+- 摄取: 2001 巴菲特致股东信.md → wiki\letters\2001 巴菲特致股东信.md
+- 摄取: 2002 巴菲特致股东信.md → wiki\letters\2002 巴菲特致股东信.md
+- 摄取: 2003 巴菲特致股东信.md → wiki\letters\2003 巴菲特致股东信.md
+- 摄取: 2004 巴菲特致股东信.md → wiki\letters\2004 巴菲特致股东信.md
+- 摄取: 2005 巴菲特致股东信.md → wiki\letters\2005 巴菲特致股东信.md
+- 摄取: 2006 巴菲特致股东信.md → wiki\letters\2006 巴菲特致股东信.md
+- 摄取: 2007 巴菲特致股东信.md → wiki\letters\2007 巴菲特致股东信.md
+- 摄取: 2008 巴菲特致股东信.md → wiki\letters\2008 巴菲特致股东信.md
+- 摄取: 2009 巴菲特致股东信.md → wiki\letters\2009 巴菲特致股东信.md
+- 摄取: 2010 巴菲特致股东信.md → wiki\letters\2010 巴菲特致股东信.md
+- 摄取: 2011 巴菲特致股东信.md → wiki\letters\2011 巴菲特致股东信.md
+- 摄取: 2012 巴菲特致股东信.md → wiki\letters\2012 巴菲特致股东信.md
+- 摄取: 2013 巴菲特致股东信.md → wiki\letters\2013 巴菲特致股东信.md
+- 摄取: 2014 巴菲特致股东信.md → wiki\letters\2014 巴菲特致股东信.md
+- 摄取: 2015 巴菲特致股东信.md → wiki\letters\2015 巴菲特致股东信.md
+- 摄取: 2016 巴菲特致股东信.md → wiki\letters\2016 巴菲特致股东信.md
+- 摄取: 2017 巴菲特致股东信.md → wiki\letters\2017 巴菲特致股东信.md
+- 摄取: 2018 巴菲特致股东信.md → wiki\letters\2018 巴菲特致股东信.md
+- 摄取: 2019 巴菲特致股东信.md → wiki\letters\2019 巴菲特致股东信.md
+- 摄取: 2020 巴菲特致股东信.md → wiki\letters\2020 巴菲特致股东信.md
+- 摄取: 2021 巴菲特致股东信.md → wiki\letters\2021 巴菲特致股东信.md
+- 摄取: 2022 巴菲特致股东信.md → wiki\letters\2022 巴菲特致股东信.md
+- 摄取: 2023 巴菲特致股东信.md → wiki\letters\2023 巴菲特致股东信.md
+- 摄取: 2024 巴菲特致股东信.md → wiki\letters\2024 巴菲特致股东信.md

@@ -7,8 +7,8 @@
   ],
   "functions": {
     "api/*.js": {
-      "includeFiles": "public/data/**",
-      "runtime": "nodejs20.x"
+      "includeFiles": "public/data/**/*.{json,md}",
+      "maxDuration": 30
     }
   },
   "headers": [

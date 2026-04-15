@@ -7,15 +7,14 @@ export default async function handler(req, res) {
   }
 
   try {
-    // 解析 body
     let password = ''
     if (typeof req.body === 'object' && req.body !== null) {
-      password = req.body.password || ''
+      password = String(req.body.password || '').trim()
     } else if (typeof req.body === 'string') {
-      try { password = JSON.parse(req.body).password || '' } catch { password = '' }
+      try { password = String(JSON.parse(req.body).password || '').trim() } catch { password = '' }
     }
 
-    const expectedPassword = process.env.ACCESS_PASSWORD || process.env.ACCESS_PASSWORD || .REDACTED_FALLBACK.
+    const expectedPassword = String(process.env.ACCESS_PASSWORD || process.env.ACCESS_PASSWORD || .REDACTED_FALLBACK.).trim()
 
     if (password === expectedPassword) {
       const salt = crypto.randomBytes(16).toString('hex')
@@ -23,7 +22,12 @@ export default async function handler(req, res) {
       return res.json({ ok: true, token })
     }
 
-    return res.json({ ok: false, debug: { received: password ? '***' : 'empty', envSet: !!process.env.ACCESS_PASSWORD } })
+    // Debug only in non-production
+    if (process.env.NODE_ENV !== 'production') {
+      return res.json({ ok: false, debug: { receivedLen: password.length, expectedLen: expectedPassword.length, receivedCharCodes: [...password].map(c => c.charCodeAt(0)), expectedCharCodes: [...expectedPassword].map(c => c.charCodeAt(0)) } })
+    }
+
+    return res.json({ ok: false })
   } catch (e) {
     return res.status(500).json({ ok: false, error: 'server error' })
   }
